@@ -19,10 +19,28 @@ function categorize(name) {
   return "misc";
 }
 
+// Extract real emoji character from GitHub CDN URL
+// e.g. .../unicode/1f680.png → 🚀
+// e.g. .../unicode/1f1e8-1f1f3.png → 🇨🇳 (multi-codepoint)
+function getEmojiChar(url) {
+  const match = url.match(/unicode\/([0-9a-f-]+)\.png/i);
+  if (!match) return null;
+  try {
+    const codepoints = match[1].split("-").map(cp => parseInt(cp, 16));
+    return String.fromCodePoint(...codepoints);
+  } catch {
+    return null;
+  }
+}
+
 async function init() {
   const response = await fetch("emojis.json");
   const raw = await response.json();
-  allEmojis = raw.map(e => ({ ...e, category: categorize(e.name) }));
+  allEmojis = raw.map(e => ({
+    ...e,
+    category: categorize(e.name),
+    char: getEmojiChar(e.url),
+  }));
 
   document.getElementById("total-counter").textContent =
     `✨ ${allEmojis.length} GitHub emojis available`;
@@ -31,7 +49,6 @@ async function init() {
 
   document.getElementById("search").addEventListener("input", applyFilters);
 
-  // Deep link via URL hash
   const hash = window.location.hash.replace("#", "").toLowerCase();
   if (hash && CATEGORIES.find(c => c.id === hash)) {
     setCategory(hash);
@@ -83,27 +100,54 @@ function render(emojis) {
   count.textContent = `Showing ${emojis.length} emoji${emojis.length !== 1 ? "s" : ""}`;
   grid.innerHTML = "";
 
-  emojis.forEach(({ name, url }) => {
+  emojis.forEach(({ name, url, char }) => {
     const card = document.createElement("div");
     card.className = "card";
-    card.innerHTML = `
-      <img src="${url}" alt="${name}" loading="lazy" />
-      <span class="code">:${name}:</span>
-    `;
-    card.addEventListener("click", () => {
-      navigator.clipboard.writeText(`:${name}:`).then(() => {
-        card.classList.add("copied");
-        setTimeout(() => card.classList.remove("copied"), 400);
-        showToast(`:${name}:`);
+
+    const img = document.createElement("img");
+    img.src = url;
+    img.alt = name;
+    img.loading = "lazy";
+    img.title = char ? `Copy ${char}` : `Copy :${name}:`;
+
+    const code = document.createElement("span");
+    code.className = "code";
+    code.textContent = `:${name}:`;
+    code.title = `Copy :${name}:`;
+
+    // Click emoji image → copy real emoji char (fallback to shortcode)
+    img.addEventListener("click", (e) => {
+      e.stopPropagation();
+      const toCopy = char || `:${name}:`;
+      navigator.clipboard.writeText(toCopy).then(() => {
+        flashCard(card);
+        showToast(`Copied ${toCopy}`);
       });
     });
+
+    // Click shortcode → copy GitHub markdown shortcode
+    code.addEventListener("click", (e) => {
+      e.stopPropagation();
+      navigator.clipboard.writeText(`:${name}:`).then(() => {
+        flashCard(card);
+        showToast(`Copied :${name}:`);
+      });
+    });
+
+    card.appendChild(img);
+    card.appendChild(code);
     grid.appendChild(card);
   });
 }
 
-function showToast(code) {
+function flashCard(card) {
+  card.classList.add("copied");
+  setTimeout(() => card.classList.remove("copied"), 400);
+}
+
+function showToast(msg) {
   const toast = document.getElementById("toast");
-  toast.textContent = `Copied ${code}`;
+  toast.textContent = msg;
   toast.classList.add("show");
   setTimeout(() => toast.classList.remove("show"), 1000);
 }

@@ -174,10 +174,18 @@ h1 {
   text-align: center;
   word-break: break-all;
   line-height: 1.2;
+  border-radius: 4px;
+  padding: 1px 3px;
+  transition: background 0.15s, color 0.15s, opacity 0.15s;
+}
+
+.code:hover {
+  background: rgba(56, 139, 253, 0.15);
+  color: #58a6ff;
+  opacity: 1;
 }
 
 .card:hover .code {
-  color: #58a6ff;
   opacity: 1;
 }
 
