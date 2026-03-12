@@ -9,8 +9,12 @@ Automatically generated GitHub emoji list using the official [GitHub Emoji API](
 - 🔍 Searchable emoji explorer
 - 📋 Click any emoji to copy its shortcode
 - 🔄 Auto-updated weekly via GitHub Actions
+- 🚀 Deployed with GitHub Pages
 
-## Links
+## Live Demo
 
-- [Emoji Cheat Sheet (Markdown)](./emojis.md)
-- [Emoji Explorer (GitHub Pages)](https://camiladiasds.github.io/github-emoji-cheatsheet)
+👉 [camiladiasds.github.io/github-emoji-cheatsheet](https://camiladiasds.github.io/github-emoji-cheatsheet/)
+
+## Emoji List
+
+See the full markdown list: [emojis.md](./emojis.md)

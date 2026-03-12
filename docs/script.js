@@ -3,6 +3,11 @@ let allEmojis = [];
 async function init() {
   const response = await fetch("emojis.json");
   allEmojis = await response.json();
+
+  // Total counter
+  const totalCounter = document.getElementById("total-counter");
+  totalCounter.textContent = `✨ ${allEmojis.length} GitHub emojis available`;
+
   render(allEmojis);
 
   document.getElementById("search").addEventListener("input", (e) => {
@@ -18,25 +23,31 @@ function render(emojis) {
   const grid = document.getElementById("grid");
   const count = document.getElementById("count");
 
-  count.textContent = `${emojis.length} emoji${emojis.length !== 1 ? "s" : ""}`;
+  count.textContent = `Showing ${emojis.length} emoji${emojis.length !== 1 ? "s" : ""}`;
 
-  grid.innerHTML = emojis
-    .map(
-      ({ name, url }) => `
-      <div class="card" onclick="copy('${name}')">
-        <img src="${url}" alt="${name}" loading="lazy" />
-        <span class="code">:${name}:</span>
-      </div>`
-    )
-    .join("");
+  grid.innerHTML = "";
+
+  emojis.forEach(({ name, url }) => {
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML = `
+      <img src="${url}" alt="${name}" loading="lazy" />
+      <span class="code">:${name}:</span>
+    `;
+    card.addEventListener("click", () => {
+      navigator.clipboard.writeText(`:${name}:`).then(() => {
+        card.classList.add("copied");
+        setTimeout(() => card.classList.remove("copied"), 400);
+        showToast(`:${name}:`);
+      });
+    });
+    grid.appendChild(card);
+  });
 }
 
-function copy(name) {
-  navigator.clipboard.writeText(`:${name}:`).then(() => showToast());
-}
-
-function showToast() {
+function showToast(code) {
   const toast = document.getElementById("toast");
+  toast.textContent = `Copied ${code}`;
   toast.classList.add("show");
   setTimeout(() => toast.classList.remove("show"), 1800);
 }

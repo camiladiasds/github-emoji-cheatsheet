@@ -3,23 +3,32 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Search and copy GitHub markdown emojis" />
   <title>GitHub Emoji Explorer</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <div class="container">
-    <h1>GitHub Emoji Explorer</h1>
-    <p class="subtitle">Click any emoji to copy its shortcode</p>
-    <input
-      type="text"
-      id="search"
-      class="search"
-      placeholder="Search emojis..."
-      autocomplete="off"
-    />
+    <header class="header">
+      <h1>GitHub Emoji Explorer</h1>
+      <p class="subtitle">Search and copy GitHub markdown emoji shortcodes.</p>
+      <p id="total-counter" class="emoji-counter"></p>
+    </header>
+
+    <div class="search-wrap">
+      <input
+        type="text"
+        id="search"
+        class="search"
+        placeholder="Search emojis..."
+        autocomplete="off"
+        autofocus
+      />
+    </div>
+
     <p id="count" class="count"></p>
     <div id="grid" class="grid"></div>
-    <div id="toast" class="toast">Copied!</div>
+    <div id="toast" class="toast"></div>
   </div>
   <script src="script.js"></script>
 </body>
