@@ -1,11 +1,16 @@
-# GitHub Emoji Cheat Sheet
+# GitHub Emoji Explorer
 
-A complete list of GitHub markdown emojis.
+![Update Emoji List](https://github.com/camiladiasds/github-emoji-cheatsheet/actions/workflows/update-emojis.yml/badge.svg)
 
-The list is automatically generated using the official GitHub Emoji API.
+Automatically generated GitHub emoji list using the official [GitHub Emoji API](https://api.github.com/emojis).
 
-## Emoji List
+## Features
 
-See the full list here:
+- 🔍 Searchable emoji explorer
+- 📋 Click any emoji to copy its shortcode
+- 🔄 Auto-updated weekly via GitHub Actions
 
-[Emoji Cheat Sheet](./emojis.md)
+## Links
+
+- [Emoji Cheat Sheet (Markdown)](./emojis.md)
+- [Emoji Explorer (GitHub Pages)](https://camiladiasds.github.io/github-emoji-cheatsheet)
