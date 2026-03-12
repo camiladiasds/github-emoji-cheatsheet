@@ -10,10 +10,10 @@ async function generate() {
   let md = "# GitHub Emoji Cheat Sheet\n\n";
   md += "Automatically generated from the GitHub Emoji API.\n\n";
   md += "| Emoji | Code |\n";
-  md += "|------|------|\n";
+  md += "|:--:|:--|\n";
   names.forEach(name => {
     const url = emojis[name];
-    md += `| ![](${url}) | \`:${name}:\` |\n`;
+    md += `| <img src="${url}" width="24"> | \`:${name}:\` |\n`;
   });
   fs.writeFileSync("emojis.md", md);
 
