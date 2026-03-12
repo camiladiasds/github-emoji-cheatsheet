@@ -2,1941 +2,732 @@
 
 Automatically generated from the GitHub Emoji API.
 
-| Emoji | Code |
-|:--:|:--|
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png?v8" width="24"> | `:+1:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44e.png?v8" width="24"> | `:-1:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4af.png?v8" width="24"> | `:100:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f522.png?v8" width="24"> | `:1234:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f947.png?v8" width="24"> | `:1st_place_medal:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8" width="24"> | `:2nd_place_medal:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f949.png?v8" width="24"> | `:3rd_place_medal:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b1.png?v8" width="24"> | `:8ball:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f170.png?v8" width="24"> | `:a:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f18e.png?v8" width="24"> | `:ab:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ee.png?v8" width="24"> | `:abacus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f524.png?v8" width="24"> | `:abc:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f521.png?v8" width="24"> | `:abcd:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f251.png?v8" width="24"> | `:accept:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/accessibility.png?v8" width="24"> | `:accessibility:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa97.png?v8" width="24"> | `:accordion:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa79.png?v8" width="24"> | `:adhesive_bandage:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1.png?v8" width="24"> | `:adult:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a1.png?v8" width="24"> | `:aerial_tramway:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1eb.png?v8" width="24"> | `:afghanistan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2708.png?v8" width="24"> | `:airplane:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1fd.png?v8" width="24"> | `:aland_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23f0.png?v8" width="24"> | `:alarm_clock:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f1.png?v8" width="24"> | `:albania:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2697.png?v8" width="24"> | `:alembic:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ff.png?v8" width="24"> | `:algeria:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png?v8" width="24"> | `:alien:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f691.png?v8" width="24"> | `:ambulance:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f8.png?v8" width="24"> | `:american_samoa:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3fa.png?v8" width="24"> | `:amphora:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fac0.png?v8" width="24"> | `:anatomical_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2693.png?v8" width="24"> | `:anchor:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1e9.png?v8" width="24"> | `:andorra:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47c.png?v8" width="24"> | `:angel:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a2.png?v8" width="24"> | `:anger:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f4.png?v8" width="24"> | `:angola:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8" width="24"> | `:angry:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1ee.png?v8" width="24"> | `:anguilla:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f627.png?v8" width="24"> | `:anguished:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41c.png?v8" width="24"> | `:ant:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f6.png?v8" width="24"> | `:antarctica:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1ec.png?v8" width="24"> | `:antigua_barbuda:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34e.png?v8" width="24"> | `:apple:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2652.png?v8" width="24"> | `:aquarius:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f7.png?v8" width="24"> | `:argentina:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2648.png?v8" width="24"> | `:aries:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f2.png?v8" width="24"> | `:armenia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/25c0.png?v8" width="24"> | `:arrow_backward:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23ec.png?v8" width="24"> | `:arrow_double_down:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23eb.png?v8" width="24"> | `:arrow_double_up:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b07.png?v8" width="24"> | `:arrow_down:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f53d.png?v8" width="24"> | `:arrow_down_small:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/25b6.png?v8" width="24"> | `:arrow_forward:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2935.png?v8" width="24"> | `:arrow_heading_down:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2934.png?v8" width="24"> | `:arrow_heading_up:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png?v8" width="24"> | `:arrow_left:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2199.png?v8" width="24"> | `:arrow_lower_left:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2198.png?v8" width="24"> | `:arrow_lower_right:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="24"> | `:arrow_right:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/21aa.png?v8" width="24"> | `:arrow_right_hook:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png?v8" width="24"> | `:arrow_up:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2195.png?v8" width="24"> | `:arrow_up_down:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f53c.png?v8" width="24"> | `:arrow_up_small:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2196.png?v8" width="24"> | `:arrow_upper_left:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2197.png?v8" width="24"> | `:arrow_upper_right:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f503.png?v8" width="24"> | `:arrows_clockwise:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f504.png?v8" width="24"> | `:arrows_counterclockwise:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png?v8" width="24"> | `:art:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f69b.png?v8" width="24"> | `:articulated_lorry:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f0.png?v8" width="24"> | `:artificial_satellite:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f3a8.png?v8" width="24"> | `:artist:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1fc.png?v8" width="24"> | `:aruba:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1e8.png?v8" width="24"> | `:ascension_island:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/002a-20e3.png?v8" width="24"> | `:asterisk:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f632.png?v8" width="24"> | `:astonished:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f680.png?v8" width="24"> | `:astronaut:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45f.png?v8" width="24"> | `:athletic_shoe:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e7.png?v8" width="24"> | `:atm:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/atom.png?v8" width="24"> | `:atom:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png?v8" width="24"> | `:atom_symbol:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1fa.png?v8" width="24"> | `:australia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f9.png?v8" width="24"> | `:austria:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6fa.png?v8" width="24"> | `:auto_rickshaw:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f951.png?v8" width="24"> | `:avocado:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa93.png?v8" width="24"> | `:axe:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1ff.png?v8" width="24"> | `:azerbaijan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f171.png?v8" width="24"> | `:b:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f476.png?v8" width="24"> | `:baby:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f37c.png?v8" width="24"> | `:baby_bottle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f424.png?v8" width="24"> | `:baby_chick:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6bc.png?v8" width="24"> | `:baby_symbol:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f519.png?v8" width="24"> | `:back:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f953.png?v8" width="24"> | `:bacon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a1.png?v8" width="24"> | `:badger:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f8.png?v8" width="24"> | `:badminton:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f96f.png?v8" width="24"> | `:bagel:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c4.png?v8" width="24"> | `:baggage_claim:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f956.png?v8" width="24"> | `:baguette_bread:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f8.png?v8" width="24"> | `:bahamas:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ed.png?v8" width="24"> | `:bahrain:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2696.png?v8" width="24"> | `:balance_scale:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9b2.png?v8" width="24"> | `:bald_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9b2.png?v8" width="24"> | `:bald_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa70.png?v8" width="24"> | `:ballet_shoes:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png?v8" width="24"> | `:balloon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5f3.png?v8" width="24"> | `:ballot_box:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png?v8" width="24"> | `:ballot_box_with_check:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f38d.png?v8" width="24"> | `:bamboo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34c.png?v8" width="24"> | `:banana:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/203c.png?v8" width="24"> | `:bangbang:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1e9.png?v8" width="24"> | `:bangladesh:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa95.png?v8" width="24"> | `:banjo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png?v8" width="24"> | `:bank:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png?v8" width="24"> | `:bar_chart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1e7.png?v8" width="24"> | `:barbados:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f488.png?v8" width="24"> | `:barber:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26be.png?v8" width="24"> | `:baseball:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/basecamp.png?v8" width="24"> | `:basecamp:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/basecampy.png?v8" width="24"> | `:basecampy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9fa.png?v8" width="24"> | `:basket:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c0.png?v8" width="24"> | `:basketball:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f9-2642.png?v8" width="24"> | `:basketball_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f9-2640.png?v8" width="24"> | `:basketball_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f987.png?v8" width="24"> | `:bat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c0.png?v8" width="24"> | `:bath:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c1.png?v8" width="24"> | `:bathtub:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50b.png?v8" width="24"> | `:battery:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d6.png?v8" width="24"> | `:beach_umbrella:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad8.png?v8" width="24"> | `:beans:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43b.png?v8" width="24"> | `:bear:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4.png?v8" width="24"> | `:bearded_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ab.png?v8" width="24"> | `:beaver:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6cf.png?v8" width="24"> | `:bed:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41d.png?v8" width="24"> | `:bee:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f37a.png?v8" width="24"> | `:beer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f37b.png?v8" width="24"> | `:beers:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab2.png?v8" width="24"> | `:beetle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f530.png?v8" width="24"> | `:beginner:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1fe.png?v8" width="24"> | `:belarus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ea.png?v8" width="24"> | `:belgium:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ff.png?v8" width="24"> | `:belize:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f514.png?v8" width="24"> | `:bell:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad1.png?v8" width="24"> | `:bell_pepper:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ce.png?v8" width="24"> | `:bellhop_bell:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ef.png?v8" width="24"> | `:benin:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f371.png?v8" width="24"> | `:bento:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f2.png?v8" width="24"> | `:bermuda:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c3.png?v8" width="24"> | `:beverage_box:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f9.png?v8" width="24"> | `:bhutan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b4.png?v8" width="24"> | `:bicyclist:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b2.png?v8" width="24"> | `:bike:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b4-2642.png?v8" width="24"> | `:biking_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b4-2640.png?v8" width="24"> | `:biking_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f459.png?v8" width="24"> | `:bikini:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e2.png?v8" width="24"> | `:billed_cap:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2623.png?v8" width="24"> | `:biohazard:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png?v8" width="24"> | `:bird:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f382.png?v8" width="24"> | `:birthday:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ac.png?v8" width="24"> | `:bison:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae6.png?v8" width="24"> | `:biting_lip:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f426-2b1b.png?v8" width="24"> | `:black_bird:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f408-2b1b.png?v8" width="24"> | `:black_cat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26ab.png?v8" width="24"> | `:black_circle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4.png?v8" width="24"> | `:black_flag:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a4.png?v8" width="24"> | `:black_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png?v8" width="24"> | `:black_joker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b1b.png?v8" width="24"> | `:black_large_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/25fe.png?v8" width="24"> | `:black_medium_small_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/25fc.png?v8" width="24"> | `:black_medium_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2712.png?v8" width="24"> | `:black_nib:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/25aa.png?v8" width="24"> | `:black_small_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f532.png?v8" width="24"> | `:black_square_button:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f471-2642.png?v8" width="24"> | `:blond_haired_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f471.png?v8" width="24"> | `:blond_haired_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f471-2640.png?v8" width="24"> | `:blond_haired_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f471-2640.png?v8" width="24"> | `:blonde_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33c.png?v8" width="24"> | `:blossom:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f421.png?v8" width="24"> | `:blowfish:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png?v8" width="24"> | `:blue_book:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f699.png?v8" width="24"> | `:blue_car:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png?v8" width="24"> | `:blue_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e6.png?v8" width="24"> | `:blue_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad0.png?v8" width="24"> | `:blueberries:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png?v8" width="24"> | `:blush:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f417.png?v8" width="24"> | `:boar:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f5.png?v8" width="24"> | `:boat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f4.png?v8" width="24"> | `:bolivia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png?v8" width="24"> | `:bomb:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b4.png?v8" width="24"> | `:bone:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png?v8" width="24"> | `:book:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f516.png?v8" width="24"> | `:bookmark:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d1.png?v8" width="24"> | `:bookmark_tabs:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png?v8" width="24"> | `:books:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png?v8" width="24"> | `:boom:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa83.png?v8" width="24"> | `:boomerang:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f462.png?v8" width="24"> | `:boot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1e6.png?v8" width="24"> | `:bosnia_herzegovina:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1fc.png?v8" width="24"> | `:botswana:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f9-2642.png?v8" width="24"> | `:bouncing_ball_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f9.png?v8" width="24"> | `:bouncing_ball_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f9-2640.png?v8" width="24"> | `:bouncing_ball_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f490.png?v8" width="24"> | `:bouquet:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1fb.png?v8" width="24"> | `:bouvet_island:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f647.png?v8" width="24"> | `:bow:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f9.png?v8" width="24"> | `:bow_and_arrow:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f647-2642.png?v8" width="24"> | `:bowing_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f647-2640.png?v8" width="24"> | `:bowing_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f963.png?v8" width="24"> | `:bowl_with_spoon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b3.png?v8" width="24"> | `:bowling:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png?v8" width="24"> | `:bowtie:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94a.png?v8" width="24"> | `:boxing_glove:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f466.png?v8" width="24"> | `:boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png?v8" width="24"> | `:brain:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8" width="24"> | `:brazil:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f35e.png?v8" width="24"> | `:bread:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f931.png?v8" width="24"> | `:breast_feeding:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f1.png?v8" width="24"> | `:bricks:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f470-2640.png?v8" width="24"> | `:bride_with_veil:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f309.png?v8" width="24"> | `:bridge_at_night:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png?v8" width="24"> | `:briefcase:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f4.png?v8" width="24"> | `:british_indian_ocean_territory:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1ec.png?v8" width="24"> | `:british_virgin_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f966.png?v8" width="24"> | `:broccoli:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f494.png?v8" width="24"> | `:broken_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f9.png?v8" width="24"> | `:broom:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e4.png?v8" width="24"> | `:brown_circle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f90e.png?v8" width="24"> | `:brown_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7eb.png?v8" width="24"> | `:brown_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f3.png?v8" width="24"> | `:brunei:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cb.png?v8" width="24"> | `:bubble_tea:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae7.png?v8" width="24"> | `:bubbles:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa3.png?v8" width="24"> | `:bucket:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41b.png?v8" width="24"> | `:bug:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d7.png?v8" width="24"> | `:building_construction:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png?v8" width="24"> | `:bulb:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ec.png?v8" width="24"> | `:bulgaria:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f685.png?v8" width="24"> | `:bullettrain_front:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f684.png?v8" width="24"> | `:bullettrain_side:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1eb.png?v8" width="24"> | `:burkina_faso:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f32f.png?v8" width="24"> | `:burrito:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ee.png?v8" width="24"> | `:burundi:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f68c.png?v8" width="24"> | `:bus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f574.png?v8" width="24"> | `:business_suit_levitating:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f68f.png?v8" width="24"> | `:busstop:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png?v8" width="24"> | `:bust_in_silhouette:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f465.png?v8" width="24"> | `:busts_in_silhouette:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c8.png?v8" width="24"> | `:butter:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f98b.png?v8" width="24"> | `:butterfly:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f335.png?v8" width="24"> | `:cactus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f370.png?v8" width="24"> | `:cake:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png?v8" width="24"> | `:calendar:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f919.png?v8" width="24"> | `:call_me_hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f2.png?v8" width="24"> | `:calling:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ed.png?v8" width="24"> | `:cambodia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42b.png?v8" width="24"> | `:camel:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f7.png?v8" width="24"> | `:camera:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f8.png?v8" width="24"> | `:camera_flash:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f2.png?v8" width="24"> | `:cameroon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d5.png?v8" width="24"> | `:camping:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1e6.png?v8" width="24"> | `:canada:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e8.png?v8" width="24"> | `:canary_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/264b.png?v8" width="24"> | `:cancer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f56f.png?v8" width="24"> | `:candle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f36c.png?v8" width="24"> | `:candy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f96b.png?v8" width="24"> | `:canned_food:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f6.png?v8" width="24"> | `:canoe:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1fb.png?v8" width="24"> | `:cape_verde:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f520.png?v8" width="24"> | `:capital_abcd:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2651.png?v8" width="24"> | `:capricorn:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f697.png?v8" width="24"> | `:car:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png?v8" width="24"> | `:card_file_box:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c7.png?v8" width="24"> | `:card_index:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c2.png?v8" width="24"> | `:card_index_dividers:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f6.png?v8" width="24"> | `:caribbean_netherlands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a0.png?v8" width="24"> | `:carousel_horse:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9a.png?v8" width="24"> | `:carpentry_saw:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f955.png?v8" width="24"> | `:carrot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f938.png?v8" width="24"> | `:cartwheeling:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png?v8" width="24"> | `:cat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f408.png?v8" width="24"> | `:cat2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1fe.png?v8" width="24"> | `:cayman_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bf.png?v8" width="24"> | `:cd:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1eb.png?v8" width="24"> | `:central_african_republic:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1e6.png?v8" width="24"> | `:ceuta_melilla:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1e9.png?v8" width="24"> | `:chad:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26d3.png?v8" width="24"> | `:chains:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa91.png?v8" width="24"> | `:chair:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f37e.png?v8" width="24"> | `:champagne:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b9.png?v8" width="24"> | `:chart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c9.png?v8" width="24"> | `:chart_with_downwards_trend:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png?v8" width="24"> | `:chart_with_upwards_trend:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c1.png?v8" width="24"> | `:checkered_flag:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c0.png?v8" width="24"> | `:cheese:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f352.png?v8" width="24"> | `:cherries:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f338.png?v8" width="24"> | `:cherry_blossom:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/265f.png?v8" width="24"> | `:chess_pawn:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f330.png?v8" width="24"> | `:chestnut:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f414.png?v8" width="24"> | `:chicken:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d2.png?v8" width="24"> | `:child:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b8.png?v8" width="24"> | `:children_crossing:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f1.png?v8" width="24"> | `:chile:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43f.png?v8" width="24"> | `:chipmunk:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f36b.png?v8" width="24"> | `:chocolate_bar:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f962.png?v8" width="24"> | `:chopsticks:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1fd.png?v8" width="24"> | `:christmas_island:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f384.png?v8" width="24"> | `:christmas_tree:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26ea.png?v8" width="24"> | `:church:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a6.png?v8" width="24"> | `:cinema:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3aa.png?v8" width="24"> | `:circus_tent:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f307.png?v8" width="24"> | `:city_sunrise:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png?v8" width="24"> | `:city_sunset:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d9.png?v8" width="24"> | `:cityscape:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f191.png?v8" width="24"> | `:cl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5dc.png?v8" width="24"> | `:clamp:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44f.png?v8" width="24"> | `:clap:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ac.png?v8" width="24"> | `:clapper:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3db.png?v8" width="24"> | `:classical_building:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d7.png?v8" width="24"> | `:climbing:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d7-2642.png?v8" width="24"> | `:climbing_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d7-2640.png?v8" width="24"> | `:climbing_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f942.png?v8" width="24"> | `:clinking_glasses:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png?v8" width="24"> | `:clipboard:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f5.png?v8" width="24"> | `:clipperton_island:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f550.png?v8" width="24"> | `:clock1:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f559.png?v8" width="24"> | `:clock10:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f565.png?v8" width="24"> | `:clock1030:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f55a.png?v8" width="24"> | `:clock11:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f566.png?v8" width="24"> | `:clock1130:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f55b.png?v8" width="24"> | `:clock12:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f567.png?v8" width="24"> | `:clock1230:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f55c.png?v8" width="24"> | `:clock130:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f551.png?v8" width="24"> | `:clock2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f55d.png?v8" width="24"> | `:clock230:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f552.png?v8" width="24"> | `:clock3:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f55e.png?v8" width="24"> | `:clock330:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f553.png?v8" width="24"> | `:clock4:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f55f.png?v8" width="24"> | `:clock430:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f554.png?v8" width="24"> | `:clock5:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f560.png?v8" width="24"> | `:clock530:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f555.png?v8" width="24"> | `:clock6:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f561.png?v8" width="24"> | `:clock630:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f556.png?v8" width="24"> | `:clock7:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f562.png?v8" width="24"> | `:clock730:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f557.png?v8" width="24"> | `:clock8:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f563.png?v8" width="24"> | `:clock830:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f558.png?v8" width="24"> | `:clock9:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f564.png?v8" width="24"> | `:clock930:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png?v8" width="24"> | `:closed_book:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png?v8" width="24"> | `:closed_lock_with_key:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f302.png?v8" width="24"> | `:closed_umbrella:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png?v8" width="24"> | `:cloud:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f329.png?v8" width="24"> | `:cloud_with_lightning:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26c8.png?v8" width="24"> | `:cloud_with_lightning_and_rain:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f327.png?v8" width="24"> | `:cloud_with_rain:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f328.png?v8" width="24"> | `:cloud_with_snow:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f921.png?v8" width="24"> | `:clown_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" width="24"> | `:clubs:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png?v8" width="24"> | `:cn:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e5.png?v8" width="24"> | `:coat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab3.png?v8" width="24"> | `:cockroach:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f378.png?v8" width="24"> | `:cocktail:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f965.png?v8" width="24"> | `:coconut:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1e8.png?v8" width="24"> | `:cocos_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png?v8" width="24"> | `:coffee:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26b0.png?v8" width="24"> | `:coffin:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa99.png?v8" width="24"> | `:coin:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f976.png?v8" width="24"> | `:cold_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f630.png?v8" width="24"> | `:cold_sweat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png?v8" width="24"> | `:collision:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f4.png?v8" width="24"> | `:colombia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2604.png?v8" width="24"> | `:comet:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1f2.png?v8" width="24"> | `:comoros:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ed.png?v8" width="24"> | `:compass:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="24"> | `:computer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5b1.png?v8" width="24"> | `:computer_mouse:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f38a.png?v8" width="24"> | `:confetti_ball:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f616.png?v8" width="24"> | `:confounded:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f615.png?v8" width="24"> | `:confused:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1ec.png?v8" width="24"> | `:congo_brazzaville:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1e9.png?v8" width="24"> | `:congo_kinshasa:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/3297.png?v8" width="24"> | `:congratulations:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png?v8" width="24"> | `:construction:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f477.png?v8" width="24"> | `:construction_worker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f477-2642.png?v8" width="24"> | `:construction_worker_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f477-2640.png?v8" width="24"> | `:construction_worker_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f39b.png?v8" width="24"> | `:control_knobs:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ea.png?v8" width="24"> | `:convenience_store:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f373.png?v8" width="24"> | `:cook:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f0.png?v8" width="24"> | `:cook_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f36a.png?v8" width="24"> | `:cookie:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f192.png?v8" width="24"> | `:cool:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46e.png?v8" width="24"> | `:cop:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/copilot.png?v8" width="24"> | `:copilot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/00a9.png?v8" width="24"> | `:copyright:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab8.png?v8" width="24"> | `:coral:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33d.png?v8" width="24"> | `:corn:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f7.png?v8" width="24"> | `:costa_rica:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1ee.png?v8" width="24"> | `:cote_divoire:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6cb.png?v8" width="24"> | `:couch_and_lamp:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46b.png?v8" width="24"> | `:couple:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f491.png?v8" width="24"> | `:couple_with_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-2764-1f468.png?v8" width="24"> | `:couple_with_heart_man_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2764-1f468.png?v8" width="24"> | `:couple_with_heart_woman_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2764-1f469.png?v8" width="24"> | `:couple_with_heart_woman_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f48f.png?v8" width="24"> | `:couplekiss:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-2764-1f48b-1f468.png?v8" width="24"> | `:couplekiss_man_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2764-1f48b-1f468.png?v8" width="24"> | `:couplekiss_man_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2764-1f48b-1f469.png?v8" width="24"> | `:couplekiss_woman_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42e.png?v8" width="24"> | `:cow:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f404.png?v8" width="24"> | `:cow2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f920.png?v8" width="24"> | `:cowboy_hat_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png?v8" width="24"> | `:crab:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f58d.png?v8" width="24"> | `:crayon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b3.png?v8" width="24"> | `:credit_card:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png?v8" width="24"> | `:crescent_moon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f997.png?v8" width="24"> | `:cricket:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cf.png?v8" width="24"> | `:cricket_game:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f7.png?v8" width="24"> | `:croatia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40a.png?v8" width="24"> | `:crocodile:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f950.png?v8" width="24"> | `:croissant:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91e.png?v8" width="24"> | `:crossed_fingers:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f38c.png?v8" width="24"> | `:crossed_flags:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2694.png?v8" width="24"> | `:crossed_swords:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f451.png?v8" width="24"> | `:crown:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa7c.png?v8" width="24"> | `:crutch:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f622.png?v8" width="24"> | `:cry:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f63f.png?v8" width="24"> | `:crying_cat_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52e.png?v8" width="24"> | `:crystal_ball:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1fa.png?v8" width="24"> | `:cuba:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f952.png?v8" width="24"> | `:cucumber:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f964.png?v8" width="24"> | `:cup_with_straw:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c1.png?v8" width="24"> | `:cupcake:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f498.png?v8" width="24"> | `:cupid:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1fc.png?v8" width="24"> | `:curacao:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94c.png?v8" width="24"> | `:curling_stone:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9b1.png?v8" width="24"> | `:curly_haired_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9b1.png?v8" width="24"> | `:curly_haired_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/27b0.png?v8" width="24"> | `:curly_loop:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b1.png?v8" width="24"> | `:currency_exchange:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f35b.png?v8" width="24"> | `:curry:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f92c.png?v8" width="24"> | `:cursing_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f36e.png?v8" width="24"> | `:custard:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c3.png?v8" width="24"> | `:customs:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f969.png?v8" width="24"> | `:cut_of_meat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f300.png?v8" width="24"> | `:cyclone:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1fe.png?v8" width="24"> | `:cyprus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1ff.png?v8" width="24"> | `:czech_republic:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5e1.png?v8" width="24"> | `:dagger:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f483.png?v8" width="24"> | `:dancer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png?v8" width="24"> | `:dancers:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f-2642.png?v8" width="24"> | `:dancing_men:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f-2640.png?v8" width="24"> | `:dancing_women:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f361.png?v8" width="24"> | `:dango:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f576.png?v8" width="24"> | `:dark_sunglasses:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png?v8" width="24"> | `:dart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a8.png?v8" width="24"> | `:dash:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png?v8" width="24"> | `:date:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ea.png?v8" width="24"> | `:de:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cf-2642.png?v8" width="24"> | `:deaf_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cf.png?v8" width="24"> | `:deaf_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cf-2640.png?v8" width="24"> | `:deaf_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f333.png?v8" width="24"> | `:deciduous_tree:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f98c.png?v8" width="24"> | `:deer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1f0.png?v8" width="24"> | `:denmark:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ec.png?v8" width="24"> | `:department_store:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/dependabot.png?v8" width="24"> | `:dependabot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3da.png?v8" width="24"> | `:derelict_house:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3dc.png?v8" width="24"> | `:desert:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3dd.png?v8" width="24"> | `:desert_island:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png?v8" width="24"> | `:desktop_computer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f575.png?v8" width="24"> | `:detective:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" width="24"> | `:diamond_shape_with_a_dot_inside:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2666.png?v8" width="24"> | `:diamonds:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ec.png?v8" width="24"> | `:diego_garcia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f61e.png?v8" width="24"> | `:disappointed:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f625.png?v8" width="24"> | `:disappointed_relieved:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f978.png?v8" width="24"> | `:disguised_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93f.png?v8" width="24"> | `:diving_mask:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa94.png?v8" width="24"> | `:diya_lamp:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png?v8" width="24"> | `:dizzy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f635.png?v8" width="24"> | `:dizzy_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ef.png?v8" width="24"> | `:djibouti:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ec.png?v8" width="24"> | `:dna:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6af.png?v8" width="24"> | `:do_not_litter:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a4.png?v8" width="24"> | `:dodo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f436.png?v8" width="24"> | `:dog:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f415.png?v8" width="24"> | `:dog2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b5.png?v8" width="24"> | `:dollar:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f38e.png?v8" width="24"> | `:dolls:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42c.png?v8" width="24"> | `:dolphin:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1f2.png?v8" width="24"> | `:dominica:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1f4.png?v8" width="24"> | `:dominican_republic:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1facf.png?v8" width="24"> | `:donkey:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6aa.png?v8" width="24"> | `:door:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae5.png?v8" width="24"> | `:dotted_line_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f369.png?v8" width="24"> | `:doughnut:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f54a.png?v8" width="24"> | `:dove:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f409.png?v8" width="24"> | `:dragon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f432.png?v8" width="24"> | `:dragon_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f457.png?v8" width="24"> | `:dress:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42a.png?v8" width="24"> | `:dromedary_camel:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f924.png?v8" width="24"> | `:drooling_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa78.png?v8" width="24"> | `:drop_of_blood:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a7.png?v8" width="24"> | `:droplet:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f941.png?v8" width="24"> | `:drum:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f986.png?v8" width="24"> | `:duck:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f95f.png?v8" width="24"> | `:dumpling:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c0.png?v8" width="24"> | `:dvd:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png?v8" width="24"> | `:e-mail:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f985.png?v8" width="24"> | `:eagle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f442.png?v8" width="24"> | `:ear:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33e.png?v8" width="24"> | `:ear_of_rice:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9bb.png?v8" width="24"> | `:ear_with_hearing_aid:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png?v8" width="24"> | `:earth_africa:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png?v8" width="24"> | `:earth_americas:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png?v8" width="24"> | `:earth_asia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1e8.png?v8" width="24"> | `:ecuador:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f95a.png?v8" width="24"> | `:egg:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f346.png?v8" width="24"> | `:eggplant:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1ec.png?v8" width="24"> | `:egypt:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/0038-20e3.png?v8" width="24"> | `:eight:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2734.png?v8" width="24"> | `:eight_pointed_black_star:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2733.png?v8" width="24"> | `:eight_spoked_asterisk:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23cf.png?v8" width="24"> | `:eject_button:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1fb.png?v8" width="24"> | `:el_salvador:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png?v8" width="24"> | `:electric_plug:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/electron.png?v8" width="24"> | `:electron:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f418.png?v8" width="24"> | `:elephant:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d7.png?v8" width="24"> | `:elevator:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dd.png?v8" width="24"> | `:elf:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dd-2642.png?v8" width="24"> | `:elf_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dd-2640.png?v8" width="24"> | `:elf_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png?v8" width="24"> | `:email:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab9.png?v8" width="24"> | `:empty_nest:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51a.png?v8" width="24"> | `:end:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png?v8" width="24"> | `:england:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png?v8" width="24"> | `:envelope:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e9.png?v8" width="24"> | `:envelope_with_arrow:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f6.png?v8" width="24"> | `:equatorial_guinea:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f7.png?v8" width="24"> | `:eritrea:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png?v8" width="24"> | `:es:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1ea.png?v8" width="24"> | `:estonia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f9.png?v8" width="24"> | `:ethiopia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1fa.png?v8" width="24"> | `:eu:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b6.png?v8" width="24"> | `:euro:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f0.png?v8" width="24"> | `:european_castle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e4.png?v8" width="24"> | `:european_post_office:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1fa.png?v8" width="24"> | `:european_union:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png?v8" width="24"> | `:evergreen_tree:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png?v8" width="24"> | `:exclamation:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f92f.png?v8" width="24"> | `:exploding_head:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f611.png?v8" width="24"> | `:expressionless:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f441.png?v8" width="24"> | `:eye:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f441-1f5e8.png?v8" width="24"> | `:eye_speech_bubble:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f453.png?v8" width="24"> | `:eyeglasses:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png?v8" width="24"> | `:eyes:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62e-1f4a8.png?v8" width="24"> | `:face_exhaling:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f979.png?v8" width="24"> | `:face_holding_back_tears:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f636-1f32b.png?v8" width="24"> | `:face_in_clouds:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae4.png?v8" width="24"> | `:face_with_diagonal_mouth:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f915.png?v8" width="24"> | `:face_with_head_bandage:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae2.png?v8" width="24"> | `:face_with_open_eyes_and_hand_over_mouth:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae3.png?v8" width="24"> | `:face_with_peeking_eye:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f635-1f4ab.png?v8" width="24"> | `:face_with_spiral_eyes:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f912.png?v8" width="24"> | `:face_with_thermometer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f926.png?v8" width="24"> | `:facepalm:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png?v8" width="24"> | `:facepunch:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ed.png?v8" width="24"> | `:factory:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f3ed.png?v8" width="24"> | `:factory_worker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9da.png?v8" width="24"> | `:fairy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9da-2642.png?v8" width="24"> | `:fairy_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9da-2640.png?v8" width="24"> | `:fairy_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c6.png?v8" width="24"> | `:falafel:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f0.png?v8" width="24"> | `:falkland_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f342.png?v8" width="24"> | `:fallen_leaf:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46a.png?v8" width="24"> | `:family:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f466.png?v8" width="24"> | `:family_man_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f466-1f466.png?v8" width="24"> | `:family_man_boy_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f467.png?v8" width="24"> | `:family_man_girl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f467-1f466.png?v8" width="24"> | `:family_man_girl_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f467-1f467.png?v8" width="24"> | `:family_man_girl_girl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f468-1f466.png?v8" width="24"> | `:family_man_man_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f468-1f466-1f466.png?v8" width="24"> | `:family_man_man_boy_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f468-1f467.png?v8" width="24"> | `:family_man_man_girl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f468-1f467-1f466.png?v8" width="24"> | `:family_man_man_girl_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f468-1f467-1f467.png?v8" width="24"> | `:family_man_man_girl_girl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f469-1f466.png?v8" width="24"> | `:family_man_woman_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f469-1f466-1f466.png?v8" width="24"> | `:family_man_woman_boy_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f469-1f467.png?v8" width="24"> | `:family_man_woman_girl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f469-1f467-1f466.png?v8" width="24"> | `:family_man_woman_girl_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f469-1f467-1f467.png?v8" width="24"> | `:family_man_woman_girl_girl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f466.png?v8" width="24"> | `:family_woman_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f466-1f466.png?v8" width="24"> | `:family_woman_boy_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f467.png?v8" width="24"> | `:family_woman_girl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f467-1f466.png?v8" width="24"> | `:family_woman_girl_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f467-1f467.png?v8" width="24"> | `:family_woman_girl_girl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f469-1f466.png?v8" width="24"> | `:family_woman_woman_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f469-1f466-1f466.png?v8" width="24"> | `:family_woman_woman_boy_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f469-1f467.png?v8" width="24"> | `:family_woman_woman_girl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f469-1f467-1f466.png?v8" width="24"> | `:family_woman_woman_girl_boy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f469-1f467-1f467.png?v8" width="24"> | `:family_woman_woman_girl_girl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f33e.png?v8" width="24"> | `:farmer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f4.png?v8" width="24"> | `:faroe_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png?v8" width="24"> | `:fast_forward:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e0.png?v8" width="24"> | `:fax:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f628.png?v8" width="24"> | `:fearful:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab6.png?v8" width="24"> | `:feather:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/feelsgood.png?v8" width="24"> | `:feelsgood:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43e.png?v8" width="24"> | `:feet:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f575-2640.png?v8" width="24"> | `:female_detective:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2640.png?v8" width="24"> | `:female_sign:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a1.png?v8" width="24"> | `:ferris_wheel:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f4.png?v8" width="24"> | `:ferry:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d1.png?v8" width="24"> | `:field_hockey:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1ef.png?v8" width="24"> | `:fiji:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c4.png?v8" width="24"> | `:file_cabinet:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c1.png?v8" width="24"> | `:file_folder:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fd.png?v8" width="24"> | `:film_projector:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f39e.png?v8" width="24"> | `:film_strip:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1ee.png?v8" width="24"> | `:finland:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/finnadie.png?v8" width="24"> | `:finnadie:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png?v8" width="24"> | `:fire:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f692.png?v8" width="24"> | `:fire_engine:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ef.png?v8" width="24"> | `:fire_extinguisher:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e8.png?v8" width="24"> | `:firecracker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f692.png?v8" width="24"> | `:firefighter:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f386.png?v8" width="24"> | `:fireworks:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f313.png?v8" width="24"> | `:first_quarter_moon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31b.png?v8" width="24"> | `:first_quarter_moon_with_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41f.png?v8" width="24"> | `:fish:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f365.png?v8" width="24"> | `:fish_cake:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a3.png?v8" width="24"> | `:fishing_pole_and_fish:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/fishsticks.png?v8" width="24"> | `:fishsticks:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/270a.png?v8" width="24"> | `:fist:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91b.png?v8" width="24"> | `:fist_left:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png?v8" width="24"> | `:fist_oncoming:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/270a.png?v8" width="24"> | `:fist_raised:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91c.png?v8" width="24"> | `:fist_right:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/0035-20e3.png?v8" width="24"> | `:five:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f38f.png?v8" width="24"> | `:flags:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a9.png?v8" width="24"> | `:flamingo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f526.png?v8" width="24"> | `:flashlight:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f97f.png?v8" width="24"> | `:flat_shoe:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad3.png?v8" width="24"> | `:flatbread:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/269c.png?v8" width="24"> | `:fleur_de_lis:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ec.png?v8" width="24"> | `:flight_arrival:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6eb.png?v8" width="24"> | `:flight_departure:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42c.png?v8" width="24"> | `:flipper:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4be.png?v8" width="24"> | `:floppy_disk:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b4.png?v8" width="24"> | `:flower_playing_cards:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f633.png?v8" width="24"> | `:flushed:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa88.png?v8" width="24"> | `:flute:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab0.png?v8" width="24"> | `:fly:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94f.png?v8" width="24"> | `:flying_disc:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f8.png?v8" width="24"> | `:flying_saucer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f32b.png?v8" width="24"> | `:fog:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f301.png?v8" width="24"> | `:foggy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faad.png?v8" width="24"> | `:folding_hand_fan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad5.png?v8" width="24"> | `:fondue:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b6.png?v8" width="24"> | `:foot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c8.png?v8" width="24"> | `:football:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8" width="24"> | `:footprints:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f374.png?v8" width="24"> | `:fork_and_knife:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f960.png?v8" width="24"> | `:fortune_cookie:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f2.png?v8" width="24"> | `:fountain:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f58b.png?v8" width="24"> | `:fountain_pen:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/0034-20e3.png?v8" width="24"> | `:four:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f340.png?v8" width="24"> | `:four_leaf_clover:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png?v8" width="24"> | `:fox_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png?v8" width="24"> | `:fr:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5bc.png?v8" width="24"> | `:framed_picture:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f193.png?v8" width="24"> | `:free:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1eb.png?v8" width="24"> | `:french_guiana:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1eb.png?v8" width="24"> | `:french_polynesia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1eb.png?v8" width="24"> | `:french_southern_territories:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f373.png?v8" width="24"> | `:fried_egg:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f364.png?v8" width="24"> | `:fried_shrimp:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f35f.png?v8" width="24"> | `:fries:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f438.png?v8" width="24"> | `:frog:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f626.png?v8" width="24"> | `:frowning:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2639.png?v8" width="24"> | `:frowning_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64d-2642.png?v8" width="24"> | `:frowning_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64d.png?v8" width="24"> | `:frowning_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64d-2640.png?v8" width="24"> | `:frowning_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f595.png?v8" width="24"> | `:fu:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26fd.png?v8" width="24"> | `:fuelpump:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f315.png?v8" width="24"> | `:full_moon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31d.png?v8" width="24"> | `:full_moon_with_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26b1.png?v8" width="24"> | `:funeral_urn:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e6.png?v8" width="24"> | `:gabon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f2.png?v8" width="24"> | `:gambia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b2.png?v8" width="24"> | `:game_die:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c4.png?v8" width="24"> | `:garlic:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8" width="24"> | `:gb:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png?v8" width="24"> | `:gear:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f48e.png?v8" width="24"> | `:gem:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/264a.png?v8" width="24"> | `:gemini:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9de.png?v8" width="24"> | `:genie:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9de-2642.png?v8" width="24"> | `:genie_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9de-2640.png?v8" width="24"> | `:genie_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1ea.png?v8" width="24"> | `:georgia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1ed.png?v8" width="24"> | `:ghana:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png?v8" width="24"> | `:ghost:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1ee.png?v8" width="24"> | `:gibraltar:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f381.png?v8" width="24"> | `:gift:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49d.png?v8" width="24"> | `:gift_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fada.png?v8" width="24"> | `:ginger_root:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f992.png?v8" width="24"> | `:giraffe:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f467.png?v8" width="24"> | `:girl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png?v8" width="24"> | `:globe_with_meridians:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e4.png?v8" width="24"> | `:gloves:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png?v8" width="24"> | `:goal_net:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f410.png?v8" width="24"> | `:goat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/goberserk.png?v8" width="24"> | `:goberserk:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/godmode.png?v8" width="24"> | `:godmode:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f97d.png?v8" width="24"> | `:goggles:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f3.png?v8" width="24"> | `:golf:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cc.png?v8" width="24"> | `:golfing:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cc-2642.png?v8" width="24"> | `:golfing_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cc-2640.png?v8" width="24"> | `:golfing_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fabf.png?v8" width="24"> | `:goose:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f98d.png?v8" width="24"> | `:gorilla:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f347.png?v8" width="24"> | `:grapes:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f7.png?v8" width="24"> | `:greece:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34f.png?v8" width="24"> | `:green_apple:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d7.png?v8" width="24"> | `:green_book:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png?v8" width="24"> | `:green_circle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49a.png?v8" width="24"> | `:green_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f957.png?v8" width="24"> | `:green_salad:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e9.png?v8" width="24"> | `:green_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f1.png?v8" width="24"> | `:greenland:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e9.png?v8" width="24"> | `:grenada:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2755.png?v8" width="24"> | `:grey_exclamation:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa76.png?v8" width="24"> | `:grey_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2754.png?v8" width="24"> | `:grey_question:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62c.png?v8" width="24"> | `:grimacing:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png?v8" width="24"> | `:grin:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f600.png?v8" width="24"> | `:grinning:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f5.png?v8" width="24"> | `:guadeloupe:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1fa.png?v8" width="24"> | `:guam:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f482.png?v8" width="24"> | `:guard:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f482-2642.png?v8" width="24"> | `:guardsman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f482-2640.png?v8" width="24"> | `:guardswoman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f9.png?v8" width="24"> | `:guatemala:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1ec.png?v8" width="24"> | `:guernsey:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ae.png?v8" width="24"> | `:guide_dog:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f3.png?v8" width="24"> | `:guinea:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1fc.png?v8" width="24"> | `:guinea_bissau:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b8.png?v8" width="24"> | `:guitar:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52b.png?v8" width="24"> | `:gun:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1fe.png?v8" width="24"> | `:guyana:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faae.png?v8" width="24"> | `:hair_pick:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f487.png?v8" width="24"> | `:haircut:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f487-2642.png?v8" width="24"> | `:haircut_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f487-2640.png?v8" width="24"> | `:haircut_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f9.png?v8" width="24"> | `:haiti:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f354.png?v8" width="24"> | `:hamburger:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f528.png?v8" width="24"> | `:hammer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png?v8" width="24"> | `:hammer_and_pick:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png?v8" width="24"> | `:hammer_and_wrench:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faac.png?v8" width="24"> | `:hamsa:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f439.png?v8" width="24"> | `:hamster:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/270b.png?v8" width="24"> | `:hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f92d.png?v8" width="24"> | `:hand_over_mouth:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf0.png?v8" width="24"> | `:hand_with_index_finger_and_thumb_crossed:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45c.png?v8" width="24"> | `:handbag:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93e.png?v8" width="24"> | `:handball_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png?v8" width="24"> | `:handshake:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a9.png?v8" width="24"> | `:hankey:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/0023-20e3.png?v8" width="24"> | `:hash:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f425.png?v8" width="24"> | `:hatched_chick:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f423.png?v8" width="24"> | `:hatching_chick:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png?v8" width="24"> | `:headphones:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa6.png?v8" width="24"> | `:headstone:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-2695.png?v8" width="24"> | `:health_worker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f649.png?v8" width="24"> | `:hear_no_evil:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f2.png?v8" width="24"> | `:heard_mcdonald_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" width="24"> | `:heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49f.png?v8" width="24"> | `:heart_decoration:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f60d.png?v8" width="24"> | `:heart_eyes:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f63b.png?v8" width="24"> | `:heart_eyes_cat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf6.png?v8" width="24"> | `:heart_hands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1f525.png?v8" width="24"> | `:heart_on_fire:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png?v8" width="24"> | `:heartbeat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f497.png?v8" width="24"> | `:heartpulse:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png?v8" width="24"> | `:hearts:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png?v8" width="24"> | `:heavy_check_mark:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2797.png?v8" width="24"> | `:heavy_division_sign:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b2.png?v8" width="24"> | `:heavy_dollar_sign:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7f0.png?v8" width="24"> | `:heavy_equals_sign:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png?v8" width="24"> | `:heavy_exclamation_mark:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2763.png?v8" width="24"> | `:heavy_heart_exclamation:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2796.png?v8" width="24"> | `:heavy_minus_sign:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2716.png?v8" width="24"> | `:heavy_multiplication_x:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2795.png?v8" width="24"> | `:heavy_plus_sign:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f994.png?v8" width="24"> | `:hedgehog:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f681.png?v8" width="24"> | `:helicopter:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png?v8" width="24"> | `:herb:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33a.png?v8" width="24"> | `:hibiscus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f506.png?v8" width="24"> | `:high_brightness:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f460.png?v8" width="24"> | `:high_heel:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f97e.png?v8" width="24"> | `:hiking_boot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d5.png?v8" width="24"> | `:hindu_temple:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f99b.png?v8" width="24"> | `:hippopotamus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52a.png?v8" width="24"> | `:hocho:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f573.png?v8" width="24"> | `:hole:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f3.png?v8" width="24"> | `:honduras:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f36f.png?v8" width="24"> | `:honey_pot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41d.png?v8" width="24"> | `:honeybee:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f0.png?v8" width="24"> | `:hong_kong:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9d.png?v8" width="24"> | `:hook:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f434.png?v8" width="24"> | `:horse:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c7.png?v8" width="24"> | `:horse_racing:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e5.png?v8" width="24"> | `:hospital:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f975.png?v8" width="24"> | `:hot_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f336.png?v8" width="24"> | `:hot_pepper:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f32d.png?v8" width="24"> | `:hotdog:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e8.png?v8" width="24"> | `:hotel:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2668.png?v8" width="24"> | `:hotsprings:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/231b.png?v8" width="24"> | `:hourglass:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png?v8" width="24"> | `:hourglass_flowing_sand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png?v8" width="24"> | `:house:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e1.png?v8" width="24"> | `:house_with_garden:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d8.png?v8" width="24"> | `:houses:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f917.png?v8" width="24"> | `:hugs:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1fa.png?v8" width="24"> | `:hungary:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/hurtrealbad.png?v8" width="24"> | `:hurtrealbad:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62f.png?v8" width="24"> | `:hushed:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d6.png?v8" width="24"> | `:hut:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fabb.png?v8" width="24"> | `:hyacinth:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f368.png?v8" width="24"> | `:ice_cream:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ca.png?v8" width="24"> | `:ice_cube:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d2.png?v8" width="24"> | `:ice_hockey:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f8.png?v8" width="24"> | `:ice_skate:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f366.png?v8" width="24"> | `:icecream:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f8.png?v8" width="24"> | `:iceland:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f194.png?v8" width="24"> | `:id:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faaa.png?v8" width="24"> | `:identification_card:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f250.png?v8" width="24"> | `:ideograph_advantage:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47f.png?v8" width="24"> | `:imp:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e5.png?v8" width="24"> | `:inbox_tray:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png?v8" width="24"> | `:incoming_envelope:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf5.png?v8" width="24"> | `:index_pointing_at_the_viewer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png?v8" width="24"> | `:india:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="24"> | `:indonesia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png?v8" width="24"> | `:infinity:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f481.png?v8" width="24"> | `:information_desk_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2139.png?v8" width="24"> | `:information_source:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f607.png?v8" width="24"> | `:innocent:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2049.png?v8" width="24"> | `:interrobang:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png?v8" width="24"> | `:iphone:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f7.png?v8" width="24"> | `:iran:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f6.png?v8" width="24"> | `:iraq:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1ea.png?v8" width="24"> | `:ireland:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f2.png?v8" width="24"> | `:isle_of_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f1.png?v8" width="24"> | `:israel:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png?v8" width="24"> | `:it:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ee.png?v8" width="24"> | `:izakaya_lantern:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f383.png?v8" width="24"> | `:jack_o_lantern:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1f2.png?v8" width="24"> | `:jamaica:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5fe.png?v8" width="24"> | `:japan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ef.png?v8" width="24"> | `:japanese_castle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47a.png?v8" width="24"> | `:japanese_goblin:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f479.png?v8" width="24"> | `:japanese_ogre:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad9.png?v8" width="24"> | `:jar:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f456.png?v8" width="24"> | `:jeans:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fabc.png?v8" width="24"> | `:jellyfish:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1ea.png?v8" width="24"> | `:jersey:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e9.png?v8" width="24"> | `:jigsaw:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1f4.png?v8" width="24"> | `:jordan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8" width="24"> | `:joy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f639.png?v8" width="24"> | `:joy_cat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f579.png?v8" width="24"> | `:joystick:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1f5.png?v8" width="24"> | `:jp:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-2696.png?v8" width="24"> | `:judge:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f939.png?v8" width="24"> | `:juggling_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f54b.png?v8" width="24"> | `:kaaba:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f998.png?v8" width="24"> | `:kangaroo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ff.png?v8" width="24"> | `:kazakhstan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ea.png?v8" width="24"> | `:kenya:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png?v8" width="24"> | `:key:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2328.png?v8" width="24"> | `:keyboard:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51f.png?v8" width="24"> | `:keycap_ten:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faaf.png?v8" width="24"> | `:khanda:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f4.png?v8" width="24"> | `:kick_scooter:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f458.png?v8" width="24"> | `:kimono:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ee.png?v8" width="24"> | `:kiribati:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f48b.png?v8" width="24"> | `:kiss:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f617.png?v8" width="24"> | `:kissing:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f63d.png?v8" width="24"> | `:kissing_cat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f61a.png?v8" width="24"> | `:kissing_closed_eyes:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f618.png?v8" width="24"> | `:kissing_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f619.png?v8" width="24"> | `:kissing_smiling_eyes:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa81.png?v8" width="24"> | `:kite:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f95d.png?v8" width="24"> | `:kiwi_fruit:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ce-2642.png?v8" width="24"> | `:kneeling_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ce.png?v8" width="24"> | `:kneeling_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ce-2640.png?v8" width="24"> | `:kneeling_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52a.png?v8" width="24"> | `:knife:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa2.png?v8" width="24"> | `:knot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f428.png?v8" width="24"> | `:koala:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f201.png?v8" width="24"> | `:koko:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fd-1f1f0.png?v8" width="24"> | `:kosovo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1f7.png?v8" width="24"> | `:kr:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1fc.png?v8" width="24"> | `:kuwait:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ec.png?v8" width="24"> | `:kyrgyzstan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f97c.png?v8" width="24"> | `:lab_coat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f7.png?v8" width="24"> | `:label:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94d.png?v8" width="24"> | `:lacrosse:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9c.png?v8" width="24"> | `:ladder:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41e.png?v8" width="24"> | `:lady_beetle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ee.png?v8" width="24"> | `:lantern:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1e6.png?v8" width="24"> | `:laos:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f535.png?v8" width="24"> | `:large_blue_circle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" width="24"> | `:large_blue_diamond:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f536.png?v8" width="24"> | `:large_orange_diamond:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f317.png?v8" width="24"> | `:last_quarter_moon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31c.png?v8" width="24"> | `:last_quarter_moon_with_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/271d.png?v8" width="24"> | `:latin_cross:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1fb.png?v8" width="24"> | `:latvia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f606.png?v8" width="24"> | `:laughing:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f96c.png?v8" width="24"> | `:leafy_green:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f343.png?v8" width="24"> | `:leaves:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1e7.png?v8" width="24"> | `:lebanon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d2.png?v8" width="24"> | `:ledger:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c5.png?v8" width="24"> | `:left_luggage:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2194.png?v8" width="24"> | `:left_right_arrow:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5e8.png?v8" width="24"> | `:left_speech_bubble:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/21a9.png?v8" width="24"> | `:leftwards_arrow_with_hook:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf2.png?v8" width="24"> | `:leftwards_hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf7.png?v8" width="24"> | `:leftwards_pushing_hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b5.png?v8" width="24"> | `:leg:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34b.png?v8" width="24"> | `:lemon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/264c.png?v8" width="24"> | `:leo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f406.png?v8" width="24"> | `:leopard:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1f8.png?v8" width="24"> | `:lesotho:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f39a.png?v8" width="24"> | `:level_slider:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1f7.png?v8" width="24"> | `:liberia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/264e.png?v8" width="24"> | `:libra:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1fe.png?v8" width="24"> | `:libya:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1ee.png?v8" width="24"> | `:liechtenstein:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa75.png?v8" width="24"> | `:light_blue_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f688.png?v8" width="24"> | `:light_rail:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png?v8" width="24"> | `:link:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f981.png?v8" width="24"> | `:lion:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f444.png?v8" width="24"> | `:lips:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f484.png?v8" width="24"> | `:lipstick:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1f9.png?v8" width="24"> | `:lithuania:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f98e.png?v8" width="24"> | `:lizard:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f999.png?v8" width="24"> | `:llama:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f99e.png?v8" width="24"> | `:lobster:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png?v8" width="24"> | `:lock:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50f.png?v8" width="24"> | `:lock_with_ink_pen:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f36d.png?v8" width="24"> | `:lollipop:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa98.png?v8" width="24"> | `:long_drum:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/27bf.png?v8" width="24"> | `:loop:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f4.png?v8" width="24"> | `:lotion_bottle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab7.png?v8" width="24"> | `:lotus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8.png?v8" width="24"> | `:lotus_position:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2642.png?v8" width="24"> | `:lotus_position_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png?v8" width="24"> | `:lotus_position_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50a.png?v8" width="24"> | `:loud_sound:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e2.png?v8" width="24"> | `:loudspeaker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e9.png?v8" width="24"> | `:love_hotel:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png?v8" width="24"> | `:love_letter:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91f.png?v8" width="24"> | `:love_you_gesture:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faab.png?v8" width="24"> | `:low_battery:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f505.png?v8" width="24"> | `:low_brightness:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f3.png?v8" width="24"> | `:luggage:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fac1.png?v8" width="24"> | `:lungs:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1fa.png?v8" width="24"> | `:luxembourg:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f925.png?v8" width="24"> | `:lying_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/24c2.png?v8" width="24"> | `:m:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f4.png?v8" width="24"> | `:macau:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f0.png?v8" width="24"> | `:macedonia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1ec.png?v8" width="24"> | `:madagascar:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png?v8" width="24"> | `:mag:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50e.png?v8" width="24"> | `:mag_right:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d9.png?v8" width="24"> | `:mage:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d9-2642.png?v8" width="24"> | `:mage_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d9-2640.png?v8" width="24"> | `:mage_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa84.png?v8" width="24"> | `:magic_wand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f2.png?v8" width="24"> | `:magnet:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f004.png?v8" width="24"> | `:mahjong:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png?v8" width="24"> | `:mailbox:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ea.png?v8" width="24"> | `:mailbox_closed:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ec.png?v8" width="24"> | `:mailbox_with_mail:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ed.png?v8" width="24"> | `:mailbox_with_no_mail:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1fc.png?v8" width="24"> | `:malawi:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1fe.png?v8" width="24"> | `:malaysia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1fb.png?v8" width="24"> | `:maldives:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f575-2642.png?v8" width="24"> | `:male_detective:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2642.png?v8" width="24"> | `:male_sign:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f1.png?v8" width="24"> | `:mali:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f9.png?v8" width="24"> | `:malta:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a3.png?v8" width="24"> | `:mammoth:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468.png?v8" width="24"> | `:man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3a8.png?v8" width="24"> | `:man_artist:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f680.png?v8" width="24"> | `:man_astronaut:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4-2642.png?v8" width="24"> | `:man_beard:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f938-2642.png?v8" width="24"> | `:man_cartwheeling:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f373.png?v8" width="24"> | `:man_cook:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f57a.png?v8" width="24"> | `:man_dancing:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f926-2642.png?v8" width="24"> | `:man_facepalming:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3ed.png?v8" width="24"> | `:man_factory_worker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f33e.png?v8" width="24"> | `:man_farmer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f37c.png?v8" width="24"> | `:man_feeding_baby:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f692.png?v8" width="24"> | `:man_firefighter:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-2695.png?v8" width="24"> | `:man_health_worker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9bd.png?v8" width="24"> | `:man_in_manual_wheelchair:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9bc.png?v8" width="24"> | `:man_in_motorized_wheelchair:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f935-2642.png?v8" width="24"> | `:man_in_tuxedo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-2696.png?v8" width="24"> | `:man_judge:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f939-2642.png?v8" width="24"> | `:man_juggling:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f527.png?v8" width="24"> | `:man_mechanic:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bc.png?v8" width="24"> | `:man_office_worker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-2708.png?v8" width="24"> | `:man_pilot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93e-2642.png?v8" width="24"> | `:man_playing_handball:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93d-2642.png?v8" width="24"> | `:man_playing_water_polo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f52c.png?v8" width="24"> | `:man_scientist:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f937-2642.png?v8" width="24"> | `:man_shrugging:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3a4.png?v8" width="24"> | `:man_singer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f393.png?v8" width="24"> | `:man_student:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png?v8" width="24"> | `:man_teacher:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png?v8" width="24"> | `:man_technologist:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f472.png?v8" width="24"> | `:man_with_gua_pi_mao:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9af.png?v8" width="24"> | `:man_with_probing_cane:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f473-2642.png?v8" width="24"> | `:man_with_turban:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f470-2642.png?v8" width="24"> | `:man_with_veil:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34a.png?v8" width="24"> | `:mandarin:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f96d.png?v8" width="24"> | `:mango:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45e.png?v8" width="24"> | `:mans_shoe:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f570.png?v8" width="24"> | `:mantelpiece_clock:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9bd.png?v8" width="24"> | `:manual_wheelchair:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f341.png?v8" width="24"> | `:maple_leaf:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa87.png?v8" width="24"> | `:maracas:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1ed.png?v8" width="24"> | `:marshall_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png?v8" width="24"> | `:martial_arts_uniform:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f6.png?v8" width="24"> | `:martinique:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f637.png?v8" width="24"> | `:mask:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f486.png?v8" width="24"> | `:massage:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f486-2642.png?v8" width="24"> | `:massage_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f486-2640.png?v8" width="24"> | `:massage_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c9.png?v8" width="24"> | `:mate:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f7.png?v8" width="24"> | `:mauritania:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1fa.png?v8" width="24"> | `:mauritius:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fe-1f1f9.png?v8" width="24"> | `:mayotte:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f356.png?v8" width="24"> | `:meat_on_bone:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f527.png?v8" width="24"> | `:mechanic:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9be.png?v8" width="24"> | `:mechanical_arm:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9bf.png?v8" width="24"> | `:mechanical_leg:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f396.png?v8" width="24"> | `:medal_military:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png?v8" width="24"> | `:medal_sports:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2695.png?v8" width="24"> | `:medical_symbol:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e3.png?v8" width="24"> | `:mega:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f348.png?v8" width="24"> | `:melon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae0.png?v8" width="24"> | `:melting_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png?v8" width="24"> | `:memo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93c-2642.png?v8" width="24"> | `:men_wrestling:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1fa79.png?v8" width="24"> | `:mending_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f54e.png?v8" width="24"> | `:menorah:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b9.png?v8" width="24"> | `:mens:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dc-2640.png?v8" width="24"> | `:mermaid:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dc-2642.png?v8" width="24"> | `:merman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dc.png?v8" width="24"> | `:merperson:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f918.png?v8" width="24"> | `:metal:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f687.png?v8" width="24"> | `:metro:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1fd.png?v8" width="24"> | `:mexico:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a0.png?v8" width="24"> | `:microbe:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f2.png?v8" width="24"> | `:micronesia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a4.png?v8" width="24"> | `:microphone:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png?v8" width="24"> | `:microscope:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f595.png?v8" width="24"> | `:middle_finger:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa96.png?v8" width="24"> | `:military_helmet:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f95b.png?v8" width="24"> | `:milk_glass:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30c.png?v8" width="24"> | `:milky_way:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f690.png?v8" width="24"> | `:minibus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bd.png?v8" width="24"> | `:minidisc:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9e.png?v8" width="24"> | `:mirror:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa9.png?v8" width="24"> | `:mirror_ball:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f4.png?v8" width="24"> | `:mobile_phone_off:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1e9.png?v8" width="24"> | `:moldova:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1e8.png?v8" width="24"> | `:monaco:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f911.png?v8" width="24"> | `:money_mouth_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b8.png?v8" width="24"> | `:money_with_wings:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b0.png?v8" width="24"> | `:moneybag:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f3.png?v8" width="24"> | `:mongolia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f412.png?v8" width="24"> | `:monkey:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f435.png?v8" width="24"> | `:monkey_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d0.png?v8" width="24"> | `:monocle_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f69d.png?v8" width="24"> | `:monorail:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1ea.png?v8" width="24"> | `:montenegro:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f8.png?v8" width="24"> | `:montserrat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f314.png?v8" width="24"> | `:moon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f96e.png?v8" width="24"> | `:moon_cake:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1face.png?v8" width="24"> | `:moose:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1e6.png?v8" width="24"> | `:morocco:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png?v8" width="24"> | `:mortar_board:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f54c.png?v8" width="24"> | `:mosque:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f99f.png?v8" width="24"> | `:mosquito:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e5.png?v8" width="24"> | `:motor_boat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f5.png?v8" width="24"> | `:motor_scooter:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cd.png?v8" width="24"> | `:motorcycle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9bc.png?v8" width="24"> | `:motorized_wheelchair:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e3.png?v8" width="24"> | `:motorway:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5fb.png?v8" width="24"> | `:mount_fuji:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f0.png?v8" width="24"> | `:mountain:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b5.png?v8" width="24"> | `:mountain_bicyclist:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b5-2642.png?v8" width="24"> | `:mountain_biking_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b5-2640.png?v8" width="24"> | `:mountain_biking_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a0.png?v8" width="24"> | `:mountain_cableway:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f69e.png?v8" width="24"> | `:mountain_railway:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d4.png?v8" width="24"> | `:mountain_snow:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42d.png?v8" width="24"> | `:mouse:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f401.png?v8" width="24"> | `:mouse2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa4.png?v8" width="24"> | `:mouse_trap:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png?v8" width="24"> | `:movie_camera:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5ff.png?v8" width="24"> | `:moyai:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1ff.png?v8" width="24"> | `:mozambique:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f936.png?v8" width="24"> | `:mrs_claus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8" width="24"> | `:muscle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f344.png?v8" width="24"> | `:mushroom:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b9.png?v8" width="24"> | `:musical_keyboard:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b5.png?v8" width="24"> | `:musical_note:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3bc.png?v8" width="24"> | `:musical_score:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f507.png?v8" width="24"> | `:mute:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f384.png?v8" width="24"> | `:mx_claus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f2.png?v8" width="24"> | `:myanmar:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f485.png?v8" width="24"> | `:nail_care:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4db.png?v8" width="24"> | `:name_badge:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1e6.png?v8" width="24"> | `:namibia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3de.png?v8" width="24"> | `:national_park:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f7.png?v8" width="24"> | `:nauru:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f922.png?v8" width="24"> | `:nauseated_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ff.png?v8" width="24"> | `:nazar_amulet:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/neckbeard.png?v8" width="24"> | `:neckbeard:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png?v8" width="24"> | `:necktie:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/274e.png?v8" width="24"> | `:negative_squared_cross_mark:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f5.png?v8" width="24"> | `:nepal:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png?v8" width="24"> | `:nerd_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faba.png?v8" width="24"> | `:nest_with_eggs:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa86.png?v8" width="24"> | `:nesting_dolls:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f1.png?v8" width="24"> | `:netherlands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f610.png?v8" width="24"> | `:neutral_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f195.png?v8" width="24"> | `:new:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1e8.png?v8" width="24"> | `:new_caledonia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f311.png?v8" width="24"> | `:new_moon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31a.png?v8" width="24"> | `:new_moon_with_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1ff.png?v8" width="24"> | `:new_zealand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f0.png?v8" width="24"> | `:newspaper:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5de.png?v8" width="24"> | `:newspaper_roll:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23ed.png?v8" width="24"> | `:next_track_button:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f196.png?v8" width="24"> | `:ng:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f645-2642.png?v8" width="24"> | `:ng_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f645-2640.png?v8" width="24"> | `:ng_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1ee.png?v8" width="24"> | `:nicaragua:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1ea.png?v8" width="24"> | `:niger:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1ec.png?v8" width="24"> | `:nigeria:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png?v8" width="24"> | `:night_with_stars:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/0039-20e3.png?v8" width="24"> | `:nine:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f977.png?v8" width="24"> | `:ninja:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1fa.png?v8" width="24"> | `:niue:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f515.png?v8" width="24"> | `:no_bell:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b3.png?v8" width="24"> | `:no_bicycles:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26d4.png?v8" width="24"> | `:no_entry:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png?v8" width="24"> | `:no_entry_sign:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f645.png?v8" width="24"> | `:no_good:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f645-2642.png?v8" width="24"> | `:no_good_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f645-2640.png?v8" width="24"> | `:no_good_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f5.png?v8" width="24"> | `:no_mobile_phones:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f636.png?v8" width="24"> | `:no_mouth:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b7.png?v8" width="24"> | `:no_pedestrians:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ad.png?v8" width="24"> | `:no_smoking:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b1.png?v8" width="24"> | `:non-potable_water:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1eb.png?v8" width="24"> | `:norfolk_island:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1f5.png?v8" width="24"> | `:north_korea:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f5.png?v8" width="24"> | `:northern_mariana_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f4.png?v8" width="24"> | `:norway:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f443.png?v8" width="24"> | `:nose:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d3.png?v8" width="24"> | `:notebook:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d4.png?v8" width="24"> | `:notebook_with_decorative_cover:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png?v8" width="24"> | `:notes:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f529.png?v8" width="24"> | `:nut_and_bolt:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b55.png?v8" width="24"> | `:o:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f17e.png?v8" width="24"> | `:o2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30a.png?v8" width="24"> | `:ocean:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/octocat.png?v8" width="24"> | `:octocat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f419.png?v8" width="24"> | `:octopus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f362.png?v8" width="24"> | `:oden:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e2.png?v8" width="24"> | `:office:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bc.png?v8" width="24"> | `:office_worker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e2.png?v8" width="24"> | `:oil_drum:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f197.png?v8" width="24"> | `:ok:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44c.png?v8" width="24"> | `:ok_hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f646-2642.png?v8" width="24"> | `:ok_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f646.png?v8" width="24"> | `:ok_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f646-2640.png?v8" width="24"> | `:ok_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5dd.png?v8" width="24"> | `:old_key:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d3.png?v8" width="24"> | `:older_adult:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f474.png?v8" width="24"> | `:older_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f475.png?v8" width="24"> | `:older_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad2.png?v8" width="24"> | `:olive:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f549.png?v8" width="24"> | `:om:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f4-1f1f2.png?v8" width="24"> | `:oman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51b.png?v8" width="24"> | `:on:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f698.png?v8" width="24"> | `:oncoming_automobile:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f68d.png?v8" width="24"> | `:oncoming_bus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f694.png?v8" width="24"> | `:oncoming_police_car:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f696.png?v8" width="24"> | `:oncoming_taxi:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8" width="24"> | `:one:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa71.png?v8" width="24"> | `:one_piece_swimsuit:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c5.png?v8" width="24"> | `:onion:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png?v8" width="24"> | `:open_book:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c2.png?v8" width="24"> | `:open_file_folder:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png?v8" width="24"> | `:open_hands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62e.png?v8" width="24"> | `:open_mouth:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2602.png?v8" width="24"> | `:open_umbrella:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26ce.png?v8" width="24"> | `:ophiuchus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34a.png?v8" width="24"> | `:orange:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d9.png?v8" width="24"> | `:orange_book:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e0.png?v8" width="24"> | `:orange_circle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e1.png?v8" width="24"> | `:orange_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e7.png?v8" width="24"> | `:orange_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a7.png?v8" width="24"> | `:orangutan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2626.png?v8" width="24"> | `:orthodox_cross:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a6.png?v8" width="24"> | `:otter:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e4.png?v8" width="24"> | `:outbox_tray:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f989.png?v8" width="24"> | `:owl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f402.png?v8" width="24"> | `:ox:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9aa.png?v8" width="24"> | `:oyster:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png?v8" width="24"> | `:package:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png?v8" width="24"> | `:page_facing_up:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png?v8" width="24"> | `:page_with_curl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4df.png?v8" width="24"> | `:pager:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f58c.png?v8" width="24"> | `:paintbrush:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f0.png?v8" width="24"> | `:pakistan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1fc.png?v8" width="24"> | `:palau:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f8.png?v8" width="24"> | `:palestinian_territories:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf3.png?v8" width="24"> | `:palm_down_hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png?v8" width="24"> | `:palm_tree:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf4.png?v8" width="24"> | `:palm_up_hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f932.png?v8" width="24"> | `:palms_up_together:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1e6.png?v8" width="24"> | `:panama:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f95e.png?v8" width="24"> | `:pancakes:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43c.png?v8" width="24"> | `:panda_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ce.png?v8" width="24"> | `:paperclip:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f587.png?v8" width="24"> | `:paperclips:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1ec.png?v8" width="24"> | `:papua_new_guinea:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa82.png?v8" width="24"> | `:parachute:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1fe.png?v8" width="24"> | `:paraguay:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f1.png?v8" width="24"> | `:parasol_on_ground:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f17f.png?v8" width="24"> | `:parking:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f99c.png?v8" width="24"> | `:parrot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/303d.png?v8" width="24"> | `:part_alternation_mark:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26c5.png?v8" width="24"> | `:partly_sunny:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f973.png?v8" width="24"> | `:partying_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f3.png?v8" width="24"> | `:passenger_ship:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c2.png?v8" width="24"> | `:passport_control:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23f8.png?v8" width="24"> | `:pause_button:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43e.png?v8" width="24"> | `:paw_prints:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fadb.png?v8" width="24"> | `:pea_pod:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/262e.png?v8" width="24"> | `:peace_symbol:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f351.png?v8" width="24"> | `:peach:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f99a.png?v8" width="24"> | `:peacock:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f95c.png?v8" width="24"> | `:peanuts:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f350.png?v8" width="24"> | `:pear:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f58a.png?v8" width="24"> | `:pen:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png?v8" width="24"> | `:pencil:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/270f.png?v8" width="24"> | `:pencil2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f427.png?v8" width="24"> | `:penguin:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f614.png?v8" width="24"> | `:pensive:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f91d-1f9d1.png?v8" width="24"> | `:people_holding_hands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fac2.png?v8" width="24"> | `:people_hugging:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png?v8" width="24"> | `:performing_arts:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f623.png?v8" width="24"> | `:persevere:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9b2.png?v8" width="24"> | `:person_bald:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9b1.png?v8" width="24"> | `:person_curly_hair:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f37c.png?v8" width="24"> | `:person_feeding_baby:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93a.png?v8" width="24"> | `:person_fencing:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9bd.png?v8" width="24"> | `:person_in_manual_wheelchair:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9bc.png?v8" width="24"> | `:person_in_motorized_wheelchair:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f935.png?v8" width="24"> | `:person_in_tuxedo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9b0.png?v8" width="24"> | `:person_red_hair:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9b3.png?v8" width="24"> | `:person_white_hair:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fac5.png?v8" width="24"> | `:person_with_crown:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9af.png?v8" width="24"> | `:person_with_probing_cane:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f473.png?v8" width="24"> | `:person_with_turban:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f470.png?v8" width="24"> | `:person_with_veil:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1ea.png?v8" width="24"> | `:peru:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9eb.png?v8" width="24"> | `:petri_dish:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1ed.png?v8" width="24"> | `:philippines:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png?v8" width="24"> | `:phone:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26cf.png?v8" width="24"> | `:pick:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6fb.png?v8" width="24"> | `:pickup_truck:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f967.png?v8" width="24"> | `:pie:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f437.png?v8" width="24"> | `:pig:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f416.png?v8" width="24"> | `:pig2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43d.png?v8" width="24"> | `:pig_nose:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f48a.png?v8" width="24"> | `:pill:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-2708.png?v8" width="24"> | `:pilot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa85.png?v8" width="24"> | `:pinata:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f90c.png?v8" width="24"> | `:pinched_fingers:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f90f.png?v8" width="24"> | `:pinching_hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34d.png?v8" width="24"> | `:pineapple:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d3.png?v8" width="24"> | `:ping_pong:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa77.png?v8" width="24"> | `:pink_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4-2620.png?v8" width="24"> | `:pirate_flag:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2653.png?v8" width="24"> | `:pisces:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f3.png?v8" width="24"> | `:pitcairn_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f355.png?v8" width="24"> | `:pizza:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa7.png?v8" width="24"> | `:placard:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d0.png?v8" width="24"> | `:place_of_worship:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f37d.png?v8" width="24"> | `:plate_with_cutlery:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23ef.png?v8" width="24"> | `:play_or_pause_button:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6dd.png?v8" width="24"> | `:playground_slide:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f97a.png?v8" width="24"> | `:pleading_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa0.png?v8" width="24"> | `:plunger:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8" width="24"> | `:point_down:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f448.png?v8" width="24"> | `:point_left:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png?v8" width="24"> | `:point_right:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png?v8" width="24"> | `:point_up:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f446.png?v8" width="24"> | `:point_up_2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f1.png?v8" width="24"> | `:poland:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43b-2744.png?v8" width="24"> | `:polar_bear:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f693.png?v8" width="24"> | `:police_car:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46e.png?v8" width="24"> | `:police_officer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46e-2642.png?v8" width="24"> | `:policeman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46e-2640.png?v8" width="24"> | `:policewoman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f429.png?v8" width="24"> | `:poodle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a9.png?v8" width="24"> | `:poop:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f37f.png?v8" width="24"> | `:popcorn:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f9.png?v8" width="24"> | `:portugal:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e3.png?v8" width="24"> | `:post_office:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ef.png?v8" width="24"> | `:postal_horn:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ee.png?v8" width="24"> | `:postbox:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b0.png?v8" width="24"> | `:potable_water:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f954.png?v8" width="24"> | `:potato:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab4.png?v8" width="24"> | `:potted_plant:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45d.png?v8" width="24"> | `:pouch:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f357.png?v8" width="24"> | `:poultry_leg:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b7.png?v8" width="24"> | `:pound:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad7.png?v8" width="24"> | `:pouring_liquid:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f621.png?v8" width="24"> | `:pout:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f63e.png?v8" width="24"> | `:pouting_cat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64e.png?v8" width="24"> | `:pouting_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64e-2642.png?v8" width="24"> | `:pouting_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64e-2640.png?v8" width="24"> | `:pouting_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png?v8" width="24"> | `:pray:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ff.png?v8" width="24"> | `:prayer_beads:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fac3.png?v8" width="24"> | `:pregnant_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fac4.png?v8" width="24"> | `:pregnant_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f930.png?v8" width="24"> | `:pregnant_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f968.png?v8" width="24"> | `:pretzel:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23ee.png?v8" width="24"> | `:previous_track_button:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f934.png?v8" width="24"> | `:prince:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f478.png?v8" width="24"> | `:princess:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a8.png?v8" width="24"> | `:printer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9af.png?v8" width="24"> | `:probing_cane:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f7.png?v8" width="24"> | `:puerto_rico:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png?v8" width="24"> | `:punch:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e3.png?v8" width="24"> | `:purple_circle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png?v8" width="24"> | `:purple_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7ea.png?v8" width="24"> | `:purple_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45b.png?v8" width="24"> | `:purse:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png?v8" width="24"> | `:pushpin:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ae.png?v8" width="24"> | `:put_litter_in_its_place:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f6-1f1e6.png?v8" width="24"> | `:qatar:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2753.png?v8" width="24"> | `:question:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f430.png?v8" width="24"> | `:rabbit:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f407.png?v8" width="24"> | `:rabbit2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f99d.png?v8" width="24"> | `:raccoon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40e.png?v8" width="24"> | `:racehorse:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ce.png?v8" width="24"> | `:racing_car:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fb.png?v8" width="24"> | `:radio:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f518.png?v8" width="24"> | `:radio_button:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2622.png?v8" width="24"> | `:radioactive:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f621.png?v8" width="24"> | `:rage:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/rage1.png?v8" width="24"> | `:rage1:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/rage2.png?v8" width="24"> | `:rage2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/rage3.png?v8" width="24"> | `:rage3:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/rage4.png?v8" width="24"> | `:rage4:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f683.png?v8" width="24"> | `:railway_car:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e4.png?v8" width="24"> | `:railway_track:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png?v8" width="24"> | `:rainbow:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f3-1f308.png?v8" width="24"> | `:rainbow_flag:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91a.png?v8" width="24"> | `:raised_back_of_hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f928.png?v8" width="24"> | `:raised_eyebrow:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/270b.png?v8" width="24"> | `:raised_hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f590.png?v8" width="24"> | `:raised_hand_with_fingers_splayed:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png?v8" width="24"> | `:raised_hands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b.png?v8" width="24"> | `:raising_hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png?v8" width="24"> | `:raising_hand_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2640.png?v8" width="24"> | `:raising_hand_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40f.png?v8" width="24"> | `:ram:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f35c.png?v8" width="24"> | `:ramen:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f400.png?v8" width="24"> | `:rat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa92.png?v8" width="24"> | `:razor:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9fe.png?v8" width="24"> | `:receipt:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23fa.png?v8" width="24"> | `:record_button:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/267b.png?v8" width="24"> | `:recycle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f697.png?v8" width="24"> | `:red_car:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png?v8" width="24"> | `:red_circle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e7.png?v8" width="24"> | `:red_envelope:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9b0.png?v8" width="24"> | `:red_haired_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9b0.png?v8" width="24"> | `:red_haired_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e5.png?v8" width="24"> | `:red_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/00ae.png?v8" width="24"> | `:registered:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/263a.png?v8" width="24"> | `:relaxed:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f60c.png?v8" width="24"> | `:relieved:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f397.png?v8" width="24"> | `:reminder_ribbon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f501.png?v8" width="24"> | `:repeat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f502.png?v8" width="24"> | `:repeat_one:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26d1.png?v8" width="24"> | `:rescue_worker_helmet:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6bb.png?v8" width="24"> | `:restroom:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1ea.png?v8" width="24"> | `:reunion:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png?v8" width="24"> | `:revolving_hearts:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23ea.png?v8" width="24"> | `:rewind:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f98f.png?v8" width="24"> | `:rhinoceros:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f380.png?v8" width="24"> | `:ribbon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f35a.png?v8" width="24"> | `:rice:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f359.png?v8" width="24"> | `:rice_ball:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f358.png?v8" width="24"> | `:rice_cracker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f391.png?v8" width="24"> | `:rice_scene:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5ef.png?v8" width="24"> | `:right_anger_bubble:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf1.png?v8" width="24"> | `:rightwards_hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf8.png?v8" width="24"> | `:rightwards_pushing_hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f48d.png?v8" width="24"> | `:ring:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6df.png?v8" width="24"> | `:ring_buoy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa90.png?v8" width="24"> | `:ringed_planet:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png?v8" width="24"> | `:robot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa8.png?v8" width="24"> | `:rock:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png?v8" width="24"> | `:rocket:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f923.png?v8" width="24"> | `:rofl:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f644.png?v8" width="24"> | `:roll_eyes:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9fb.png?v8" width="24"> | `:roll_of_paper:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a2.png?v8" width="24"> | `:roller_coaster:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6fc.png?v8" width="24"> | `:roller_skate:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1f4.png?v8" width="24"> | `:romania:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f413.png?v8" width="24"> | `:rooster:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f339.png?v8" width="24"> | `:rose:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f5.png?v8" width="24"> | `:rosette:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a8.png?v8" width="24"> | `:rotating_light:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png?v8" width="24"> | `:round_pushpin:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a3.png?v8" width="24"> | `:rowboat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a3-2642.png?v8" width="24"> | `:rowing_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a3-2640.png?v8" width="24"> | `:rowing_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1fa.png?v8" width="24"> | `:ru:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c9.png?v8" width="24"> | `:rugby_football:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8" width="24"> | `:runner:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8" width="24"> | `:running:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3-2642.png?v8" width="24"> | `:running_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3bd.png?v8" width="24"> | `:running_shirt_with_sash:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3-2640.png?v8" width="24"> | `:running_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1fc.png?v8" width="24"> | `:rwanda:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f202.png?v8" width="24"> | `:sa:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f7.png?v8" width="24"> | `:safety_pin:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ba.png?v8" width="24"> | `:safety_vest:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2650.png?v8" width="24"> | `:sagittarius:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f5.png?v8" width="24"> | `:sailboat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f376.png?v8" width="24"> | `:sake:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png?v8" width="24"> | `:salt:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae1.png?v8" width="24"> | `:saluting_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fc-1f1f8.png?v8" width="24"> | `:samoa:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f2.png?v8" width="24"> | `:san_marino:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f461.png?v8" width="24"> | `:sandal:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f96a.png?v8" width="24"> | `:sandwich:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f385.png?v8" width="24"> | `:santa:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f9.png?v8" width="24"> | `:sao_tome_principe:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f97b.png?v8" width="24"> | `:sari:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f481-2642.png?v8" width="24"> | `:sassy_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f481-2640.png?v8" width="24"> | `:sassy_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e1.png?v8" width="24"> | `:satellite:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f606.png?v8" width="24"> | `:satisfied:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1e6.png?v8" width="24"> | `:saudi_arabia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d6-2642.png?v8" width="24"> | `:sauna_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d6.png?v8" width="24"> | `:sauna_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d6-2640.png?v8" width="24"> | `:sauna_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f995.png?v8" width="24"> | `:sauropod:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b7.png?v8" width="24"> | `:saxophone:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e3.png?v8" width="24"> | `:scarf:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3eb.png?v8" width="24"> | `:school:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f392.png?v8" width="24"> | `:school_satchel:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f52c.png?v8" width="24"> | `:scientist:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2702.png?v8" width="24"> | `:scissors:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f982.png?v8" width="24"> | `:scorpion:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/264f.png?v8" width="24"> | `:scorpius:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png?v8" width="24"> | `:scotland:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f631.png?v8" width="24"> | `:scream:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f640.png?v8" width="24"> | `:scream_cat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9b.png?v8" width="24"> | `:screwdriver:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png?v8" width="24"> | `:scroll:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ad.png?v8" width="24"> | `:seal:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ba.png?v8" width="24"> | `:seat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/3299.png?v8" width="24"> | `:secret:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f648.png?v8" width="24"> | `:see_no_evil:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png?v8" width="24"> | `:seedling:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f933.png?v8" width="24"> | `:selfie:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f3.png?v8" width="24"> | `:senegal:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1f8.png?v8" width="24"> | `:serbia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f415-1f9ba.png?v8" width="24"> | `:service_dog:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/0037-20e3.png?v8" width="24"> | `:seven:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa1.png?v8" width="24"> | `:sewing_needle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1e8.png?v8" width="24"> | `:seychelles:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae8.png?v8" width="24"> | `:shaking_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f958.png?v8" width="24"> | `:shallow_pan_of_food:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2618.png?v8" width="24"> | `:shamrock:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f988.png?v8" width="24"> | `:shark:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f367.png?v8" width="24"> | `:shaved_ice:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f411.png?v8" width="24"> | `:sheep:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41a.png?v8" width="24"> | `:shell:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e1.png?v8" width="24"> | `:shield:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26e9.png?v8" width="24"> | `:shinto_shrine:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a2.png?v8" width="24"> | `:ship:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/shipit.png?v8" width="24"> | `:shipit:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f455.png?v8" width="24"> | `:shirt:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a9.png?v8" width="24"> | `:shit:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45e.png?v8" width="24"> | `:shoe:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6cd.png?v8" width="24"> | `:shopping:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d2.png?v8" width="24"> | `:shopping_cart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa73.png?v8" width="24"> | `:shorts:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6bf.png?v8" width="24"> | `:shower:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f990.png?v8" width="24"> | `:shrimp:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f937.png?v8" width="24"> | `:shrug:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f92b.png?v8" width="24"> | `:shushing_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f1.png?v8" width="24"> | `:sierra_leone:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f6.png?v8" width="24"> | `:signal_strength:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ec.png?v8" width="24"> | `:singapore:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f3a4.png?v8" width="24"> | `:singer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1fd.png?v8" width="24"> | `:sint_maarten:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/0036-20e3.png?v8" width="24"> | `:six:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52f.png?v8" width="24"> | `:six_pointed_star:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f9.png?v8" width="24"> | `:skateboard:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3bf.png?v8" width="24"> | `:ski:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f7.png?v8" width="24"> | `:skier:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f480.png?v8" width="24"> | `:skull:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2620.png?v8" width="24"> | `:skull_and_crossbones:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a8.png?v8" width="24"> | `:skunk:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f7.png?v8" width="24"> | `:sled:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f634.png?v8" width="24"> | `:sleeping:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6cc.png?v8" width="24"> | `:sleeping_bed:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62a.png?v8" width="24"> | `:sleepy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f641.png?v8" width="24"> | `:slightly_frowning_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f642.png?v8" width="24"> | `:slightly_smiling_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b0.png?v8" width="24"> | `:slot_machine:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a5.png?v8" width="24"> | `:sloth:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f0.png?v8" width="24"> | `:slovakia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ee.png?v8" width="24"> | `:slovenia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e9.png?v8" width="24"> | `:small_airplane:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png?v8" width="24"> | `:small_blue_diamond:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f538.png?v8" width="24"> | `:small_orange_diamond:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f53a.png?v8" width="24"> | `:small_red_triangle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f53b.png?v8" width="24"> | `:small_red_triangle_down:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" width="24"> | `:smile:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f638.png?v8" width="24"> | `:smile_cat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f603.png?v8" width="24"> | `:smiley:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f63a.png?v8" width="24"> | `:smiley_cat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f972.png?v8" width="24"> | `:smiling_face_with_tear:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="24"> | `:smiling_face_with_three_hearts:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f608.png?v8" width="24"> | `:smiling_imp:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png?v8" width="24"> | `:smirk:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f63c.png?v8" width="24"> | `:smirk_cat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ac.png?v8" width="24"> | `:smoking:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40c.png?v8" width="24"> | `:snail:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40d.png?v8" width="24"> | `:snake:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f927.png?v8" width="24"> | `:sneezing_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c2.png?v8" width="24"> | `:snowboarder:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2744.png?v8" width="24"> | `:snowflake:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26c4.png?v8" width="24"> | `:snowman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2603.png?v8" width="24"> | `:snowman_with_snow:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9fc.png?v8" width="24"> | `:soap:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62d.png?v8" width="24"> | `:sob:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26bd.png?v8" width="24"> | `:soccer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e6.png?v8" width="24"> | `:socks:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94e.png?v8" width="24"> | `:softball:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1e7.png?v8" width="24"> | `:solomon_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f4.png?v8" width="24"> | `:somalia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51c.png?v8" width="24"> | `:soon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f198.png?v8" width="24"> | `:sos:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f509.png?v8" width="24"> | `:sound:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ff-1f1e6.png?v8" width="24"> | `:south_africa:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f8.png?v8" width="24"> | `:south_georgia_south_sandwich_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f8.png?v8" width="24"> | `:south_sudan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47e.png?v8" width="24"> | `:space_invader:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2660.png?v8" width="24"> | `:spades:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f35d.png?v8" width="24"> | `:spaghetti:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2747.png?v8" width="24"> | `:sparkle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f387.png?v8" width="24"> | `:sparkler:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png?v8" width="24"> | `:sparkles:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png?v8" width="24"> | `:sparkling_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64a.png?v8" width="24"> | `:speak_no_evil:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f508.png?v8" width="24"> | `:speaker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5e3.png?v8" width="24"> | `:speaking_head:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png?v8" width="24"> | `:speech_balloon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a4.png?v8" width="24"> | `:speedboat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f577.png?v8" width="24"> | `:spider:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f578.png?v8" width="24"> | `:spider_web:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5d3.png?v8" width="24"> | `:spiral_calendar:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5d2.png?v8" width="24"> | `:spiral_notepad:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9fd.png?v8" width="24"> | `:sponge:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f944.png?v8" width="24"> | `:spoon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f991.png?v8" width="24"> | `:squid:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1f0.png?v8" width="24"> | `:sri_lanka:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f1.png?v8" width="24"> | `:st_barthelemy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ed.png?v8" width="24"> | `:st_helena:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1f3.png?v8" width="24"> | `:st_kitts_nevis:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1e8.png?v8" width="24"> | `:st_lucia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1eb.png?v8" width="24"> | `:st_martin:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f2.png?v8" width="24"> | `:st_pierre_miquelon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1e8.png?v8" width="24"> | `:st_vincent_grenadines:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3df.png?v8" width="24"> | `:stadium:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cd-2642.png?v8" width="24"> | `:standing_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cd.png?v8" width="24"> | `:standing_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cd-2640.png?v8" width="24"> | `:standing_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8" width="24"> | `:star:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png?v8" width="24"> | `:star2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/262a.png?v8" width="24"> | `:star_and_crescent:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2721.png?v8" width="24"> | `:star_of_david:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f929.png?v8" width="24"> | `:star_struck:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f320.png?v8" width="24"> | `:stars:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f689.png?v8" width="24"> | `:station:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5fd.png?v8" width="24"> | `:statue_of_liberty:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f682.png?v8" width="24"> | `:steam_locomotive:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa7a.png?v8" width="24"> | `:stethoscope:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f372.png?v8" width="24"> | `:stew:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23f9.png?v8" width="24"> | `:stop_button:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d1.png?v8" width="24"> | `:stop_sign:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png?v8" width="24"> | `:stopwatch:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cf.png?v8" width="24"> | `:straight_ruler:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f353.png?v8" width="24"> | `:strawberry:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f61b.png?v8" width="24"> | `:stuck_out_tongue:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f61d.png?v8" width="24"> | `:stuck_out_tongue_closed_eyes:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f61c.png?v8" width="24"> | `:stuck_out_tongue_winking_eye:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f393.png?v8" width="24"> | `:student:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f399.png?v8" width="24"> | `:studio_microphone:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f959.png?v8" width="24"> | `:stuffed_flatbread:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1e9.png?v8" width="24"> | `:sudan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f325.png?v8" width="24"> | `:sun_behind_large_cloud:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f326.png?v8" width="24"> | `:sun_behind_rain_cloud:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f324.png?v8" width="24"> | `:sun_behind_small_cloud:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png?v8" width="24"> | `:sun_with_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33b.png?v8" width="24"> | `:sunflower:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png?v8" width="24"> | `:sunglasses:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2600.png?v8" width="24"> | `:sunny:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f305.png?v8" width="24"> | `:sunrise:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f304.png?v8" width="24"> | `:sunrise_over_mountains:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8.png?v8" width="24"> | `:superhero:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8-2642.png?v8" width="24"> | `:superhero_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8-2640.png?v8" width="24"> | `:superhero_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b9.png?v8" width="24"> | `:supervillain:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b9-2642.png?v8" width="24"> | `:supervillain_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b9-2640.png?v8" width="24"> | `:supervillain_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png?v8" width="24"> | `:surfer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4-2642.png?v8" width="24"> | `:surfing_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4-2640.png?v8" width="24"> | `:surfing_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f7.png?v8" width="24"> | `:suriname:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f363.png?v8" width="24"> | `:sushi:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/suspect.png?v8" width="24"> | `:suspect:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f69f.png?v8" width="24"> | `:suspension_railway:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ef.png?v8" width="24"> | `:svalbard_jan_mayen:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a2.png?v8" width="24"> | `:swan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ff.png?v8" width="24"> | `:swaziland:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f613.png?v8" width="24"> | `:sweat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a6.png?v8" width="24"> | `:sweat_drops:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f605.png?v8" width="24"> | `:sweat_smile:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ea.png?v8" width="24"> | `:sweden:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f360.png?v8" width="24"> | `:sweet_potato:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa72.png?v8" width="24"> | `:swim_brief:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ca.png?v8" width="24"> | `:swimmer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ca-2642.png?v8" width="24"> | `:swimming_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ca-2640.png?v8" width="24"> | `:swimming_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1ed.png?v8" width="24"> | `:switzerland:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f523.png?v8" width="24"> | `:symbols:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f54d.png?v8" width="24"> | `:synagogue:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1fe.png?v8" width="24"> | `:syria:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f489.png?v8" width="24"> | `:syringe:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f996.png?v8" width="24"> | `:t-rex:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f32e.png?v8" width="24"> | `:taco:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png?v8" width="24"> | `:tada:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1fc.png?v8" width="24"> | `:taiwan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1ef.png?v8" width="24"> | `:tajikistan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f961.png?v8" width="24"> | `:takeout_box:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad4.png?v8" width="24"> | `:tamale:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f38b.png?v8" width="24"> | `:tanabata_tree:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34a.png?v8" width="24"> | `:tangerine:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1ff.png?v8" width="24"> | `:tanzania:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2649.png?v8" width="24"> | `:taurus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f695.png?v8" width="24"> | `:taxi:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f375.png?v8" width="24"> | `:tea:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f3eb.png?v8" width="24"> | `:teacher:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad6.png?v8" width="24"> | `:teapot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png?v8" width="24"> | `:technologist:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f8.png?v8" width="24"> | `:teddy_bear:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png?v8" width="24"> | `:telephone:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png?v8" width="24"> | `:telephone_receiver:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png?v8" width="24"> | `:telescope:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3be.png?v8" width="24"> | `:tennis:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26fa.png?v8" width="24"> | `:tent:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ea.png?v8" width="24"> | `:test_tube:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1ed.png?v8" width="24"> | `:thailand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f321.png?v8" width="24"> | `:thermometer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png?v8" width="24"> | `:thinking:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa74.png?v8" width="24"> | `:thong_sandal:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ad.png?v8" width="24"> | `:thought_balloon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f5.png?v8" width="24"> | `:thread:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/0033-20e3.png?v8" width="24"> | `:three:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44e.png?v8" width="24"> | `:thumbsdown:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png?v8" width="24"> | `:thumbsup:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ab.png?v8" width="24"> | `:ticket:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f39f.png?v8" width="24"> | `:tickets:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42f.png?v8" width="24"> | `:tiger:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f405.png?v8" width="24"> | `:tiger2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23f2.png?v8" width="24"> | `:timer_clock:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f1.png?v8" width="24"> | `:timor_leste:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f481-2642.png?v8" width="24"> | `:tipping_hand_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f481.png?v8" width="24"> | `:tipping_hand_person:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f481-2640.png?v8" width="24"> | `:tipping_hand_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62b.png?v8" width="24"> | `:tired_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2122.png?v8" width="24"> | `:tm:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1ec.png?v8" width="24"> | `:togo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6bd.png?v8" width="24"> | `:toilet:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f0.png?v8" width="24"> | `:tokelau:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5fc.png?v8" width="24"> | `:tokyo_tower:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f345.png?v8" width="24"> | `:tomato:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f4.png?v8" width="24"> | `:tonga:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f445.png?v8" width="24"> | `:tongue:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png?v8" width="24"> | `:toolbox:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b7.png?v8" width="24"> | `:tooth:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa5.png?v8" width="24"> | `:toothbrush:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51d.png?v8" width="24"> | `:top:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a9.png?v8" width="24"> | `:tophat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f32a.png?v8" width="24"> | `:tornado:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f7.png?v8" width="24"> | `:tr:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5b2.png?v8" width="24"> | `:trackball:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f69c.png?v8" width="24"> | `:tractor:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a5.png?v8" width="24"> | `:traffic_light:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f68b.png?v8" width="24"> | `:train:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f686.png?v8" width="24"> | `:train2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f68a.png?v8" width="24"> | `:tram:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f3-26a7.png?v8" width="24"> | `:transgender_flag:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26a7.png?v8" width="24"> | `:transgender_symbol:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a9.png?v8" width="24"> | `:triangular_flag_on_post:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png?v8" width="24"> | `:triangular_ruler:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f531.png?v8" width="24"> | `:trident:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f9.png?v8" width="24"> | `:trinidad_tobago:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1e6.png?v8" width="24"> | `:tristan_da_cunha:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f624.png?v8" width="24"> | `:triumph:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cc.png?v8" width="24"> | `:troll:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f68e.png?v8" width="24"> | `:trolleybus:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/trollface.png?v8" width="24"> | `:trollface:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png?v8" width="24"> | `:trophy:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f379.png?v8" width="24"> | `:tropical_drink:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f420.png?v8" width="24"> | `:tropical_fish:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f69a.png?v8" width="24"> | `:truck:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ba.png?v8" width="24"> | `:trumpet:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f455.png?v8" width="24"> | `:tshirt:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f337.png?v8" width="24"> | `:tulip:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f943.png?v8" width="24"> | `:tumbler_glass:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f3.png?v8" width="24"> | `:tunisia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f983.png?v8" width="24"> | `:turkey:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f2.png?v8" width="24"> | `:turkmenistan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1e8.png?v8" width="24"> | `:turks_caicos_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f422.png?v8" width="24"> | `:turtle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1fb.png?v8" width="24"> | `:tuvalu:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png?v8" width="24"> | `:tv:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f500.png?v8" width="24"> | `:twisted_rightwards_arrows:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8" width="24"> | `:two:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f495.png?v8" width="24"> | `:two_hearts:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46c.png?v8" width="24"> | `:two_men_holding_hands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46d.png?v8" width="24"> | `:two_women_holding_hands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f239.png?v8" width="24"> | `:u5272:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f234.png?v8" width="24"> | `:u5408:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f23a.png?v8" width="24"> | `:u55b6:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f22f.png?v8" width="24"> | `:u6307:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f237.png?v8" width="24"> | `:u6708:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f236.png?v8" width="24"> | `:u6709:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f235.png?v8" width="24"> | `:u6e80:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f21a.png?v8" width="24"> | `:u7121:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f238.png?v8" width="24"> | `:u7533:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f232.png?v8" width="24"> | `:u7981:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f233.png?v8" width="24"> | `:u7a7a:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1ec.png?v8" width="24"> | `:uganda:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8" width="24"> | `:uk:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png?v8" width="24"> | `:ukraine:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2614.png?v8" width="24"> | `:umbrella:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f612.png?v8" width="24"> | `:unamused:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51e.png?v8" width="24"> | `:underage:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f984.png?v8" width="24"> | `:unicorn:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1ea.png?v8" width="24"> | `:united_arab_emirates:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f3.png?v8" width="24"> | `:united_nations:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f513.png?v8" width="24"> | `:unlock:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f199.png?v8" width="24"> | `:up:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f643.png?v8" width="24"> | `:upside_down_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1fe.png?v8" width="24"> | `:uruguay:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8" width="24"> | `:us:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f2.png?v8" width="24"> | `:us_outlying_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1ee.png?v8" width="24"> | `:us_virgin_islands:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1ff.png?v8" width="24"> | `:uzbekistan:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png?v8" width="24"> | `:v:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9db.png?v8" width="24"> | `:vampire:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9db-2642.png?v8" width="24"> | `:vampire_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9db-2640.png?v8" width="24"> | `:vampire_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1fa.png?v8" width="24"> | `:vanuatu:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1e6.png?v8" width="24"> | `:vatican_city:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1ea.png?v8" width="24"> | `:venezuela:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a6.png?v8" width="24"> | `:vertical_traffic_light:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fc.png?v8" width="24"> | `:vhs:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f3.png?v8" width="24"> | `:vibration_mode:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f9.png?v8" width="24"> | `:video_camera:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png?v8" width="24"> | `:video_game:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1f3.png?v8" width="24"> | `:vietnam:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3bb.png?v8" width="24"> | `:violin:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/264d.png?v8" width="24"> | `:virgo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30b.png?v8" width="24"> | `:volcano:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d0.png?v8" width="24"> | `:volleyball:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f92e.png?v8" width="24"> | `:vomiting_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f19a.png?v8" width="24"> | `:vs:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f596.png?v8" width="24"> | `:vulcan_salute:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c7.png?v8" width="24"> | `:waffle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png?v8" width="24"> | `:wales:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b6.png?v8" width="24"> | `:walking:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b6-2642.png?v8" width="24"> | `:walking_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b6-2640.png?v8" width="24"> | `:walking_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fc-1f1eb.png?v8" width="24"> | `:wallis_futuna:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f318.png?v8" width="24"> | `:waning_crescent_moon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f316.png?v8" width="24"> | `:waning_gibbous_moon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png?v8" width="24"> | `:warning:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5d1.png?v8" width="24"> | `:wastebasket:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/231a.png?v8" width="24"> | `:watch:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f403.png?v8" width="24"> | `:water_buffalo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93d.png?v8" width="24"> | `:water_polo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f349.png?v8" width="24"> | `:watermelon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" width="24"> | `:wave:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/3030.png?v8" width="24"> | `:wavy_dash:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f312.png?v8" width="24"> | `:waxing_crescent_moon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f314.png?v8" width="24"> | `:waxing_gibbous_moon:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6be.png?v8" width="24"> | `:wc:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f629.png?v8" width="24"> | `:weary:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f492.png?v8" width="24"> | `:wedding:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cb.png?v8" width="24"> | `:weight_lifting:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cb-2642.png?v8" width="24"> | `:weight_lifting_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cb-2640.png?v8" width="24"> | `:weight_lifting_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1ed.png?v8" width="24"> | `:western_sahara:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png?v8" width="24"> | `:whale:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40b.png?v8" width="24"> | `:whale2:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6de.png?v8" width="24"> | `:wheel:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2638.png?v8" width="24"> | `:wheel_of_dharma:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/267f.png?v8" width="24"> | `:wheelchair:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png?v8" width="24"> | `:white_check_mark:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26aa.png?v8" width="24"> | `:white_circle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f3.png?v8" width="24"> | `:white_flag:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ae.png?v8" width="24"> | `:white_flower:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9b3.png?v8" width="24"> | `:white_haired_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9b3.png?v8" width="24"> | `:white_haired_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f90d.png?v8" width="24"> | `:white_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b1c.png?v8" width="24"> | `:white_large_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/25fd.png?v8" width="24"> | `:white_medium_small_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/25fb.png?v8" width="24"> | `:white_medium_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/25ab.png?v8" width="24"> | `:white_small_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f533.png?v8" width="24"> | `:white_square_button:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f940.png?v8" width="24"> | `:wilted_flower:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f390.png?v8" width="24"> | `:wind_chime:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f32c.png?v8" width="24"> | `:wind_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9f.png?v8" width="24"> | `:window:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f377.png?v8" width="24"> | `:wine_glass:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fabd.png?v8" width="24"> | `:wing:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png?v8" width="24"> | `:wink:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6dc.png?v8" width="24"> | `:wireless:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43a.png?v8" width="24"> | `:wolf:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469.png?v8" width="24"> | `:woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f3a8.png?v8" width="24"> | `:woman_artist:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f680.png?v8" width="24"> | `:woman_astronaut:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4-2640.png?v8" width="24"> | `:woman_beard:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f938-2640.png?v8" width="24"> | `:woman_cartwheeling:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f373.png?v8" width="24"> | `:woman_cook:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f483.png?v8" width="24"> | `:woman_dancing:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f926-2640.png?v8" width="24"> | `:woman_facepalming:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f3ed.png?v8" width="24"> | `:woman_factory_worker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f33e.png?v8" width="24"> | `:woman_farmer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f37c.png?v8" width="24"> | `:woman_feeding_baby:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f692.png?v8" width="24"> | `:woman_firefighter:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2695.png?v8" width="24"> | `:woman_health_worker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9bd.png?v8" width="24"> | `:woman_in_manual_wheelchair:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9bc.png?v8" width="24"> | `:woman_in_motorized_wheelchair:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f935-2640.png?v8" width="24"> | `:woman_in_tuxedo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2696.png?v8" width="24"> | `:woman_judge:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f939-2640.png?v8" width="24"> | `:woman_juggling:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f527.png?v8" width="24"> | `:woman_mechanic:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bc.png?v8" width="24"> | `:woman_office_worker:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2708.png?v8" width="24"> | `:woman_pilot:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93e-2640.png?v8" width="24"> | `:woman_playing_handball:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93d-2640.png?v8" width="24"> | `:woman_playing_water_polo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f52c.png?v8" width="24"> | `:woman_scientist:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f937-2640.png?v8" width="24"> | `:woman_shrugging:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f3a4.png?v8" width="24"> | `:woman_singer:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f393.png?v8" width="24"> | `:woman_student:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f3eb.png?v8" width="24"> | `:woman_teacher:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png?v8" width="24"> | `:woman_technologist:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d5.png?v8" width="24"> | `:woman_with_headscarf:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9af.png?v8" width="24"> | `:woman_with_probing_cane:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f473-2640.png?v8" width="24"> | `:woman_with_turban:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f470-2640.png?v8" width="24"> | `:woman_with_veil:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45a.png?v8" width="24"> | `:womans_clothes:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f452.png?v8" width="24"> | `:womans_hat:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93c-2640.png?v8" width="24"> | `:women_wrestling:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ba.png?v8" width="24"> | `:womens:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab5.png?v8" width="24"> | `:wood:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f974.png?v8" width="24"> | `:woozy_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5fa.png?v8" width="24"> | `:world_map:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab1.png?v8" width="24"> | `:worm:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f61f.png?v8" width="24"> | `:worried:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png?v8" width="24"> | `:wrench:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93c.png?v8" width="24"> | `:wrestling:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png?v8" width="24"> | `:writing_hand:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png?v8" width="24"> | `:x:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa7b.png?v8" width="24"> | `:x_ray:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f6.png?v8" width="24"> | `:yarn:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f971.png?v8" width="24"> | `:yawning_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e1.png?v8" width="24"> | `:yellow_circle:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49b.png?v8" width="24"> | `:yellow_heart:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e8.png?v8" width="24"> | `:yellow_square:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fe-1f1ea.png?v8" width="24"> | `:yemen:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b4.png?v8" width="24"> | `:yen:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/262f.png?v8" width="24"> | `:yin_yang:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa80.png?v8" width="24"> | `:yo_yo:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f60b.png?v8" width="24"> | `:yum:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ff-1f1f2.png?v8" width="24"> | `:zambia:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f92a.png?v8" width="24"> | `:zany_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png?v8" width="24"> | `:zap:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f993.png?v8" width="24"> | `:zebra:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/0030-20e3.png?v8" width="24"> | `:zero:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ff-1f1fc.png?v8" width="24"> | `:zimbabwe:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f910.png?v8" width="24"> | `:zipper_mouth_face:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9df.png?v8" width="24"> | `:zombie:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9df-2642.png?v8" width="24"> | `:zombie_man:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9df-2640.png?v8" width="24"> | `:zombie_woman:` |
-| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a4.png?v8" width="24"> | `:zzz:` |
+Total emojis: **1936**
+
+Organized by category for easier browsing.
+
+## Categories
+
+- [⚽ Activities & Sports](#activities-sports) (122)
+- [❤️ People & Love](#people-love) (211)
+- [🌎 Flags](#flags) (9)
+- [🌤 Weather & Nature](#weather-nature) (90)
+- [🍔 Food & Drink](#food-drink) (130)
+- [🏠 Places & Buildings](#places-buildings) (34)
+- [🐾 Animals & Nature](#animals-nature) (118)
+- [📋 Office & Stationery](#office-stationery) (47)
+- [😀 Faces & Emotions](#faces-emotions) (110)
+- [🚀 Tech & Dev](#tech-dev) (52)
+- [🚗 Travel & Transport](#travel-transport) (72)
+- [📦 Misc](#misc) (941)
+
+## ⚽ Activities & Sports
+
+| Emoji | Code | Emoji | Code | Emoji | Code |
+|:--:|:--|:--:|:--|:--:|:--|
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f947.png?v8" width="20"> | `:1st_place_medal:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8" width="20"> | `:2nd_place_medal:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f949.png?v8" width="20"> | `:3rd_place_medal:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b1.png?v8" width="20"> | `:8ball:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fac0.png?v8" width="20"> | `:anatomical_heart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png?v8" width="20"> | `:art:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f69b.png?v8" width="20"> | `:articulated_lorry:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f0.png?v8" width="20"> | `:artificial_satellite:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f3a8.png?v8" width="20"> | `:artist:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f8.png?v8" width="20"> | `:badminton:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa70.png?v8" width="20"> | `:ballet_shoes:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png?v8" width="20"> | `:balloon:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5f3.png?v8" width="20"> | `:ballot_box:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png?v8" width="20"> | `:ballot_box_with_check:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png?v8" width="20"> | `:bar_chart:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26be.png?v8" width="20"> | `:baseball:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c0.png?v8" width="20"> | `:basketball:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f9-2642.png?v8" width="20"> | `:basketball_man:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f9-2640.png?v8" width="20"> | `:basketball_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b4.png?v8" width="20"> | `:bicyclist:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a4.png?v8" width="20"> | `:black_heart:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png?v8" width="20"> | `:blue_heart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f9-2642.png?v8" width="20"> | `:bouncing_ball_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f9.png?v8" width="20"> | `:bouncing_ball_person:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f9-2640.png?v8" width="20"> | `:bouncing_ball_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f9.png?v8" width="20"> | `:bow_and_arrow:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94a.png?v8" width="20"> | `:boxing_glove:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f494.png?v8" width="20"> | `:broken_heart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f90e.png?v8" width="20"> | `:brown_heart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f938.png?v8" width="20"> | `:cartwheeling:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b9.png?v8" width="20"> | `:chart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c9.png?v8" width="20"> | `:chart_with_downwards_trend:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png?v8" width="20"> | `:chart_with_upwards_trend:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3aa.png?v8" width="20"> | `:circus_tent:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f38a.png?v8" width="20"> | `:confetti_ball:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f491.png?v8" width="20"> | `:couple_with_heart:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-2764-1f468.png?v8" width="20"> | `:couple_with_heart_man_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2764-1f468.png?v8" width="20"> | `:couple_with_heart_woman_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2764-1f469.png?v8" width="20"> | `:couple_with_heart_woman_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png?v8" width="20"> | `:dart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ec.png?v8" width="20"> | `:department_store:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png?v8" width="20"> | `:earth_africa:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png?v8" width="20"> | `:earth_americas:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png?v8" width="20"> | `:earth_asia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f313.png?v8" width="20"> | `:first_quarter_moon:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6eb.png?v8" width="20"> | `:flight_departure:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c8.png?v8" width="20"> | `:football:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b2.png?v8" width="20"> | `:game_die:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49d.png?v8" width="20"> | `:gift_heart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png?v8" width="20"> | `:goal_net:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f3.png?v8" width="20"> | `:golf:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cc.png?v8" width="20"> | `:golfing:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cc-2642.png?v8" width="20"> | `:golfing_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cc-2640.png?v8" width="20"> | `:golfing_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49a.png?v8" width="20"> | `:green_heart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa76.png?v8" width="20"> | `:grey_heart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93e.png?v8" width="20"> | `:handball_person:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" width="20"> | `:heart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49f.png?v8" width="20"> | `:heart_decoration:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f60d.png?v8" width="20"> | `:heart_eyes:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf6.png?v8" width="20"> | `:heart_hands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1f525.png?v8" width="20"> | `:heart_on_fire:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png?v8" width="20"> | `:heartbeat:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f497.png?v8" width="20"> | `:heartpulse:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png?v8" width="20"> | `:hearts:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2763.png?v8" width="20"> | `:heavy_heart_exclamation:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f579.png?v8" width="20"> | `:joystick:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94d.png?v8" width="20"> | `:lacrosse:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f317.png?v8" width="20"> | `:last_quarter_moon:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa75.png?v8" width="20"> | `:light_blue_heart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3a8.png?v8" width="20"> | `:man_artist:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f938-2642.png?v8" width="20"> | `:man_cartwheeling:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93e-2642.png?v8" width="20"> | `:man_playing_handball:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png?v8" width="20"> | `:martial_arts_uniform:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f6.png?v8" width="20"> | `:martinique:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f396.png?v8" width="20"> | `:medal_military:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png?v8" width="20"> | `:medal_sports:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1fa79.png?v8" width="20"> | `:mending_heart:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa9.png?v8" width="20"> | `:mirror_ball:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b5.png?v8" width="20"> | `:mountain_bicyclist:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/303d.png?v8" width="20"> | `:part_alternation_mark:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26c5.png?v8" width="20"> | `:partly_sunny:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c2.png?v8" width="20"> | `:passport_control:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png?v8" width="20"> | `:performing_arts:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d3.png?v8" width="20"> | `:ping_pong:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa77.png?v8" width="20"> | `:pink_heart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png?v8" width="20"> | `:purple_heart:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png?v8" width="20"> | `:revolving_hearts:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c9.png?v8" width="20"> | `:rugby_football:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8" width="20"> | `:running:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3-2642.png?v8" width="20"> | `:running_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3bd.png?v8" width="20"> | `:running_shirt_with_sash:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3-2640.png?v8" width="20"> | `:running_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d2.png?v8" width="20"> | `:shopping_cart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1fd.png?v8" width="20"> | `:sint_maarten:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b0.png?v8" width="20"> | `:slot_machine:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c2.png?v8" width="20"> | `:snowboarder:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26bd.png?v8" width="20"> | `:soccer:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94e.png?v8" width="20"> | `:softball:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png?v8" width="20"> | `:sparkling_heart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png?v8" width="20"> | `:speech_balloon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f1.png?v8" width="20"> | `:st_barthelemy:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1eb.png?v8" width="20"> | `:st_martin:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png?v8" width="20"> | `:surfer:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ca.png?v8" width="20"> | `:swimmer:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3be.png?v8" width="20"> | `:tennis:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ad.png?v8" width="20"> | `:thought_balloon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ab.png?v8" width="20"> | `:ticket:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f39f.png?v8" width="20"> | `:tickets:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5b2.png?v8" width="20"> | `:trackball:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png?v8" width="20"> | `:trophy:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f495.png?v8" width="20"> | `:two_hearts:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png?v8" width="20"> | `:video_game:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d0.png?v8" width="20"> | `:volleyball:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cb.png?v8" width="20"> | `:weight_lifting:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cb-2642.png?v8" width="20"> | `:weight_lifting_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cb-2640.png?v8" width="20"> | `:weight_lifting_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f90d.png?v8" width="20"> | `:white_heart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f3a8.png?v8" width="20"> | `:woman_artist:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f938-2640.png?v8" width="20"> | `:woman_cartwheeling:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93e-2640.png?v8" width="20"> | `:woman_playing_handball:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f49b.png?v8" width="20"> | `:yellow_heart:` |  |  |
+
+## ❤️ People & Love
+
+| Emoji | Code | Emoji | Code | Emoji | Code |
+|:--:|:--|:--:|:--|:--:|:--|
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f476.png?v8" width="20"> | `:baby:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f37c.png?v8" width="20"> | `:baby_bottle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f424.png?v8" width="20"> | `:baby_chick:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6bc.png?v8" width="20"> | `:baby_symbol:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9b2.png?v8" width="20"> | `:bald_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9b2.png?v8" width="20"> | `:bald_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b4-2642.png?v8" width="20"> | `:biking_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b4-2640.png?v8" width="20"> | `:biking_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f471-2642.png?v8" width="20"> | `:blond_haired_man:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f471.png?v8" width="20"> | `:blond_haired_person:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f471-2640.png?v8" width="20"> | `:blond_haired_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f471-2640.png?v8" width="20"> | `:blonde_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f647-2642.png?v8" width="20"> | `:bowing_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f647-2640.png?v8" width="20"> | `:bowing_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f466.png?v8" width="20"> | `:boy:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1fe.png?v8" width="20"> | `:cayman_islands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d2.png?v8" width="20"> | `:child:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b8.png?v8" width="20"> | `:children_crossing:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d7-2642.png?v8" width="20"> | `:climbing_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d7-2640.png?v8" width="20"> | `:climbing_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f477-2642.png?v8" width="20"> | `:construction_worker_man:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f477-2640.png?v8" width="20"> | `:construction_worker_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46b.png?v8" width="20"> | `:couple:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f48f.png?v8" width="20"> | `:couplekiss:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-2764-1f48b-1f468.png?v8" width="20"> | `:couplekiss_man_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2764-1f48b-1f468.png?v8" width="20"> | `:couplekiss_man_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2764-1f48b-1f469.png?v8" width="20"> | `:couplekiss_woman_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9b1.png?v8" width="20"> | `:curly_haired_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9b1.png?v8" width="20"> | `:curly_haired_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cf-2642.png?v8" width="20"> | `:deaf_man:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cf.png?v8" width="20"> | `:deaf_person:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cf-2640.png?v8" width="20"> | `:deaf_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dd-2642.png?v8" width="20"> | `:elf_man:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dd-2640.png?v8" width="20"> | `:elf_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9da-2642.png?v8" width="20"> | `:fairy_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9da-2640.png?v8" width="20"> | `:fairy_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46a.png?v8" width="20"> | `:family:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f466.png?v8" width="20"> | `:family_man_boy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f466-1f466.png?v8" width="20"> | `:family_man_boy_boy:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f467.png?v8" width="20"> | `:family_man_girl:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f467-1f466.png?v8" width="20"> | `:family_man_girl_boy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f467-1f467.png?v8" width="20"> | `:family_man_girl_girl:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f468-1f466.png?v8" width="20"> | `:family_man_man_boy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f468-1f466-1f466.png?v8" width="20"> | `:family_man_man_boy_boy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f468-1f467.png?v8" width="20"> | `:family_man_man_girl:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f468-1f467-1f466.png?v8" width="20"> | `:family_man_man_girl_boy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f468-1f467-1f467.png?v8" width="20"> | `:family_man_man_girl_girl:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f469-1f466.png?v8" width="20"> | `:family_man_woman_boy:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f469-1f466-1f466.png?v8" width="20"> | `:family_man_woman_boy_boy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f469-1f467.png?v8" width="20"> | `:family_man_woman_girl:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f469-1f467-1f466.png?v8" width="20"> | `:family_man_woman_girl_boy:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f469-1f467-1f467.png?v8" width="20"> | `:family_man_woman_girl_girl:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f466.png?v8" width="20"> | `:family_woman_boy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f466-1f466.png?v8" width="20"> | `:family_woman_boy_boy:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f467.png?v8" width="20"> | `:family_woman_girl:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f467-1f466.png?v8" width="20"> | `:family_woman_girl_boy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f467-1f467.png?v8" width="20"> | `:family_woman_girl_girl:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f469-1f466.png?v8" width="20"> | `:family_woman_woman_boy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f469-1f466-1f466.png?v8" width="20"> | `:family_woman_woman_boy_boy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f469-1f467.png?v8" width="20"> | `:family_woman_woman_girl:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f469-1f467-1f466.png?v8" width="20"> | `:family_woman_woman_girl_boy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f469-1f467-1f467.png?v8" width="20"> | `:family_woman_woman_girl_girl:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f340.png?v8" width="20"> | `:four_leaf_clover:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9de-2642.png?v8" width="20"> | `:genie_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9de-2640.png?v8" width="20"> | `:genie_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f467.png?v8" width="20"> | `:girl:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e4.png?v8" width="20"> | `:gloves:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f482-2642.png?v8" width="20"> | `:guardsman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f482-2640.png?v8" width="20"> | `:guardswoman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f487-2642.png?v8" width="20"> | `:haircut_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f487-2640.png?v8" width="20"> | `:haircut_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f481.png?v8" width="20"> | `:information_desk_person:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f2.png?v8" width="20"> | `:isle_of_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f939.png?v8" width="20"> | `:juggling_person:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f48b.png?v8" width="20"> | `:kiss:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ce-2642.png?v8" width="20"> | `:kneeling_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ce.png?v8" width="20"> | `:kneeling_person:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ce-2640.png?v8" width="20"> | `:kneeling_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2642.png?v8" width="20"> | `:lotus_position_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png?v8" width="20"> | `:lotus_position_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png?v8" width="20"> | `:love_letter:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91f.png?v8" width="20"> | `:love_you_gesture:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d9-2642.png?v8" width="20"> | `:mage_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d9-2640.png?v8" width="20"> | `:mage_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468.png?v8" width="20"> | `:man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f680.png?v8" width="20"> | `:man_astronaut:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f373.png?v8" width="20"> | `:man_cook:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f57a.png?v8" width="20"> | `:man_dancing:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3ed.png?v8" width="20"> | `:man_factory_worker:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f33e.png?v8" width="20"> | `:man_farmer:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f37c.png?v8" width="20"> | `:man_feeding_baby:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-2695.png?v8" width="20"> | `:man_health_worker:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9bd.png?v8" width="20"> | `:man_in_manual_wheelchair:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9bc.png?v8" width="20"> | `:man_in_motorized_wheelchair:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f935-2642.png?v8" width="20"> | `:man_in_tuxedo:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-2696.png?v8" width="20"> | `:man_judge:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f939-2642.png?v8" width="20"> | `:man_juggling:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f527.png?v8" width="20"> | `:man_mechanic:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-2708.png?v8" width="20"> | `:man_pilot:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93d-2642.png?v8" width="20"> | `:man_playing_water_polo:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f52c.png?v8" width="20"> | `:man_scientist:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f937-2642.png?v8" width="20"> | `:man_shrugging:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3a4.png?v8" width="20"> | `:man_singer:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f393.png?v8" width="20"> | `:man_student:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png?v8" width="20"> | `:man_technologist:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f472.png?v8" width="20"> | `:man_with_gua_pi_mao:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9af.png?v8" width="20"> | `:man_with_probing_cane:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f473-2642.png?v8" width="20"> | `:man_with_turban:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f470-2642.png?v8" width="20"> | `:man_with_veil:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34a.png?v8" width="20"> | `:mandarin:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45e.png?v8" width="20"> | `:mans_shoe:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9bd.png?v8" width="20"> | `:manual_wheelchair:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f486-2642.png?v8" width="20"> | `:massage_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f486-2640.png?v8" width="20"> | `:massage_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dc-2642.png?v8" width="20"> | `:merman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dc.png?v8" width="20"> | `:merperson:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b5-2642.png?v8" width="20"> | `:mountain_biking_man:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b5-2640.png?v8" width="20"> | `:mountain_biking_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f645-2642.png?v8" width="20"> | `:ng_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f645-2640.png?v8" width="20"> | `:ng_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f645-2642.png?v8" width="20"> | `:no_good_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f645-2640.png?v8" width="20"> | `:no_good_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f646-2642.png?v8" width="20"> | `:ok_man:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f646.png?v8" width="20"> | `:ok_person:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f646-2640.png?v8" width="20"> | `:ok_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f474.png?v8" width="20"> | `:older_man:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f475.png?v8" width="20"> | `:older_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f4-1f1f2.png?v8" width="20"> | `:oman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f91d-1f9d1.png?v8" width="20"> | `:people_holding_hands:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fac2.png?v8" width="20"> | `:people_hugging:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9b2.png?v8" width="20"> | `:person_bald:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9b1.png?v8" width="20"> | `:person_curly_hair:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f37c.png?v8" width="20"> | `:person_feeding_baby:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93a.png?v8" width="20"> | `:person_fencing:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9bd.png?v8" width="20"> | `:person_in_manual_wheelchair:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9bc.png?v8" width="20"> | `:person_in_motorized_wheelchair:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f935.png?v8" width="20"> | `:person_in_tuxedo:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9b0.png?v8" width="20"> | `:person_red_hair:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9b3.png?v8" width="20"> | `:person_white_hair:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fac5.png?v8" width="20"> | `:person_with_crown:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f9af.png?v8" width="20"> | `:person_with_probing_cane:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f473.png?v8" width="20"> | `:person_with_turban:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f470.png?v8" width="20"> | `:person_with_veil:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64e-2642.png?v8" width="20"> | `:pouting_man:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64e-2640.png?v8" width="20"> | `:pouting_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png?v8" width="20"> | `:raising_hand_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2640.png?v8" width="20"> | `:raising_hand_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9b0.png?v8" width="20"> | `:red_haired_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9b0.png?v8" width="20"> | `:red_haired_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1f4.png?v8" width="20"> | `:romania:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a3-2642.png?v8" width="20"> | `:rowing_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a3-2640.png?v8" width="20"> | `:rowing_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f481-2642.png?v8" width="20"> | `:sassy_man:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f481-2640.png?v8" width="20"> | `:sassy_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d6-2642.png?v8" width="20"> | `:sauna_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d6.png?v8" width="20"> | `:sauna_person:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d6-2640.png?v8" width="20"> | `:sauna_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ee.png?v8" width="20"> | `:slovenia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26c4.png?v8" width="20"> | `:snowman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2603.png?v8" width="20"> | `:snowman_with_snow:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cd-2642.png?v8" width="20"> | `:standing_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cd.png?v8" width="20"> | `:standing_person:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cd-2640.png?v8" width="20"> | `:standing_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8-2642.png?v8" width="20"> | `:superhero_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8-2640.png?v8" width="20"> | `:superhero_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b9-2642.png?v8" width="20"> | `:supervillain_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b9-2640.png?v8" width="20"> | `:supervillain_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4-2642.png?v8" width="20"> | `:surfing_man:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4-2640.png?v8" width="20"> | `:surfing_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ca-2642.png?v8" width="20"> | `:swimming_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ca-2640.png?v8" width="20"> | `:swimming_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f481-2642.png?v8" width="20"> | `:tipping_hand_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f481.png?v8" width="20"> | `:tipping_hand_person:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f481-2640.png?v8" width="20"> | `:tipping_hand_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46c.png?v8" width="20"> | `:two_men_holding_hands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46d.png?v8" width="20"> | `:two_women_holding_hands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9db-2642.png?v8" width="20"> | `:vampire_man:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9db-2640.png?v8" width="20"> | `:vampire_woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b6-2642.png?v8" width="20"> | `:walking_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b6-2640.png?v8" width="20"> | `:walking_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f492.png?v8" width="20"> | `:wedding:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f9b3.png?v8" width="20"> | `:white_haired_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9b3.png?v8" width="20"> | `:white_haired_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469.png?v8" width="20"> | `:woman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f680.png?v8" width="20"> | `:woman_astronaut:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f373.png?v8" width="20"> | `:woman_cook:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f483.png?v8" width="20"> | `:woman_dancing:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f3ed.png?v8" width="20"> | `:woman_factory_worker:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f33e.png?v8" width="20"> | `:woman_farmer:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f37c.png?v8" width="20"> | `:woman_feeding_baby:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2695.png?v8" width="20"> | `:woman_health_worker:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9bd.png?v8" width="20"> | `:woman_in_manual_wheelchair:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9bc.png?v8" width="20"> | `:woman_in_motorized_wheelchair:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f935-2640.png?v8" width="20"> | `:woman_in_tuxedo:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2696.png?v8" width="20"> | `:woman_judge:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f939-2640.png?v8" width="20"> | `:woman_juggling:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f527.png?v8" width="20"> | `:woman_mechanic:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-2708.png?v8" width="20"> | `:woman_pilot:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93d-2640.png?v8" width="20"> | `:woman_playing_water_polo:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f52c.png?v8" width="20"> | `:woman_scientist:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f937-2640.png?v8" width="20"> | `:woman_shrugging:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f3a4.png?v8" width="20"> | `:woman_singer:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f393.png?v8" width="20"> | `:woman_student:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png?v8" width="20"> | `:woman_technologist:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f9af.png?v8" width="20"> | `:woman_with_probing_cane:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f473-2640.png?v8" width="20"> | `:woman_with_turban:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f470-2640.png?v8" width="20"> | `:woman_with_veil:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45a.png?v8" width="20"> | `:womans_clothes:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f452.png?v8" width="20"> | `:womans_hat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9df-2642.png?v8" width="20"> | `:zombie_man:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9df-2640.png?v8" width="20"> | `:zombie_woman:` |  |  |  |  |
+
+## 🌎 Flags
+
+| Emoji | Code | Emoji | Code | Emoji | Code |
+|:--:|:--|:--:|:--|:--:|:--|
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4.png?v8" width="20"> | `:black_flag:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c1.png?v8" width="20"> | `:checkered_flag:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f38c.png?v8" width="20"> | `:crossed_flags:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f38f.png?v8" width="20"> | `:flags:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4-2620.png?v8" width="20"> | `:pirate_flag:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f3-1f308.png?v8" width="20"> | `:rainbow_flag:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f3-26a7.png?v8" width="20"> | `:transgender_flag:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a9.png?v8" width="20"> | `:triangular_flag_on_post:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f3.png?v8" width="20"> | `:white_flag:` |
+
+## 🌤 Weather & Nature
+
+| Emoji | Code | Emoji | Code | Emoji | Code |
+|:--:|:--|:--:|:--|:--:|:--|
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1fd.png?v8" width="20"> | `:aland_islands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1e8.png?v8" width="20"> | `:ascension_island:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ed.png?v8" width="20"> | `:bahrain:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d6.png?v8" width="20"> | `:beach_umbrella:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1fb.png?v8" width="20"> | `:bouvet_island:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png?v8" width="20"> | `:brain:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f309.png?v8" width="20"> | `:bridge_at_night:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f4.png?v8" width="20"> | `:british_indian_ocean_territory:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1ec.png?v8" width="20"> | `:british_virgin_islands:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d5.png?v8" width="20"> | `:camping:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e8.png?v8" width="20"> | `:canary_islands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1fd.png?v8" width="20"> | `:christmas_island:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f307.png?v8" width="20"> | `:city_sunrise:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png?v8" width="20"> | `:city_sunset:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d9.png?v8" width="20"> | `:cityscape:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f5.png?v8" width="20"> | `:clipperton_island:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f302.png?v8" width="20"> | `:closed_umbrella:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png?v8" width="20"> | `:cloud:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f329.png?v8" width="20"> | `:cloud_with_lightning:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26c8.png?v8" width="20"> | `:cloud_with_lightning_and_rain:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f327.png?v8" width="20"> | `:cloud_with_rain:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f328.png?v8" width="20"> | `:cloud_with_snow:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1e8.png?v8" width="20"> | `:cocos_islands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2604.png?v8" width="20"> | `:comet:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f0.png?v8" width="20"> | `:cook_islands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png?v8" width="20"> | `:crescent_moon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f300.png?v8" width="20"> | `:cyclone:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3dc.png?v8" width="20"> | `:desert:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3dd.png?v8" width="20"> | `:desert_island:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a7.png?v8" width="20"> | `:droplet:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2734.png?v8" width="20"> | `:eight_pointed_black_star:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f0.png?v8" width="20"> | `:falkland_islands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f4.png?v8" width="20"> | `:faroe_islands:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png?v8" width="20"> | `:fire:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ef.png?v8" width="20"> | `:fire_extinguisher:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e8.png?v8" width="20"> | `:firecracker:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f386.png?v8" width="20"> | `:fireworks:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f32b.png?v8" width="20"> | `:fog:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f301.png?v8" width="20"> | `:foggy:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f315.png?v8" width="20"> | `:full_moon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png?v8" width="20"> | `:globe_with_meridians:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1ed.png?v8" width="20"> | `:marshall_islands:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f314.png?v8" width="20"> | `:moon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f0.png?v8" width="20"> | `:mountain:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a0.png?v8" width="20"> | `:mountain_cableway:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d4.png?v8" width="20"> | `:mountain_snow:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f311.png?v8" width="20"> | `:new_moon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png?v8" width="20"> | `:night_with_stars:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b1.png?v8" width="20"> | `:non-potable_water:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1eb.png?v8" width="20"> | `:norfolk_island:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f5.png?v8" width="20"> | `:northern_mariana_islands:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30a.png?v8" width="20"> | `:ocean:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2602.png?v8" width="20"> | `:open_umbrella:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f1.png?v8" width="20"> | `:parasol_on_ground:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f3.png?v8" width="20"> | `:pitcairn_islands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b0.png?v8" width="20"> | `:potable_water:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png?v8" width="20"> | `:rainbow:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23ea.png?v8" width="20"> | `:rewind:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52f.png?v8" width="20"> | `:six_pointed_star:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2744.png?v8" width="20"> | `:snowflake:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1e7.png?v8" width="20"> | `:solomon_islands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8" width="20"> | `:star:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png?v8" width="20"> | `:star2:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/262a.png?v8" width="20"> | `:star_and_crescent:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2721.png?v8" width="20"> | `:star_of_david:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f320.png?v8" width="20"> | `:stars:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f325.png?v8" width="20"> | `:sun_behind_large_cloud:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f326.png?v8" width="20"> | `:sun_behind_rain_cloud:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f324.png?v8" width="20"> | `:sun_behind_small_cloud:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33b.png?v8" width="20"> | `:sunflower:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2600.png?v8" width="20"> | `:sunny:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f305.png?v8" width="20"> | `:sunrise:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f304.png?v8" width="20"> | `:sunrise_over_mountains:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f321.png?v8" width="20"> | `:thermometer:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f32a.png?v8" width="20"> | `:tornado:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1e8.png?v8" width="20"> | `:turks_caicos_islands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png?v8" width="20"> | `:ukraine:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2614.png?v8" width="20"> | `:umbrella:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1ee.png?v8" width="20"> | `:us_virgin_islands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30b.png?v8" width="20"> | `:volcano:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f318.png?v8" width="20"> | `:waning_crescent_moon:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f316.png?v8" width="20"> | `:waning_gibbous_moon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f403.png?v8" width="20"> | `:water_buffalo:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93d.png?v8" width="20"> | `:water_polo:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" width="20"> | `:wave:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f312.png?v8" width="20"> | `:waxing_crescent_moon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f314.png?v8" width="20"> | `:waxing_gibbous_moon:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f390.png?v8" width="20"> | `:wind_chime:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9f.png?v8" width="20"> | `:window:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5fa.png?v8" width="20"> | `:world_map:` |
+
+## 🍔 Food & Drink
+
+| Emoji | Code | Emoji | Code | Emoji | Code |
+|:--:|:--|:--:|:--|:--:|:--|
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34e.png?v8" width="20"> | `:apple:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f951.png?v8" width="20"> | `:avocado:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f953.png?v8" width="20"> | `:bacon:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f96f.png?v8" width="20"> | `:bagel:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f956.png?v8" width="20"> | `:baguette_bread:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34c.png?v8" width="20"> | `:banana:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f37a.png?v8" width="20"> | `:beer:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f37b.png?v8" width="20"> | `:beers:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad1.png?v8" width="20"> | `:bell_pepper:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f371.png?v8" width="20"> | `:bento:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c3.png?v8" width="20"> | `:beverage_box:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f421.png?v8" width="20"> | `:blowfish:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad0.png?v8" width="20"> | `:blueberries:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f35e.png?v8" width="20"> | `:bread:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f966.png?v8" width="20"> | `:broccoli:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cb.png?v8" width="20"> | `:bubble_tea:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f370.png?v8" width="20"> | `:cake:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f36c.png?v8" width="20"> | `:candy:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f96b.png?v8" width="20"> | `:canned_food:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2651.png?v8" width="20"> | `:capricorn:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f955.png?v8" width="20"> | `:carrot:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f37e.png?v8" width="20"> | `:champagne:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c0.png?v8" width="20"> | `:cheese:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f338.png?v8" width="20"> | `:cherry_blossom:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f330.png?v8" width="20"> | `:chestnut:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f36b.png?v8" width="20"> | `:chocolate_bar:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f378.png?v8" width="20"> | `:cocktail:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f965.png?v8" width="20"> | `:coconut:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png?v8" width="20"> | `:coffee:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f36a.png?v8" width="20"> | `:cookie:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33d.png?v8" width="20"> | `:corn:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png?v8" width="20"> | `:crab:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f952.png?v8" width="20"> | `:cucumber:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c1.png?v8" width="20"> | `:cupcake:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f35b.png?v8" width="20"> | `:curry:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f36e.png?v8" width="20"> | `:custard:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f969.png?v8" width="20"> | `:cut_of_meat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f369.png?v8" width="20"> | `:doughnut:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f95f.png?v8" width="20"> | `:dumpling:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33e.png?v8" width="20"> | `:ear_of_rice:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f95a.png?v8" width="20"> | `:egg:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f346.png?v8" width="20"> | `:eggplant:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c6.png?v8" width="20"> | `:falafel:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f692.png?v8" width="20"> | `:firefighter:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41f.png?v8" width="20"> | `:fish:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f365.png?v8" width="20"> | `:fish_cake:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a3.png?v8" width="20"> | `:fishing_pole_and_fish:` | <img src="https://github.githubassets.com/images/icons/emoji/fishsticks.png?v8" width="20"> | `:fishsticks:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad3.png?v8" width="20"> | `:flatbread:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad5.png?v8" width="20"> | `:fondue:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f960.png?v8" width="20"> | `:fortune_cookie:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f373.png?v8" width="20"> | `:fried_egg:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f364.png?v8" width="20"> | `:fried_shrimp:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c4.png?v8" width="20"> | `:garlic:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f347.png?v8" width="20"> | `:grapes:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34f.png?v8" width="20"> | `:green_apple:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f957.png?v8" width="20"> | `:green_salad:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f354.png?v8" width="20"> | `:hamburger:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f36f.png?v8" width="20"> | `:honey_pot:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41d.png?v8" width="20"> | `:honeybee:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f336.png?v8" width="20"> | `:hot_pepper:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f32d.png?v8" width="20"> | `:hotdog:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f368.png?v8" width="20"> | `:ice_cream:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fabc.png?v8" width="20"> | `:jellyfish:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f95d.png?v8" width="20"> | `:kiwi_fruit:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f536.png?v8" width="20"> | `:large_orange_diamond:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f96c.png?v8" width="20"> | `:leafy_green:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34b.png?v8" width="20"> | `:lemon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f99e.png?v8" width="20"> | `:lobster:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f36d.png?v8" width="20"> | `:lollipop:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f692.png?v8" width="20"> | `:man_firefighter:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png?v8" width="20"> | `:man_teacher:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f96d.png?v8" width="20"> | `:mango:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f356.png?v8" width="20"> | `:meat_on_bone:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f348.png?v8" width="20"> | `:melon:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f95b.png?v8" width="20"> | `:milk_glass:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30c.png?v8" width="20"> | `:milky_way:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f96e.png?v8" width="20"> | `:moon_cake:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f344.png?v8" width="20"> | `:mushroom:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faba.png?v8" width="20"> | `:nest_with_eggs:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad2.png?v8" width="20"> | `:olive:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c5.png?v8" width="20"> | `:onion:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34a.png?v8" width="20"> | `:orange:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d9.png?v8" width="20"> | `:orange_book:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e0.png?v8" width="20"> | `:orange_circle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e1.png?v8" width="20"> | `:orange_heart:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e7.png?v8" width="20"> | `:orange_square:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9aa.png?v8" width="20"> | `:oyster:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f95e.png?v8" width="20"> | `:pancakes:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f351.png?v8" width="20"> | `:peach:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f95c.png?v8" width="20"> | `:peanuts:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f350.png?v8" width="20"> | `:pear:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34d.png?v8" width="20"> | `:pineapple:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f355.png?v8" width="20"> | `:pizza:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f37f.png?v8" width="20"> | `:popcorn:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f954.png?v8" width="20"> | `:potato:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f357.png?v8" width="20"> | `:poultry_leg:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f968.png?v8" width="20"> | `:pretzel:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f35c.png?v8" width="20"> | `:ramen:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f35a.png?v8" width="20"> | `:rice:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f359.png?v8" width="20"> | `:rice_ball:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f358.png?v8" width="20"> | `:rice_cracker:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f391.png?v8" width="20"> | `:rice_scene:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f376.png?v8" width="20"> | `:sake:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png?v8" width="20"> | `:salt:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f96a.png?v8" width="20"> | `:sandwich:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f958.png?v8" width="20"> | `:shallow_pan_of_food:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f990.png?v8" width="20"> | `:shrimp:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f538.png?v8" width="20"> | `:small_orange_diamond:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f8.png?v8" width="20"> | `:south_georgia_south_sandwich_islands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f35d.png?v8" width="20"> | `:spaghetti:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f682.png?v8" width="20"> | `:steam_locomotive:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f353.png?v8" width="20"> | `:strawberry:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f959.png?v8" width="20"> | `:stuffed_flatbread:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f363.png?v8" width="20"> | `:sushi:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f360.png?v8" width="20"> | `:sweet_potato:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f32e.png?v8" width="20"> | `:taco:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad4.png?v8" width="20"> | `:tamale:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f375.png?v8" width="20"> | `:tea:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f3eb.png?v8" width="20"> | `:teacher:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad6.png?v8" width="20"> | `:teapot:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f345.png?v8" width="20"> | `:tomato:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f379.png?v8" width="20"> | `:tropical_drink:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f420.png?v8" width="20"> | `:tropical_fish:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f984.png?v8" width="20"> | `:unicorn:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c7.png?v8" width="20"> | `:waffle:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f349.png?v8" width="20"> | `:watermelon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f377.png?v8" width="20"> | `:wine_glass:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f692.png?v8" width="20"> | `:woman_firefighter:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f3eb.png?v8" width="20"> | `:woman_teacher:` |  |  |  |  |
+
+## 🏠 Places & Buildings
+
+| Emoji | Code | Emoji | Code | Emoji | Code |
+|:--:|:--|:--:|:--|:--:|:--|
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png?v8" width="20"> | `:bank:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d7.png?v8" width="20"> | `:building_construction:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26ea.png?v8" width="20"> | `:church:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3db.png?v8" width="20"> | `:classical_building:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ea.png?v8" width="20"> | `:convenience_store:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3da.png?v8" width="20"> | `:derelict_house:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f0.png?v8" width="20"> | `:european_castle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e4.png?v8" width="20"> | `:european_post_office:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1fa.png?v8" width="20"> | `:european_union:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f2.png?v8" width="20"> | `:fountain:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f58b.png?v8" width="20"> | `:fountain_pen:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d5.png?v8" width="20"> | `:hindu_temple:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e5.png?v8" width="20"> | `:hospital:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e8.png?v8" width="20"> | `:hotel:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png?v8" width="20"> | `:house:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e1.png?v8" width="20"> | `:house_with_garden:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d8.png?v8" width="20"> | `:houses:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ef.png?v8" width="20"> | `:japanese_castle:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47a.png?v8" width="20"> | `:japanese_goblin:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f479.png?v8" width="20"> | `:japanese_ogre:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f54b.png?v8" width="20"> | `:kaaba:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e9.png?v8" width="20"> | `:love_hotel:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bc.png?v8" width="20"> | `:man_office_worker:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f54c.png?v8" width="20"> | `:mosque:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e2.png?v8" width="20"> | `:office:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bc.png?v8" width="20"> | `:office_worker:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46e.png?v8" width="20"> | `:police_officer:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e3.png?v8" width="20"> | `:post_office:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3eb.png?v8" width="20"> | `:school:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f392.png?v8" width="20"> | `:school_satchel:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3df.png?v8" width="20"> | `:stadium:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5fd.png?v8" width="20"> | `:statue_of_liberty:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26fa.png?v8" width="20"> | `:tent:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bc.png?v8" width="20"> | `:woman_office_worker:` |  |  |  |  |
+
+## 🐾 Animals & Nature
+
+| Emoji | Code | Emoji | Code | Emoji | Code |
+|:--:|:--|:--:|:--|:--:|:--|
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41c.png?v8" width="20"> | `:ant:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f6.png?v8" width="20"> | `:antarctica:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1ec.png?v8" width="20"> | `:antigua_barbuda:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f987.png?v8" width="20"> | `:bat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c0.png?v8" width="20"> | `:bath:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c1.png?v8" width="20"> | `:bathtub:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50b.png?v8" width="20"> | `:battery:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43b.png?v8" width="20"> | `:bear:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4.png?v8" width="20"> | `:bearded_person:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41d.png?v8" width="20"> | `:bee:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab2.png?v8" width="20"> | `:beetle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png?v8" width="20"> | `:bird:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ac.png?v8" width="20"> | `:bison:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f426-2b1b.png?v8" width="20"> | `:black_bird:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f408-2b1b.png?v8" width="20"> | `:black_cat:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f963.png?v8" width="20"> | `:bowl_with_spoon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b3.png?v8" width="20"> | `:bowling:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f98b.png?v8" width="20"> | `:butterfly:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42b.png?v8" width="20"> | `:camel:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a0.png?v8" width="20"> | `:carousel_horse:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png?v8" width="20"> | `:cat:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f408.png?v8" width="20"> | `:cat2:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/265f.png?v8" width="20"> | `:chess_pawn:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f414.png?v8" width="20"> | `:chicken:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43f.png?v8" width="20"> | `:chipmunk:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5b1.png?v8" width="20"> | `:computer_mouse:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42e.png?v8" width="20"> | `:cow:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f404.png?v8" width="20"> | `:cow2:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f997.png?v8" width="20"> | `:cricket:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cf.png?v8" width="20"> | `:cricket_game:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40a.png?v8" width="20"> | `:crocodile:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f950.png?v8" width="20"> | `:croissant:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a4.png?v8" width="20"> | `:dodo:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f436.png?v8" width="20"> | `:dog:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f415.png?v8" width="20"> | `:dog2:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42c.png?v8" width="20"> | `:dolphin:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f409.png?v8" width="20"> | `:dragon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42a.png?v8" width="20"> | `:dromedary_camel:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f986.png?v8" width="20"> | `:duck:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f985.png?v8" width="20"> | `:eagle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f418.png?v8" width="20"> | `:elephant:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab6.png?v8" width="20"> | `:feather:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a9.png?v8" width="20"> | `:flamingo:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f438.png?v8" width="20"> | `:frog:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f410.png?v8" width="20"> | `:goat:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f98d.png?v8" width="20"> | `:gorilla:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ae.png?v8" width="20"> | `:guide_dog:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f439.png?v8" width="20"> | `:hamster:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f63b.png?v8" width="20"> | `:heart_eyes_cat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2716.png?v8" width="20"> | `:heavy_multiplication_x:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f994.png?v8" width="20"> | `:hedgehog:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f99b.png?v8" width="20"> | `:hippopotamus:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f434.png?v8" width="20"> | `:horse:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c7.png?v8" width="20"> | `:horse_racing:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faaa.png?v8" width="20"> | `:identification_card:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f250.png?v8" width="20"> | `:ideograph_advantage:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ee.png?v8" width="20"> | `:izakaya_lantern:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f383.png?v8" width="20"> | `:jack_o_lantern:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f639.png?v8" width="20"> | `:joy_cat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f998.png?v8" width="20"> | `:kangaroo:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ee.png?v8" width="20"> | `:kiribati:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41e.png?v8" width="20"> | `:lady_beetle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ee.png?v8" width="20"> | `:lantern:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f981.png?v8" width="20"> | `:lion:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f98e.png?v8" width="20"> | `:lizard:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faab.png?v8" width="20"> | `:low_battery:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a3.png?v8" width="20"> | `:mammoth:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4-2642.png?v8" width="20"> | `:man_beard:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f570.png?v8" width="20"> | `:mantelpiece_clock:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f412.png?v8" width="20"> | `:monkey:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f99f.png?v8" width="20"> | `:mosquito:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42d.png?v8" width="20"> | `:mouse:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f401.png?v8" width="20"> | `:mouse2:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa4.png?v8" width="20"> | `:mouse_trap:` | <img src="https://github.githubassets.com/images/icons/emoji/neckbeard.png?v8" width="20"> | `:neckbeard:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/octocat.png?v8" width="20"> | `:octocat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f419.png?v8" width="20"> | `:octopus:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a7.png?v8" width="20"> | `:orangutan:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a6.png?v8" width="20"> | `:otter:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f989.png?v8" width="20"> | `:owl:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f99c.png?v8" width="20"> | `:parrot:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43e.png?v8" width="20"> | `:paw_prints:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f99a.png?v8" width="20"> | `:peacock:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f427.png?v8" width="20"> | `:penguin:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f437.png?v8" width="20"> | `:pig:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f416.png?v8" width="20"> | `:pig2:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43d.png?v8" width="20"> | `:pig_nose:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43b-2744.png?v8" width="20"> | `:polar_bear:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab4.png?v8" width="20"> | `:potted_plant:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f63e.png?v8" width="20"> | `:pouting_cat:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fac3.png?v8" width="20"> | `:pregnant_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fac4.png?v8" width="20"> | `:pregnant_person:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f930.png?v8" width="20"> | `:pregnant_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f430.png?v8" width="20"> | `:rabbit:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f407.png?v8" width="20"> | `:rabbit2:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40e.png?v8" width="20"> | `:racehorse:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f98f.png?v8" width="20"> | `:rhinoceros:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f385.png?v8" width="20"> | `:santa:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f982.png?v8" width="20"> | `:scorpion:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ad.png?v8" width="20"> | `:seal:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f415-1f9ba.png?v8" width="20"> | `:service_dog:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f411.png?v8" width="20"> | `:sheep:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a8.png?v8" width="20"> | `:skunk:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a5.png?v8" width="20"> | `:sloth:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40c.png?v8" width="20"> | `:snail:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40d.png?v8" width="20"> | `:snake:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f577.png?v8" width="20"> | `:spider:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f578.png?v8" width="20"> | `:spider_web:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f991.png?v8" width="20"> | `:squid:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f38b.png?v8" width="20"> | `:tanabata_tree:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f8.png?v8" width="20"> | `:teddy_bear:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42f.png?v8" width="20"> | `:tiger:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f405.png?v8" width="20"> | `:tiger2:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f422.png?v8" width="20"> | `:turtle:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png?v8" width="20"> | `:whale:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40b.png?v8" width="20"> | `:whale2:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43a.png?v8" width="20"> | `:wolf:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d4-2640.png?v8" width="20"> | `:woman_beard:` |  |  |  |  |
+
+## 📋 Office & Stationery
+
+| Emoji | Code | Emoji | Code | Emoji | Code |
+|:--:|:--|:--:|:--|:--:|:--|
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png?v8" width="20"> | `:blue_book:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png?v8" width="20"> | `:book:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f516.png?v8" width="20"> | `:bookmark:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d1.png?v8" width="20"> | `:bookmark_tabs:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png?v8" width="20"> | `:books:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png?v8" width="20"> | `:briefcase:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png?v8" width="20"> | `:calendar:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png?v8" width="20"> | `:clipboard:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png?v8" width="20"> | `:closed_book:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/dependabot.png?v8" width="20"> | `:dependabot:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png?v8" width="20"> | `:envelope:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e9.png?v8" width="20"> | `:envelope_with_arrow:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c4.png?v8" width="20"> | `:file_cabinet:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c1.png?v8" width="20"> | `:file_folder:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d7.png?v8" width="20"> | `:green_book:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png?v8" width="20"> | `:incoming_envelope:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f7.png?v8" width="20"> | `:label:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d2.png?v8" width="20"> | `:ledger:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50f.png?v8" width="20"> | `:lock_with_ink_pen:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png?v8" width="20"> | `:memo:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f0.png?v8" width="20"> | `:newspaper:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5de.png?v8" width="20"> | `:newspaper_roll:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d3.png?v8" width="20"> | `:notebook:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d4.png?v8" width="20"> | `:notebook_with_decorative_cover:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png?v8" width="20"> | `:open_book:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c2.png?v8" width="20"> | `:open_file_folder:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png?v8" width="20"> | `:open_hands:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62e.png?v8" width="20"> | `:open_mouth:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png?v8" width="20"> | `:package:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png?v8" width="20"> | `:page_facing_up:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png?v8" width="20"> | `:page_with_curl:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4df.png?v8" width="20"> | `:pager:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ce.png?v8" width="20"> | `:paperclip:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f587.png?v8" width="20"> | `:paperclips:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f58a.png?v8" width="20"> | `:pen:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png?v8" width="20"> | `:pencil:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/270f.png?v8" width="20"> | `:pencil2:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png?v8" width="20"> | `:pushpin:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9fe.png?v8" width="20"> | `:receipt:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e7.png?v8" width="20"> | `:red_envelope:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png?v8" width="20"> | `:round_pushpin:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2702.png?v8" width="20"> | `:scissors:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png?v8" width="20"> | `:scroll:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5d3.png?v8" width="20"> | `:spiral_calendar:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cf.png?v8" width="20"> | `:straight_ruler:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png?v8" width="20"> | `:triangular_ruler:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5d1.png?v8" width="20"> | `:wastebasket:` |  |  |
+
+## 😀 Faces & Emotions
+
+| Emoji | Code | Emoji | Code | Emoji | Code |
+|:--:|:--|:--:|:--|:--:|:--|
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8" width="20"> | `:angry:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png?v8" width="20"> | `:blush:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f921.png?v8" width="20"> | `:clown_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f976.png?v8" width="20"> | `:cold_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f630.png?v8" width="20"> | `:cold_sweat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f920.png?v8" width="20"> | `:cowboy_hat_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f622.png?v8" width="20"> | `:cry:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f63f.png?v8" width="20"> | `:crying_cat_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52e.png?v8" width="20"> | `:crystal_ball:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f92c.png?v8" width="20"> | `:cursing_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f576.png?v8" width="20"> | `:dark_sunglasses:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f625.png?v8" width="20"> | `:disappointed_relieved:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f978.png?v8" width="20"> | `:disguised_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f635.png?v8" width="20"> | `:dizzy_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae5.png?v8" width="20"> | `:dotted_line_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f432.png?v8" width="20"> | `:dragon_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f924.png?v8" width="20"> | `:drooling_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f92f.png?v8" width="20"> | `:exploding_head:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f611.png?v8" width="20"> | `:expressionless:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62e-1f4a8.png?v8" width="20"> | `:face_exhaling:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f979.png?v8" width="20"> | `:face_holding_back_tears:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f636-1f32b.png?v8" width="20"> | `:face_in_clouds:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae4.png?v8" width="20"> | `:face_with_diagonal_mouth:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f915.png?v8" width="20"> | `:face_with_head_bandage:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae2.png?v8" width="20"> | `:face_with_open_eyes_and_hand_over_mouth:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae3.png?v8" width="20"> | `:face_with_peeking_eye:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f635-1f4ab.png?v8" width="20"> | `:face_with_spiral_eyes:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f912.png?v8" width="20"> | `:face_with_thermometer:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f926.png?v8" width="20"> | `:facepalm:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png?v8" width="20"> | `:facepunch:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31b.png?v8" width="20"> | `:first_quarter_moon_with_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94f.png?v8" width="20"> | `:flying_disc:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f8.png?v8" width="20"> | `:flying_saucer:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png?v8" width="20"> | `:fox_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f626.png?v8" width="20"> | `:frowning:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2639.png?v8" width="20"> | `:frowning_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64d-2642.png?v8" width="20"> | `:frowning_man:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64d.png?v8" width="20"> | `:frowning_person:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64d-2640.png?v8" width="20"> | `:frowning_woman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31d.png?v8" width="20"> | `:full_moon_with_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png?v8" width="20"> | `:grin:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f600.png?v8" width="20"> | `:grinning:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f975.png?v8" width="20"> | `:hot_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62f.png?v8" width="20"> | `:hushed:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f617.png?v8" width="20"> | `:kissing:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f63d.png?v8" width="20"> | `:kissing_cat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f61a.png?v8" width="20"> | `:kissing_closed_eyes:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f618.png?v8" width="20"> | `:kissing_heart:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f619.png?v8" width="20"> | `:kissing_smiling_eyes:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31c.png?v8" width="20"> | `:last_quarter_moon_with_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f606.png?v8" width="20"> | `:laughing:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f925.png?v8" width="20"> | `:lying_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f926-2642.png?v8" width="20"> | `:man_facepalming:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae0.png?v8" width="20"> | `:melting_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f911.png?v8" width="20"> | `:money_mouth_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f435.png?v8" width="20"> | `:monkey_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d0.png?v8" width="20"> | `:monocle_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f922.png?v8" width="20"> | `:nauseated_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png?v8" width="20"> | `:nerd_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f610.png?v8" width="20"> | `:neutral_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31a.png?v8" width="20"> | `:new_moon_with_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43c.png?v8" width="20"> | `:panda_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f973.png?v8" width="20"> | `:partying_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f614.png?v8" width="20"> | `:pensive:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f623.png?v8" width="20"> | `:persevere:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f97a.png?v8" width="20"> | `:pleading_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64e.png?v8" width="20"> | `:pouting_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f60c.png?v8" width="20"> | `:relieved:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae1.png?v8" width="20"> | `:saluting_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f631.png?v8" width="20"> | `:scream:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f640.png?v8" width="20"> | `:scream_cat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae8.png?v8" width="20"> | `:shaking_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f92b.png?v8" width="20"> | `:shushing_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62a.png?v8" width="20"> | `:sleepy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f641.png?v8" width="20"> | `:slightly_frowning_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f642.png?v8" width="20"> | `:slightly_smiling_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" width="20"> | `:smile:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f638.png?v8" width="20"> | `:smile_cat:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f603.png?v8" width="20"> | `:smiley:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f63a.png?v8" width="20"> | `:smiley_cat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f972.png?v8" width="20"> | `:smiling_face_with_tear:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20"> | `:smiling_face_with_three_hearts:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png?v8" width="20"> | `:smirk:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f63c.png?v8" width="20"> | `:smirk_cat:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f927.png?v8" width="20"> | `:sneezing_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62d.png?v8" width="20"> | `:sob:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f929.png?v8" width="20"> | `:star_struck:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f61c.png?v8" width="20"> | `:stuck_out_tongue_winking_eye:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png?v8" width="20"> | `:sun_with_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png?v8" width="20"> | `:sunglasses:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f613.png?v8" width="20"> | `:sweat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a6.png?v8" width="20"> | `:sweat_drops:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f605.png?v8" width="20"> | `:sweat_smile:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png?v8" width="20"> | `:thinking:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62b.png?v8" width="20"> | `:tired_face:` | <img src="https://github.githubassets.com/images/icons/emoji/trollface.png?v8" width="20"> | `:trollface:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f612.png?v8" width="20"> | `:unamused:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f643.png?v8" width="20"> | `:upside_down_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f2.png?v8" width="20"> | `:us_outlying_islands:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f92e.png?v8" width="20"> | `:vomiting_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f629.png?v8" width="20"> | `:weary:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f32c.png?v8" width="20"> | `:wind_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png?v8" width="20"> | `:wink:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f926-2640.png?v8" width="20"> | `:woman_facepalming:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f974.png?v8" width="20"> | `:woozy_face:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f61f.png?v8" width="20"> | `:worried:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f971.png?v8" width="20"> | `:yawning_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f60b.png?v8" width="20"> | `:yum:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f92a.png?v8" width="20"> | `:zany_face:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f910.png?v8" width="20"> | `:zipper_mouth_face:` |  |  |
+
+## 🚀 Tech & Dev
+
+| Emoji | Code | Emoji | Code | Emoji | Code |
+|:--:|:--|:--:|:--|:--:|:--|
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ee.png?v8" width="20"> | `:abacus:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f521.png?v8" width="20"> | `:abcd:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2697.png?v8" width="20"> | `:alembic:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41b.png?v8" width="20"> | `:bug:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png?v8" width="20"> | `:bulb:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f520.png?v8" width="20"> | `:capital_abcd:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bf.png?v8" width="20"> | `:cd:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="20"> | `:computer:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png?v8" width="20"> | `:desktop_computer:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ec.png?v8" width="20"> | `:dna:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c0.png?v8" width="20"> | `:dvd:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png?v8" width="20"> | `:electric_plug:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png?v8" width="20"> | `:email:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f526.png?v8" width="20"> | `:flashlight:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4be.png?v8" width="20"> | `:floppy_disk:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png?v8" width="20"> | `:gear:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f528.png?v8" width="20"> | `:hammer:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png?v8" width="20"> | `:hammer_and_pick:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png?v8" width="20"> | `:hammer_and_wrench:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png?v8" width="20"> | `:headphones:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f2.png?v8" width="20"> | `:heard_mcdonald_islands:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e5.png?v8" width="20"> | `:inbox_tray:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png?v8" width="20"> | `:iphone:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2328.png?v8" width="20"> | `:keyboard:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f2.png?v8" width="20"> | `:magnet:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png?v8" width="20"> | `:mailbox:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ea.png?v8" width="20"> | `:mailbox_closed:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ec.png?v8" width="20"> | `:mailbox_with_mail:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ed.png?v8" width="20"> | `:mailbox_with_no_mail:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a4.png?v8" width="20"> | `:microphone:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png?v8" width="20"> | `:microscope:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f4.png?v8" width="20"> | `:mobile_phone_off:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b9.png?v8" width="20"> | `:musical_keyboard:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f5.png?v8" width="20"> | `:no_mobile_phones:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f529.png?v8" width="20"> | `:nut_and_bolt:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e4.png?v8" width="20"> | `:outbox_tray:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9eb.png?v8" width="20"> | `:petri_dish:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png?v8" width="20"> | `:phone:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a8.png?v8" width="20"> | `:printer:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png?v8" width="20"> | `:robot:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png?v8" width="20"> | `:rocket:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e1.png?v8" width="20"> | `:satellite:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b7.png?v8" width="20"> | `:saxophone:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9b.png?v8" width="20"> | `:screwdriver:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f399.png?v8" width="20"> | `:studio_microphone:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png?v8" width="20"> | `:telephone:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png?v8" width="20"> | `:telephone_receiver:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png?v8" width="20"> | `:telescope:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ea.png?v8" width="20"> | `:test_tube:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png?v8" width="20"> | `:toolbox:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png?v8" width="20"> | `:wrench:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png?v8" width="20"> | `:zap:` |  |  |  |  |
+
+## 🚗 Travel & Transport
+
+| Emoji | Code | Emoji | Code | Emoji | Code |
+|:--:|:--|:--:|:--|:--:|:--|
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2708.png?v8" width="20"> | `:airplane:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f691.png?v8" width="20"> | `:ambulance:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2693.png?v8" width="20"> | `:anchor:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6fa.png?v8" width="20"> | `:auto_rickshaw:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b2.png?v8" width="20"> | `:bike:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f699.png?v8" width="20"> | `:blue_car:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f5.png?v8" width="20"> | `:boat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f685.png?v8" width="20"> | `:bullettrain_front:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f684.png?v8" width="20"> | `:bullettrain_side:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f68c.png?v8" width="20"> | `:bus:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f574.png?v8" width="20"> | `:business_suit_levitating:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f68f.png?v8" width="20"> | `:busstop:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png?v8" width="20"> | `:bust_in_silhouette:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f465.png?v8" width="20"> | `:busts_in_silhouette:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f6.png?v8" width="20"> | `:canoe:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f697.png?v8" width="20"> | `:car:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png?v8" width="20"> | `:card_file_box:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c7.png?v8" width="20"> | `:card_index:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c2.png?v8" width="20"> | `:card_index_dividers:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f6.png?v8" width="20"> | `:caribbean_netherlands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9a.png?v8" width="20"> | `:carpentry_saw:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b3.png?v8" width="20"> | `:credit_card:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f4.png?v8" width="20"> | `:ferry:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f692.png?v8" width="20"> | `:fire_engine:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b4.png?v8" width="20"> | `:flower_playing_cards:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26fd.png?v8" width="20"> | `:fuelpump:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f681.png?v8" width="20"> | `:helicopter:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f4.png?v8" width="20"> | `:kick_scooter:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1ec.png?v8" width="20"> | `:madagascar:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f687.png?v8" width="20"> | `:metro:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f690.png?v8" width="20"> | `:minibus:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f69d.png?v8" width="20"> | `:monorail:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e5.png?v8" width="20"> | `:motor_boat:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f5.png?v8" width="20"> | `:motor_scooter:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e3.png?v8" width="20"> | `:motorway:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f69e.png?v8" width="20"> | `:mountain_railway:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f485.png?v8" width="20"> | `:nail_care:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1ee.png?v8" width="20"> | `:nicaragua:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f68d.png?v8" width="20"> | `:oncoming_bus:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f694.png?v8" width="20"> | `:oncoming_police_car:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f696.png?v8" width="20"> | `:oncoming_taxi:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa82.png?v8" width="20"> | `:parachute:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f3.png?v8" width="20"> | `:passenger_ship:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6fb.png?v8" width="20"> | `:pickup_truck:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa7.png?v8" width="20"> | `:placard:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d0.png?v8" width="20"> | `:place_of_worship:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f693.png?v8" width="20"> | `:police_car:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46e-2642.png?v8" width="20"> | `:policeman:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46e-2640.png?v8" width="20"> | `:policewoman:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ce.png?v8" width="20"> | `:racing_car:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f683.png?v8" width="20"> | `:railway_car:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e4.png?v8" width="20"> | `:railway_track:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f697.png?v8" width="20"> | `:red_car:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa90.png?v8" width="20"> | `:ringed_planet:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a3.png?v8" width="20"> | `:rowboat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f5.png?v8" width="20"> | `:sailboat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e3.png?v8" width="20"> | `:scarf:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ba.png?v8" width="20"> | `:seat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a2.png?v8" width="20"> | `:ship:` | <img src="https://github.githubassets.com/images/icons/emoji/shipit.png?v8" width="20"> | `:shipit:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f9.png?v8" width="20"> | `:skateboard:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e9.png?v8" width="20"> | `:small_airplane:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a4.png?v8" width="20"> | `:speedboat:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f689.png?v8" width="20"> | `:station:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f69f.png?v8" width="20"> | `:suspension_railway:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f695.png?v8" width="20"> | `:taxi:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f69c.png?v8" width="20"> | `:tractor:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f68b.png?v8" width="20"> | `:train:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f686.png?v8" width="20"> | `:train2:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f68e.png?v8" width="20"> | `:trolleybus:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f69a.png?v8" width="20"> | `:truck:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d5.png?v8" width="20"> | `:woman_with_headscarf:` |
+
+## 📦 Misc
+
+| Emoji | Code | Emoji | Code | Emoji | Code |
+|:--:|:--|:--:|:--|:--:|:--|
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png?v8" width="20"> | `:+1:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44e.png?v8" width="20"> | `:-1:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4af.png?v8" width="20"> | `:100:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f522.png?v8" width="20"> | `:1234:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f170.png?v8" width="20"> | `:a:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f18e.png?v8" width="20"> | `:ab:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f524.png?v8" width="20"> | `:abc:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f251.png?v8" width="20"> | `:accept:` | <img src="https://github.githubassets.com/images/icons/emoji/accessibility.png?v8" width="20"> | `:accessibility:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa97.png?v8" width="20"> | `:accordion:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa79.png?v8" width="20"> | `:adhesive_bandage:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1.png?v8" width="20"> | `:adult:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a1.png?v8" width="20"> | `:aerial_tramway:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1eb.png?v8" width="20"> | `:afghanistan:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/23f0.png?v8" width="20"> | `:alarm_clock:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f1.png?v8" width="20"> | `:albania:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ff.png?v8" width="20"> | `:algeria:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png?v8" width="20"> | `:alien:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f8.png?v8" width="20"> | `:american_samoa:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3fa.png?v8" width="20"> | `:amphora:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1e9.png?v8" width="20"> | `:andorra:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47c.png?v8" width="20"> | `:angel:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a2.png?v8" width="20"> | `:anger:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f4.png?v8" width="20"> | `:angola:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1ee.png?v8" width="20"> | `:anguilla:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f627.png?v8" width="20"> | `:anguished:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2652.png?v8" width="20"> | `:aquarius:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f7.png?v8" width="20"> | `:argentina:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2648.png?v8" width="20"> | `:aries:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f2.png?v8" width="20"> | `:armenia:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/25c0.png?v8" width="20"> | `:arrow_backward:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/23ec.png?v8" width="20"> | `:arrow_double_down:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/23eb.png?v8" width="20"> | `:arrow_double_up:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b07.png?v8" width="20"> | `:arrow_down:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f53d.png?v8" width="20"> | `:arrow_down_small:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/25b6.png?v8" width="20"> | `:arrow_forward:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2935.png?v8" width="20"> | `:arrow_heading_down:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2934.png?v8" width="20"> | `:arrow_heading_up:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png?v8" width="20"> | `:arrow_left:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2199.png?v8" width="20"> | `:arrow_lower_left:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2198.png?v8" width="20"> | `:arrow_lower_right:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="20"> | `:arrow_right:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/21aa.png?v8" width="20"> | `:arrow_right_hook:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png?v8" width="20"> | `:arrow_up:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2195.png?v8" width="20"> | `:arrow_up_down:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f53c.png?v8" width="20"> | `:arrow_up_small:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2196.png?v8" width="20"> | `:arrow_upper_left:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2197.png?v8" width="20"> | `:arrow_upper_right:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f503.png?v8" width="20"> | `:arrows_clockwise:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f504.png?v8" width="20"> | `:arrows_counterclockwise:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1fc.png?v8" width="20"> | `:aruba:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/002a-20e3.png?v8" width="20"> | `:asterisk:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f632.png?v8" width="20"> | `:astonished:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f680.png?v8" width="20"> | `:astronaut:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45f.png?v8" width="20"> | `:athletic_shoe:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e7.png?v8" width="20"> | `:atm:` | <img src="https://github.githubassets.com/images/icons/emoji/atom.png?v8" width="20"> | `:atom:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png?v8" width="20"> | `:atom_symbol:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1fa.png?v8" width="20"> | `:australia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f9.png?v8" width="20"> | `:austria:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa93.png?v8" width="20"> | `:axe:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1ff.png?v8" width="20"> | `:azerbaijan:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f171.png?v8" width="20"> | `:b:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f519.png?v8" width="20"> | `:back:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a1.png?v8" width="20"> | `:badger:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c4.png?v8" width="20"> | `:baggage_claim:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f8.png?v8" width="20"> | `:bahamas:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2696.png?v8" width="20"> | `:balance_scale:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f38d.png?v8" width="20"> | `:bamboo:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/203c.png?v8" width="20"> | `:bangbang:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1e9.png?v8" width="20"> | `:bangladesh:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa95.png?v8" width="20"> | `:banjo:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1e7.png?v8" width="20"> | `:barbados:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f488.png?v8" width="20"> | `:barber:` | <img src="https://github.githubassets.com/images/icons/emoji/basecamp.png?v8" width="20"> | `:basecamp:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/basecampy.png?v8" width="20"> | `:basecampy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9fa.png?v8" width="20"> | `:basket:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad8.png?v8" width="20"> | `:beans:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ab.png?v8" width="20"> | `:beaver:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6cf.png?v8" width="20"> | `:bed:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f530.png?v8" width="20"> | `:beginner:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1fe.png?v8" width="20"> | `:belarus:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ea.png?v8" width="20"> | `:belgium:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ff.png?v8" width="20"> | `:belize:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f514.png?v8" width="20"> | `:bell:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ce.png?v8" width="20"> | `:bellhop_bell:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ef.png?v8" width="20"> | `:benin:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f2.png?v8" width="20"> | `:bermuda:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f9.png?v8" width="20"> | `:bhutan:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f459.png?v8" width="20"> | `:bikini:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e2.png?v8" width="20"> | `:billed_cap:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2623.png?v8" width="20"> | `:biohazard:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f382.png?v8" width="20"> | `:birthday:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae6.png?v8" width="20"> | `:biting_lip:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26ab.png?v8" width="20"> | `:black_circle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png?v8" width="20"> | `:black_joker:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b1b.png?v8" width="20"> | `:black_large_square:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/25fe.png?v8" width="20"> | `:black_medium_small_square:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/25fc.png?v8" width="20"> | `:black_medium_square:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2712.png?v8" width="20"> | `:black_nib:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/25aa.png?v8" width="20"> | `:black_small_square:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f532.png?v8" width="20"> | `:black_square_button:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33c.png?v8" width="20"> | `:blossom:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e6.png?v8" width="20"> | `:blue_square:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f417.png?v8" width="20"> | `:boar:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f4.png?v8" width="20"> | `:bolivia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png?v8" width="20"> | `:bomb:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b4.png?v8" width="20"> | `:bone:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png?v8" width="20"> | `:boom:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa83.png?v8" width="20"> | `:boomerang:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f462.png?v8" width="20"> | `:boot:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1e6.png?v8" width="20"> | `:bosnia_herzegovina:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1fc.png?v8" width="20"> | `:botswana:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f490.png?v8" width="20"> | `:bouquet:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f647.png?v8" width="20"> | `:bow:` | <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png?v8" width="20"> | `:bowtie:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8" width="20"> | `:brazil:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f931.png?v8" width="20"> | `:breast_feeding:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f1.png?v8" width="20"> | `:bricks:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f470-2640.png?v8" width="20"> | `:bride_with_veil:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f9.png?v8" width="20"> | `:broom:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e4.png?v8" width="20"> | `:brown_circle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7eb.png?v8" width="20"> | `:brown_square:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f3.png?v8" width="20"> | `:brunei:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fae7.png?v8" width="20"> | `:bubbles:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa3.png?v8" width="20"> | `:bucket:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ec.png?v8" width="20"> | `:bulgaria:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1eb.png?v8" width="20"> | `:burkina_faso:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f32f.png?v8" width="20"> | `:burrito:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ee.png?v8" width="20"> | `:burundi:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c8.png?v8" width="20"> | `:butter:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f335.png?v8" width="20"> | `:cactus:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f919.png?v8" width="20"> | `:call_me_hand:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f2.png?v8" width="20"> | `:calling:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ed.png?v8" width="20"> | `:cambodia:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f7.png?v8" width="20"> | `:camera:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f8.png?v8" width="20"> | `:camera_flash:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f2.png?v8" width="20"> | `:cameroon:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1e6.png?v8" width="20"> | `:canada:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/264b.png?v8" width="20"> | `:cancer:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f56f.png?v8" width="20"> | `:candle:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1fb.png?v8" width="20"> | `:cape_verde:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1eb.png?v8" width="20"> | `:central_african_republic:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1e6.png?v8" width="20"> | `:ceuta_melilla:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1e9.png?v8" width="20"> | `:chad:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26d3.png?v8" width="20"> | `:chains:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa91.png?v8" width="20"> | `:chair:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f352.png?v8" width="20"> | `:cherries:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f1.png?v8" width="20"> | `:chile:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f962.png?v8" width="20"> | `:chopsticks:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f384.png?v8" width="20"> | `:christmas_tree:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a6.png?v8" width="20"> | `:cinema:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f191.png?v8" width="20"> | `:cl:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5dc.png?v8" width="20"> | `:clamp:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44f.png?v8" width="20"> | `:clap:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ac.png?v8" width="20"> | `:clapper:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d7.png?v8" width="20"> | `:climbing:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f942.png?v8" width="20"> | `:clinking_glasses:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f550.png?v8" width="20"> | `:clock1:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f559.png?v8" width="20"> | `:clock10:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f565.png?v8" width="20"> | `:clock1030:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f55a.png?v8" width="20"> | `:clock11:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f566.png?v8" width="20"> | `:clock1130:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f55b.png?v8" width="20"> | `:clock12:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f567.png?v8" width="20"> | `:clock1230:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f55c.png?v8" width="20"> | `:clock130:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f551.png?v8" width="20"> | `:clock2:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f55d.png?v8" width="20"> | `:clock230:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f552.png?v8" width="20"> | `:clock3:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f55e.png?v8" width="20"> | `:clock330:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f553.png?v8" width="20"> | `:clock4:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f55f.png?v8" width="20"> | `:clock430:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f554.png?v8" width="20"> | `:clock5:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f560.png?v8" width="20"> | `:clock530:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f555.png?v8" width="20"> | `:clock6:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f561.png?v8" width="20"> | `:clock630:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f556.png?v8" width="20"> | `:clock7:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f562.png?v8" width="20"> | `:clock730:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f557.png?v8" width="20"> | `:clock8:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f563.png?v8" width="20"> | `:clock830:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f558.png?v8" width="20"> | `:clock9:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f564.png?v8" width="20"> | `:clock930:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png?v8" width="20"> | `:closed_lock_with_key:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" width="20"> | `:clubs:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png?v8" width="20"> | `:cn:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e5.png?v8" width="20"> | `:coat:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab3.png?v8" width="20"> | `:cockroach:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26b0.png?v8" width="20"> | `:coffin:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa99.png?v8" width="20"> | `:coin:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png?v8" width="20"> | `:collision:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f4.png?v8" width="20"> | `:colombia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1f2.png?v8" width="20"> | `:comoros:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ed.png?v8" width="20"> | `:compass:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f616.png?v8" width="20"> | `:confounded:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f615.png?v8" width="20"> | `:confused:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1ec.png?v8" width="20"> | `:congo_brazzaville:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1e9.png?v8" width="20"> | `:congo_kinshasa:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/3297.png?v8" width="20"> | `:congratulations:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png?v8" width="20"> | `:construction:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f477.png?v8" width="20"> | `:construction_worker:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f39b.png?v8" width="20"> | `:control_knobs:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f373.png?v8" width="20"> | `:cook:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f192.png?v8" width="20"> | `:cool:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46e.png?v8" width="20"> | `:cop:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/copilot.png?v8" width="20"> | `:copilot:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/00a9.png?v8" width="20"> | `:copyright:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab8.png?v8" width="20"> | `:coral:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f7.png?v8" width="20"> | `:costa_rica:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1ee.png?v8" width="20"> | `:cote_divoire:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6cb.png?v8" width="20"> | `:couch_and_lamp:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f58d.png?v8" width="20"> | `:crayon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f7.png?v8" width="20"> | `:croatia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91e.png?v8" width="20"> | `:crossed_fingers:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2694.png?v8" width="20"> | `:crossed_swords:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f451.png?v8" width="20"> | `:crown:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa7c.png?v8" width="20"> | `:crutch:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1fa.png?v8" width="20"> | `:cuba:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f964.png?v8" width="20"> | `:cup_with_straw:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f498.png?v8" width="20"> | `:cupid:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1fc.png?v8" width="20"> | `:curacao:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94c.png?v8" width="20"> | `:curling_stone:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/27b0.png?v8" width="20"> | `:curly_loop:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b1.png?v8" width="20"> | `:currency_exchange:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c3.png?v8" width="20"> | `:customs:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1fe.png?v8" width="20"> | `:cyprus:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1ff.png?v8" width="20"> | `:czech_republic:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5e1.png?v8" width="20"> | `:dagger:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f483.png?v8" width="20"> | `:dancer:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png?v8" width="20"> | `:dancers:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f-2642.png?v8" width="20"> | `:dancing_men:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f-2640.png?v8" width="20"> | `:dancing_women:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f361.png?v8" width="20"> | `:dango:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a8.png?v8" width="20"> | `:dash:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png?v8" width="20"> | `:date:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ea.png?v8" width="20"> | `:de:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f333.png?v8" width="20"> | `:deciduous_tree:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f98c.png?v8" width="20"> | `:deer:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1f0.png?v8" width="20"> | `:denmark:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f575.png?v8" width="20"> | `:detective:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" width="20"> | `:diamond_shape_with_a_dot_inside:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2666.png?v8" width="20"> | `:diamonds:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ec.png?v8" width="20"> | `:diego_garcia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f61e.png?v8" width="20"> | `:disappointed:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93f.png?v8" width="20"> | `:diving_mask:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa94.png?v8" width="20"> | `:diya_lamp:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png?v8" width="20"> | `:dizzy:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ef.png?v8" width="20"> | `:djibouti:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6af.png?v8" width="20"> | `:do_not_litter:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b5.png?v8" width="20"> | `:dollar:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f38e.png?v8" width="20"> | `:dolls:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1f2.png?v8" width="20"> | `:dominica:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1f4.png?v8" width="20"> | `:dominican_republic:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1facf.png?v8" width="20"> | `:donkey:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6aa.png?v8" width="20"> | `:door:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f54a.png?v8" width="20"> | `:dove:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f457.png?v8" width="20"> | `:dress:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa78.png?v8" width="20"> | `:drop_of_blood:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f941.png?v8" width="20"> | `:drum:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png?v8" width="20"> | `:e-mail:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f442.png?v8" width="20"> | `:ear:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9bb.png?v8" width="20"> | `:ear_with_hearing_aid:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1e8.png?v8" width="20"> | `:ecuador:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1ec.png?v8" width="20"> | `:egypt:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/0038-20e3.png?v8" width="20"> | `:eight:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2733.png?v8" width="20"> | `:eight_spoked_asterisk:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/23cf.png?v8" width="20"> | `:eject_button:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1fb.png?v8" width="20"> | `:el_salvador:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/electron.png?v8" width="20"> | `:electron:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d7.png?v8" width="20"> | `:elevator:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dd.png?v8" width="20"> | `:elf:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab9.png?v8" width="20"> | `:empty_nest:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51a.png?v8" width="20"> | `:end:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png?v8" width="20"> | `:england:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f6.png?v8" width="20"> | `:equatorial_guinea:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f7.png?v8" width="20"> | `:eritrea:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png?v8" width="20"> | `:es:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1ea.png?v8" width="20"> | `:estonia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f9.png?v8" width="20"> | `:ethiopia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1fa.png?v8" width="20"> | `:eu:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b6.png?v8" width="20"> | `:euro:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png?v8" width="20"> | `:evergreen_tree:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png?v8" width="20"> | `:exclamation:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f441.png?v8" width="20"> | `:eye:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f441-1f5e8.png?v8" width="20"> | `:eye_speech_bubble:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f453.png?v8" width="20"> | `:eyeglasses:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png?v8" width="20"> | `:eyes:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ed.png?v8" width="20"> | `:factory:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f3ed.png?v8" width="20"> | `:factory_worker:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9da.png?v8" width="20"> | `:fairy:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f342.png?v8" width="20"> | `:fallen_leaf:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f33e.png?v8" width="20"> | `:farmer:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png?v8" width="20"> | `:fast_forward:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e0.png?v8" width="20"> | `:fax:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f628.png?v8" width="20"> | `:fearful:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/feelsgood.png?v8" width="20"> | `:feelsgood:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f43e.png?v8" width="20"> | `:feet:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f575-2640.png?v8" width="20"> | `:female_detective:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2640.png?v8" width="20"> | `:female_sign:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a1.png?v8" width="20"> | `:ferris_wheel:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d1.png?v8" width="20"> | `:field_hockey:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1ef.png?v8" width="20"> | `:fiji:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fd.png?v8" width="20"> | `:film_projector:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f39e.png?v8" width="20"> | `:film_strip:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1ee.png?v8" width="20"> | `:finland:` | <img src="https://github.githubassets.com/images/icons/emoji/finnadie.png?v8" width="20"> | `:finnadie:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/270a.png?v8" width="20"> | `:fist:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91b.png?v8" width="20"> | `:fist_left:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png?v8" width="20"> | `:fist_oncoming:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/270a.png?v8" width="20"> | `:fist_raised:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91c.png?v8" width="20"> | `:fist_right:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/0035-20e3.png?v8" width="20"> | `:five:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f97f.png?v8" width="20"> | `:flat_shoe:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/269c.png?v8" width="20"> | `:fleur_de_lis:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ec.png?v8" width="20"> | `:flight_arrival:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f42c.png?v8" width="20"> | `:flipper:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f633.png?v8" width="20"> | `:flushed:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa88.png?v8" width="20"> | `:flute:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab0.png?v8" width="20"> | `:fly:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faad.png?v8" width="20"> | `:folding_hand_fan:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b6.png?v8" width="20"> | `:foot:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8" width="20"> | `:footprints:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f374.png?v8" width="20"> | `:fork_and_knife:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/0034-20e3.png?v8" width="20"> | `:four:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png?v8" width="20"> | `:fr:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5bc.png?v8" width="20"> | `:framed_picture:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f193.png?v8" width="20"> | `:free:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1eb.png?v8" width="20"> | `:french_guiana:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1eb.png?v8" width="20"> | `:french_polynesia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1eb.png?v8" width="20"> | `:french_southern_territories:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f35f.png?v8" width="20"> | `:fries:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f595.png?v8" width="20"> | `:fu:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26b1.png?v8" width="20"> | `:funeral_urn:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e6.png?v8" width="20"> | `:gabon:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f2.png?v8" width="20"> | `:gambia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8" width="20"> | `:gb:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f48e.png?v8" width="20"> | `:gem:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/264a.png?v8" width="20"> | `:gemini:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9de.png?v8" width="20"> | `:genie:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1ea.png?v8" width="20"> | `:georgia:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1ed.png?v8" width="20"> | `:ghana:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png?v8" width="20"> | `:ghost:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1ee.png?v8" width="20"> | `:gibraltar:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f381.png?v8" width="20"> | `:gift:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fada.png?v8" width="20"> | `:ginger_root:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f992.png?v8" width="20"> | `:giraffe:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/goberserk.png?v8" width="20"> | `:goberserk:` | <img src="https://github.githubassets.com/images/icons/emoji/godmode.png?v8" width="20"> | `:godmode:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f97d.png?v8" width="20"> | `:goggles:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fabf.png?v8" width="20"> | `:goose:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f7.png?v8" width="20"> | `:greece:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png?v8" width="20"> | `:green_circle:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e9.png?v8" width="20"> | `:green_square:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f1.png?v8" width="20"> | `:greenland:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e9.png?v8" width="20"> | `:grenada:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2755.png?v8" width="20"> | `:grey_exclamation:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2754.png?v8" width="20"> | `:grey_question:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62c.png?v8" width="20"> | `:grimacing:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f5.png?v8" width="20"> | `:guadeloupe:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1fa.png?v8" width="20"> | `:guam:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f482.png?v8" width="20"> | `:guard:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f9.png?v8" width="20"> | `:guatemala:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1ec.png?v8" width="20"> | `:guernsey:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f3.png?v8" width="20"> | `:guinea:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1fc.png?v8" width="20"> | `:guinea_bissau:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b8.png?v8" width="20"> | `:guitar:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52b.png?v8" width="20"> | `:gun:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1fe.png?v8" width="20"> | `:guyana:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faae.png?v8" width="20"> | `:hair_pick:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f487.png?v8" width="20"> | `:haircut:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f9.png?v8" width="20"> | `:haiti:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faac.png?v8" width="20"> | `:hamsa:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/270b.png?v8" width="20"> | `:hand:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f92d.png?v8" width="20"> | `:hand_over_mouth:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf0.png?v8" width="20"> | `:hand_with_index_finger_and_thumb_crossed:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45c.png?v8" width="20"> | `:handbag:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png?v8" width="20"> | `:handshake:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a9.png?v8" width="20"> | `:hankey:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/0023-20e3.png?v8" width="20"> | `:hash:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f425.png?v8" width="20"> | `:hatched_chick:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f423.png?v8" width="20"> | `:hatching_chick:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa6.png?v8" width="20"> | `:headstone:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-2695.png?v8" width="20"> | `:health_worker:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f649.png?v8" width="20"> | `:hear_no_evil:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png?v8" width="20"> | `:heavy_check_mark:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2797.png?v8" width="20"> | `:heavy_division_sign:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b2.png?v8" width="20"> | `:heavy_dollar_sign:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7f0.png?v8" width="20"> | `:heavy_equals_sign:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png?v8" width="20"> | `:heavy_exclamation_mark:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2796.png?v8" width="20"> | `:heavy_minus_sign:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2795.png?v8" width="20"> | `:heavy_plus_sign:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png?v8" width="20"> | `:herb:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33a.png?v8" width="20"> | `:hibiscus:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f506.png?v8" width="20"> | `:high_brightness:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f460.png?v8" width="20"> | `:high_heel:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f97e.png?v8" width="20"> | `:hiking_boot:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52a.png?v8" width="20"> | `:hocho:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f573.png?v8" width="20"> | `:hole:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f3.png?v8" width="20"> | `:honduras:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f0.png?v8" width="20"> | `:hong_kong:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9d.png?v8" width="20"> | `:hook:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2668.png?v8" width="20"> | `:hotsprings:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/231b.png?v8" width="20"> | `:hourglass:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png?v8" width="20"> | `:hourglass_flowing_sand:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f917.png?v8" width="20"> | `:hugs:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1fa.png?v8" width="20"> | `:hungary:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/hurtrealbad.png?v8" width="20"> | `:hurtrealbad:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d6.png?v8" width="20"> | `:hut:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fabb.png?v8" width="20"> | `:hyacinth:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ca.png?v8" width="20"> | `:ice_cube:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d2.png?v8" width="20"> | `:ice_hockey:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f8.png?v8" width="20"> | `:ice_skate:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f366.png?v8" width="20"> | `:icecream:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f8.png?v8" width="20"> | `:iceland:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f194.png?v8" width="20"> | `:id:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47f.png?v8" width="20"> | `:imp:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf5.png?v8" width="20"> | `:index_pointing_at_the_viewer:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png?v8" width="20"> | `:india:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="20"> | `:indonesia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png?v8" width="20"> | `:infinity:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2139.png?v8" width="20"> | `:information_source:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f607.png?v8" width="20"> | `:innocent:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2049.png?v8" width="20"> | `:interrobang:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f7.png?v8" width="20"> | `:iran:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f6.png?v8" width="20"> | `:iraq:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1ea.png?v8" width="20"> | `:ireland:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f1.png?v8" width="20"> | `:israel:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png?v8" width="20"> | `:it:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1f2.png?v8" width="20"> | `:jamaica:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5fe.png?v8" width="20"> | `:japan:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad9.png?v8" width="20"> | `:jar:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f456.png?v8" width="20"> | `:jeans:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1ea.png?v8" width="20"> | `:jersey:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e9.png?v8" width="20"> | `:jigsaw:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1f4.png?v8" width="20"> | `:jordan:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8" width="20"> | `:joy:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1f5.png?v8" width="20"> | `:jp:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-2696.png?v8" width="20"> | `:judge:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ff.png?v8" width="20"> | `:kazakhstan:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ea.png?v8" width="20"> | `:kenya:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png?v8" width="20"> | `:key:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51f.png?v8" width="20"> | `:keycap_ten:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faaf.png?v8" width="20"> | `:khanda:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f458.png?v8" width="20"> | `:kimono:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa81.png?v8" width="20"> | `:kite:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52a.png?v8" width="20"> | `:knife:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa2.png?v8" width="20"> | `:knot:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f428.png?v8" width="20"> | `:koala:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f201.png?v8" width="20"> | `:koko:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fd-1f1f0.png?v8" width="20"> | `:kosovo:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1f7.png?v8" width="20"> | `:kr:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1fc.png?v8" width="20"> | `:kuwait:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ec.png?v8" width="20"> | `:kyrgyzstan:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f97c.png?v8" width="20"> | `:lab_coat:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9c.png?v8" width="20"> | `:ladder:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1e6.png?v8" width="20"> | `:laos:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f535.png?v8" width="20"> | `:large_blue_circle:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" width="20"> | `:large_blue_diamond:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/271d.png?v8" width="20"> | `:latin_cross:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1fb.png?v8" width="20"> | `:latvia:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f343.png?v8" width="20"> | `:leaves:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1e7.png?v8" width="20"> | `:lebanon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c5.png?v8" width="20"> | `:left_luggage:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2194.png?v8" width="20"> | `:left_right_arrow:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5e8.png?v8" width="20"> | `:left_speech_bubble:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/21a9.png?v8" width="20"> | `:leftwards_arrow_with_hook:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf2.png?v8" width="20"> | `:leftwards_hand:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf7.png?v8" width="20"> | `:leftwards_pushing_hand:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b5.png?v8" width="20"> | `:leg:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/264c.png?v8" width="20"> | `:leo:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f406.png?v8" width="20"> | `:leopard:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1f8.png?v8" width="20"> | `:lesotho:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f39a.png?v8" width="20"> | `:level_slider:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1f7.png?v8" width="20"> | `:liberia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/264e.png?v8" width="20"> | `:libra:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1fe.png?v8" width="20"> | `:libya:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1ee.png?v8" width="20"> | `:liechtenstein:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f688.png?v8" width="20"> | `:light_rail:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png?v8" width="20"> | `:link:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f444.png?v8" width="20"> | `:lips:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f484.png?v8" width="20"> | `:lipstick:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1f9.png?v8" width="20"> | `:lithuania:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f999.png?v8" width="20"> | `:llama:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png?v8" width="20"> | `:lock:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa98.png?v8" width="20"> | `:long_drum:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/27bf.png?v8" width="20"> | `:loop:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f4.png?v8" width="20"> | `:lotion_bottle:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab7.png?v8" width="20"> | `:lotus:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8.png?v8" width="20"> | `:lotus_position:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50a.png?v8" width="20"> | `:loud_sound:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e2.png?v8" width="20"> | `:loudspeaker:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f505.png?v8" width="20"> | `:low_brightness:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f3.png?v8" width="20"> | `:luggage:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fac1.png?v8" width="20"> | `:lungs:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1fa.png?v8" width="20"> | `:luxembourg:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/24c2.png?v8" width="20"> | `:m:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f4.png?v8" width="20"> | `:macau:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f0.png?v8" width="20"> | `:macedonia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png?v8" width="20"> | `:mag:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50e.png?v8" width="20"> | `:mag_right:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d9.png?v8" width="20"> | `:mage:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa84.png?v8" width="20"> | `:magic_wand:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f004.png?v8" width="20"> | `:mahjong:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1fc.png?v8" width="20"> | `:malawi:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1fe.png?v8" width="20"> | `:malaysia:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1fb.png?v8" width="20"> | `:maldives:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f575-2642.png?v8" width="20"> | `:male_detective:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2642.png?v8" width="20"> | `:male_sign:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f1.png?v8" width="20"> | `:mali:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f9.png?v8" width="20"> | `:malta:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f341.png?v8" width="20"> | `:maple_leaf:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa87.png?v8" width="20"> | `:maracas:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f637.png?v8" width="20"> | `:mask:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f486.png?v8" width="20"> | `:massage:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c9.png?v8" width="20"> | `:mate:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f7.png?v8" width="20"> | `:mauritania:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1fa.png?v8" width="20"> | `:mauritius:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fe-1f1f9.png?v8" width="20"> | `:mayotte:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f527.png?v8" width="20"> | `:mechanic:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9be.png?v8" width="20"> | `:mechanical_arm:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9bf.png?v8" width="20"> | `:mechanical_leg:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2695.png?v8" width="20"> | `:medical_symbol:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e3.png?v8" width="20"> | `:mega:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93c-2642.png?v8" width="20"> | `:men_wrestling:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f54e.png?v8" width="20"> | `:menorah:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b9.png?v8" width="20"> | `:mens:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9dc-2640.png?v8" width="20"> | `:mermaid:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f918.png?v8" width="20"> | `:metal:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1fd.png?v8" width="20"> | `:mexico:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a0.png?v8" width="20"> | `:microbe:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f2.png?v8" width="20"> | `:micronesia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f595.png?v8" width="20"> | `:middle_finger:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa96.png?v8" width="20"> | `:military_helmet:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bd.png?v8" width="20"> | `:minidisc:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa9e.png?v8" width="20"> | `:mirror:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1e9.png?v8" width="20"> | `:moldova:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1e8.png?v8" width="20"> | `:monaco:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b8.png?v8" width="20"> | `:money_with_wings:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b0.png?v8" width="20"> | `:moneybag:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f3.png?v8" width="20"> | `:mongolia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1ea.png?v8" width="20"> | `:montenegro:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f8.png?v8" width="20"> | `:montserrat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1face.png?v8" width="20"> | `:moose:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1e6.png?v8" width="20"> | `:morocco:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png?v8" width="20"> | `:mortar_board:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cd.png?v8" width="20"> | `:motorcycle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9bc.png?v8" width="20"> | `:motorized_wheelchair:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5fb.png?v8" width="20"> | `:mount_fuji:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png?v8" width="20"> | `:movie_camera:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5ff.png?v8" width="20"> | `:moyai:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1ff.png?v8" width="20"> | `:mozambique:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f936.png?v8" width="20"> | `:mrs_claus:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8" width="20"> | `:muscle:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b5.png?v8" width="20"> | `:musical_note:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3bc.png?v8" width="20"> | `:musical_score:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f507.png?v8" width="20"> | `:mute:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f384.png?v8" width="20"> | `:mx_claus:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f2.png?v8" width="20"> | `:myanmar:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4db.png?v8" width="20"> | `:name_badge:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1e6.png?v8" width="20"> | `:namibia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3de.png?v8" width="20"> | `:national_park:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f7.png?v8" width="20"> | `:nauru:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ff.png?v8" width="20"> | `:nazar_amulet:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png?v8" width="20"> | `:necktie:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/274e.png?v8" width="20"> | `:negative_squared_cross_mark:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f5.png?v8" width="20"> | `:nepal:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa86.png?v8" width="20"> | `:nesting_dolls:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f1.png?v8" width="20"> | `:netherlands:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f195.png?v8" width="20"> | `:new:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1e8.png?v8" width="20"> | `:new_caledonia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1ff.png?v8" width="20"> | `:new_zealand:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23ed.png?v8" width="20"> | `:next_track_button:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f196.png?v8" width="20"> | `:ng:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1ea.png?v8" width="20"> | `:niger:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1ec.png?v8" width="20"> | `:nigeria:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/0039-20e3.png?v8" width="20"> | `:nine:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f977.png?v8" width="20"> | `:ninja:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1fa.png?v8" width="20"> | `:niue:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f515.png?v8" width="20"> | `:no_bell:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b3.png?v8" width="20"> | `:no_bicycles:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26d4.png?v8" width="20"> | `:no_entry:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png?v8" width="20"> | `:no_entry_sign:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f645.png?v8" width="20"> | `:no_good:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f636.png?v8" width="20"> | `:no_mouth:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b7.png?v8" width="20"> | `:no_pedestrians:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ad.png?v8" width="20"> | `:no_smoking:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1f5.png?v8" width="20"> | `:north_korea:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f4.png?v8" width="20"> | `:norway:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f443.png?v8" width="20"> | `:nose:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png?v8" width="20"> | `:notes:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b55.png?v8" width="20"> | `:o:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f17e.png?v8" width="20"> | `:o2:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f362.png?v8" width="20"> | `:oden:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e2.png?v8" width="20"> | `:oil_drum:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f197.png?v8" width="20"> | `:ok:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44c.png?v8" width="20"> | `:ok_hand:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5dd.png?v8" width="20"> | `:old_key:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d3.png?v8" width="20"> | `:older_adult:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f549.png?v8" width="20"> | `:om:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51b.png?v8" width="20"> | `:on:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f698.png?v8" width="20"> | `:oncoming_automobile:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8" width="20"> | `:one:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa71.png?v8" width="20"> | `:one_piece_swimsuit:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26ce.png?v8" width="20"> | `:ophiuchus:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2626.png?v8" width="20"> | `:orthodox_cross:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f402.png?v8" width="20"> | `:ox:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f58c.png?v8" width="20"> | `:paintbrush:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f0.png?v8" width="20"> | `:pakistan:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1fc.png?v8" width="20"> | `:palau:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f8.png?v8" width="20"> | `:palestinian_territories:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf3.png?v8" width="20"> | `:palm_down_hand:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png?v8" width="20"> | `:palm_tree:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf4.png?v8" width="20"> | `:palm_up_hand:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f932.png?v8" width="20"> | `:palms_up_together:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1e6.png?v8" width="20"> | `:panama:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1ec.png?v8" width="20"> | `:papua_new_guinea:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1fe.png?v8" width="20"> | `:paraguay:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f17f.png?v8" width="20"> | `:parking:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/23f8.png?v8" width="20"> | `:pause_button:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fadb.png?v8" width="20"> | `:pea_pod:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/262e.png?v8" width="20"> | `:peace_symbol:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1ea.png?v8" width="20"> | `:peru:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1ed.png?v8" width="20"> | `:philippines:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26cf.png?v8" width="20"> | `:pick:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f967.png?v8" width="20"> | `:pie:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f48a.png?v8" width="20"> | `:pill:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-2708.png?v8" width="20"> | `:pilot:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa85.png?v8" width="20"> | `:pinata:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f90c.png?v8" width="20"> | `:pinched_fingers:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f90f.png?v8" width="20"> | `:pinching_hand:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2653.png?v8" width="20"> | `:pisces:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f37d.png?v8" width="20"> | `:plate_with_cutlery:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/23ef.png?v8" width="20"> | `:play_or_pause_button:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6dd.png?v8" width="20"> | `:playground_slide:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa0.png?v8" width="20"> | `:plunger:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8" width="20"> | `:point_down:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f448.png?v8" width="20"> | `:point_left:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png?v8" width="20"> | `:point_right:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png?v8" width="20"> | `:point_up:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f446.png?v8" width="20"> | `:point_up_2:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f1.png?v8" width="20"> | `:poland:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f429.png?v8" width="20"> | `:poodle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a9.png?v8" width="20"> | `:poop:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f9.png?v8" width="20"> | `:portugal:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ef.png?v8" width="20"> | `:postal_horn:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ee.png?v8" width="20"> | `:postbox:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45d.png?v8" width="20"> | `:pouch:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b7.png?v8" width="20"> | `:pound:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad7.png?v8" width="20"> | `:pouring_liquid:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f621.png?v8" width="20"> | `:pout:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png?v8" width="20"> | `:pray:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ff.png?v8" width="20"> | `:prayer_beads:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23ee.png?v8" width="20"> | `:previous_track_button:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f934.png?v8" width="20"> | `:prince:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f478.png?v8" width="20"> | `:princess:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9af.png?v8" width="20"> | `:probing_cane:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f7.png?v8" width="20"> | `:puerto_rico:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png?v8" width="20"> | `:punch:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e3.png?v8" width="20"> | `:purple_circle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7ea.png?v8" width="20"> | `:purple_square:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45b.png?v8" width="20"> | `:purse:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ae.png?v8" width="20"> | `:put_litter_in_its_place:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f6-1f1e6.png?v8" width="20"> | `:qatar:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2753.png?v8" width="20"> | `:question:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f99d.png?v8" width="20"> | `:raccoon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fb.png?v8" width="20"> | `:radio:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f518.png?v8" width="20"> | `:radio_button:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2622.png?v8" width="20"> | `:radioactive:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f621.png?v8" width="20"> | `:rage:` | <img src="https://github.githubassets.com/images/icons/emoji/rage1.png?v8" width="20"> | `:rage1:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/rage2.png?v8" width="20"> | `:rage2:` | <img src="https://github.githubassets.com/images/icons/emoji/rage3.png?v8" width="20"> | `:rage3:` | <img src="https://github.githubassets.com/images/icons/emoji/rage4.png?v8" width="20"> | `:rage4:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91a.png?v8" width="20"> | `:raised_back_of_hand:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f928.png?v8" width="20"> | `:raised_eyebrow:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/270b.png?v8" width="20"> | `:raised_hand:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f590.png?v8" width="20"> | `:raised_hand_with_fingers_splayed:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png?v8" width="20"> | `:raised_hands:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b.png?v8" width="20"> | `:raising_hand:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40f.png?v8" width="20"> | `:ram:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f400.png?v8" width="20"> | `:rat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa92.png?v8" width="20"> | `:razor:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/23fa.png?v8" width="20"> | `:record_button:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/267b.png?v8" width="20"> | `:recycle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png?v8" width="20"> | `:red_circle:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e5.png?v8" width="20"> | `:red_square:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/00ae.png?v8" width="20"> | `:registered:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/263a.png?v8" width="20"> | `:relaxed:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f397.png?v8" width="20"> | `:reminder_ribbon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f501.png?v8" width="20"> | `:repeat:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f502.png?v8" width="20"> | `:repeat_one:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26d1.png?v8" width="20"> | `:rescue_worker_helmet:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6bb.png?v8" width="20"> | `:restroom:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1ea.png?v8" width="20"> | `:reunion:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f380.png?v8" width="20"> | `:ribbon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5ef.png?v8" width="20"> | `:right_anger_bubble:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf1.png?v8" width="20"> | `:rightwards_hand:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faf8.png?v8" width="20"> | `:rightwards_pushing_hand:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f48d.png?v8" width="20"> | `:ring:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6df.png?v8" width="20"> | `:ring_buoy:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa8.png?v8" width="20"> | `:rock:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f923.png?v8" width="20"> | `:rofl:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f644.png?v8" width="20"> | `:roll_eyes:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9fb.png?v8" width="20"> | `:roll_of_paper:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a2.png?v8" width="20"> | `:roller_coaster:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6fc.png?v8" width="20"> | `:roller_skate:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f413.png?v8" width="20"> | `:rooster:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f339.png?v8" width="20"> | `:rose:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f5.png?v8" width="20"> | `:rosette:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a8.png?v8" width="20"> | `:rotating_light:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1fa.png?v8" width="20"> | `:ru:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8" width="20"> | `:runner:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1fc.png?v8" width="20"> | `:rwanda:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f202.png?v8" width="20"> | `:sa:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f7.png?v8" width="20"> | `:safety_pin:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ba.png?v8" width="20"> | `:safety_vest:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2650.png?v8" width="20"> | `:sagittarius:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fc-1f1f8.png?v8" width="20"> | `:samoa:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f2.png?v8" width="20"> | `:san_marino:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f461.png?v8" width="20"> | `:sandal:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f9.png?v8" width="20"> | `:sao_tome_principe:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f97b.png?v8" width="20"> | `:sari:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f606.png?v8" width="20"> | `:satisfied:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1e6.png?v8" width="20"> | `:saudi_arabia:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f995.png?v8" width="20"> | `:sauropod:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f52c.png?v8" width="20"> | `:scientist:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/264f.png?v8" width="20"> | `:scorpius:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png?v8" width="20"> | `:scotland:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/3299.png?v8" width="20"> | `:secret:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f648.png?v8" width="20"> | `:see_no_evil:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png?v8" width="20"> | `:seedling:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f933.png?v8" width="20"> | `:selfie:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f3.png?v8" width="20"> | `:senegal:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1f8.png?v8" width="20"> | `:serbia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/0037-20e3.png?v8" width="20"> | `:seven:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa1.png?v8" width="20"> | `:sewing_needle:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1e8.png?v8" width="20"> | `:seychelles:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2618.png?v8" width="20"> | `:shamrock:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f988.png?v8" width="20"> | `:shark:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f367.png?v8" width="20"> | `:shaved_ice:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41a.png?v8" width="20"> | `:shell:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e1.png?v8" width="20"> | `:shield:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26e9.png?v8" width="20"> | `:shinto_shrine:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f455.png?v8" width="20"> | `:shirt:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a9.png?v8" width="20"> | `:shit:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f45e.png?v8" width="20"> | `:shoe:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6cd.png?v8" width="20"> | `:shopping:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa73.png?v8" width="20"> | `:shorts:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6bf.png?v8" width="20"> | `:shower:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f937.png?v8" width="20"> | `:shrug:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f1.png?v8" width="20"> | `:sierra_leone:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f6.png?v8" width="20"> | `:signal_strength:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ec.png?v8" width="20"> | `:singapore:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f3a4.png?v8" width="20"> | `:singer:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/0036-20e3.png?v8" width="20"> | `:six:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3bf.png?v8" width="20"> | `:ski:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26f7.png?v8" width="20"> | `:skier:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f480.png?v8" width="20"> | `:skull:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2620.png?v8" width="20"> | `:skull_and_crossbones:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f7.png?v8" width="20"> | `:sled:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f634.png?v8" width="20"> | `:sleeping:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6cc.png?v8" width="20"> | `:sleeping_bed:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f0.png?v8" width="20"> | `:slovakia:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png?v8" width="20"> | `:small_blue_diamond:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f53a.png?v8" width="20"> | `:small_red_triangle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f53b.png?v8" width="20"> | `:small_red_triangle_down:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f608.png?v8" width="20"> | `:smiling_imp:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ac.png?v8" width="20"> | `:smoking:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9fc.png?v8" width="20"> | `:soap:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e6.png?v8" width="20"> | `:socks:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f4.png?v8" width="20"> | `:somalia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51c.png?v8" width="20"> | `:soon:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f198.png?v8" width="20"> | `:sos:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f509.png?v8" width="20"> | `:sound:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ff-1f1e6.png?v8" width="20"> | `:south_africa:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f8.png?v8" width="20"> | `:south_sudan:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47e.png?v8" width="20"> | `:space_invader:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2660.png?v8" width="20"> | `:spades:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2747.png?v8" width="20"> | `:sparkle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f387.png?v8" width="20"> | `:sparkler:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png?v8" width="20"> | `:sparkles:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64a.png?v8" width="20"> | `:speak_no_evil:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f508.png?v8" width="20"> | `:speaker:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5e3.png?v8" width="20"> | `:speaking_head:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5d2.png?v8" width="20"> | `:spiral_notepad:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9fd.png?v8" width="20"> | `:sponge:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f944.png?v8" width="20"> | `:spoon:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1f0.png?v8" width="20"> | `:sri_lanka:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ed.png?v8" width="20"> | `:st_helena:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1f3.png?v8" width="20"> | `:st_kitts_nevis:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1e8.png?v8" width="20"> | `:st_lucia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f2.png?v8" width="20"> | `:st_pierre_miquelon:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1e8.png?v8" width="20"> | `:st_vincent_grenadines:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa7a.png?v8" width="20"> | `:stethoscope:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f372.png?v8" width="20"> | `:stew:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/23f9.png?v8" width="20"> | `:stop_button:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d1.png?v8" width="20"> | `:stop_sign:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/23f1.png?v8" width="20"> | `:stopwatch:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f61b.png?v8" width="20"> | `:stuck_out_tongue:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f61d.png?v8" width="20"> | `:stuck_out_tongue_closed_eyes:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f393.png?v8" width="20"> | `:student:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1e9.png?v8" width="20"> | `:sudan:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8.png?v8" width="20"> | `:superhero:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b9.png?v8" width="20"> | `:supervillain:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f7.png?v8" width="20"> | `:suriname:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/suspect.png?v8" width="20"> | `:suspect:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ef.png?v8" width="20"> | `:svalbard_jan_mayen:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9a2.png?v8" width="20"> | `:swan:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ff.png?v8" width="20"> | `:swaziland:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ea.png?v8" width="20"> | `:sweden:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa72.png?v8" width="20"> | `:swim_brief:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1ed.png?v8" width="20"> | `:switzerland:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f523.png?v8" width="20"> | `:symbols:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f54d.png?v8" width="20"> | `:synagogue:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1fe.png?v8" width="20"> | `:syria:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f489.png?v8" width="20"> | `:syringe:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f996.png?v8" width="20"> | `:t-rex:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png?v8" width="20"> | `:tada:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1fc.png?v8" width="20"> | `:taiwan:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1ef.png?v8" width="20"> | `:tajikistan:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f961.png?v8" width="20"> | `:takeout_box:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f34a.png?v8" width="20"> | `:tangerine:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1ff.png?v8" width="20"> | `:tanzania:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2649.png?v8" width="20"> | `:taurus:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png?v8" width="20"> | `:technologist:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1ed.png?v8" width="20"> | `:thailand:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa74.png?v8" width="20"> | `:thong_sandal:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f5.png?v8" width="20"> | `:thread:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/0033-20e3.png?v8" width="20"> | `:three:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44e.png?v8" width="20"> | `:thumbsdown:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png?v8" width="20"> | `:thumbsup:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/23f2.png?v8" width="20"> | `:timer_clock:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f1.png?v8" width="20"> | `:timor_leste:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2122.png?v8" width="20"> | `:tm:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1ec.png?v8" width="20"> | `:togo:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6bd.png?v8" width="20"> | `:toilet:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f0.png?v8" width="20"> | `:tokelau:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5fc.png?v8" width="20"> | `:tokyo_tower:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f4.png?v8" width="20"> | `:tonga:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f445.png?v8" width="20"> | `:tongue:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b7.png?v8" width="20"> | `:tooth:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa5.png?v8" width="20"> | `:toothbrush:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51d.png?v8" width="20"> | `:top:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a9.png?v8" width="20"> | `:tophat:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f7.png?v8" width="20"> | `:tr:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a5.png?v8" width="20"> | `:traffic_light:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f68a.png?v8" width="20"> | `:tram:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/26a7.png?v8" width="20"> | `:transgender_symbol:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f531.png?v8" width="20"> | `:trident:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f9.png?v8" width="20"> | `:trinidad_tobago:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1e6.png?v8" width="20"> | `:tristan_da_cunha:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f624.png?v8" width="20"> | `:triumph:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cc.png?v8" width="20"> | `:troll:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ba.png?v8" width="20"> | `:trumpet:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f455.png?v8" width="20"> | `:tshirt:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f337.png?v8" width="20"> | `:tulip:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f943.png?v8" width="20"> | `:tumbler_glass:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f3.png?v8" width="20"> | `:tunisia:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f983.png?v8" width="20"> | `:turkey:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f2.png?v8" width="20"> | `:turkmenistan:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1fb.png?v8" width="20"> | `:tuvalu:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png?v8" width="20"> | `:tv:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f500.png?v8" width="20"> | `:twisted_rightwards_arrows:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8" width="20"> | `:two:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f239.png?v8" width="20"> | `:u5272:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f234.png?v8" width="20"> | `:u5408:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f23a.png?v8" width="20"> | `:u55b6:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f22f.png?v8" width="20"> | `:u6307:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f237.png?v8" width="20"> | `:u6708:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f236.png?v8" width="20"> | `:u6709:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f235.png?v8" width="20"> | `:u6e80:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f21a.png?v8" width="20"> | `:u7121:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f238.png?v8" width="20"> | `:u7533:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f232.png?v8" width="20"> | `:u7981:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f233.png?v8" width="20"> | `:u7a7a:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1ec.png?v8" width="20"> | `:uganda:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8" width="20"> | `:uk:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f51e.png?v8" width="20"> | `:underage:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1ea.png?v8" width="20"> | `:united_arab_emirates:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f3.png?v8" width="20"> | `:united_nations:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f513.png?v8" width="20"> | `:unlock:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f199.png?v8" width="20"> | `:up:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1fe.png?v8" width="20"> | `:uruguay:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8" width="20"> | `:us:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1ff.png?v8" width="20"> | `:uzbekistan:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png?v8" width="20"> | `:v:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9db.png?v8" width="20"> | `:vampire:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1fa.png?v8" width="20"> | `:vanuatu:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1e6.png?v8" width="20"> | `:vatican_city:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1ea.png?v8" width="20"> | `:venezuela:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a6.png?v8" width="20"> | `:vertical_traffic_light:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fc.png?v8" width="20"> | `:vhs:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f3.png?v8" width="20"> | `:vibration_mode:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f9.png?v8" width="20"> | `:video_camera:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1f3.png?v8" width="20"> | `:vietnam:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3bb.png?v8" width="20"> | `:violin:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/264d.png?v8" width="20"> | `:virgo:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f19a.png?v8" width="20"> | `:vs:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f596.png?v8" width="20"> | `:vulcan_salute:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png?v8" width="20"> | `:wales:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b6.png?v8" width="20"> | `:walking:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fc-1f1eb.png?v8" width="20"> | `:wallis_futuna:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png?v8" width="20"> | `:warning:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/231a.png?v8" width="20"> | `:watch:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/3030.png?v8" width="20"> | `:wavy_dash:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6be.png?v8" width="20"> | `:wc:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1ed.png?v8" width="20"> | `:western_sahara:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6de.png?v8" width="20"> | `:wheel:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2638.png?v8" width="20"> | `:wheel_of_dharma:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/267f.png?v8" width="20"> | `:wheelchair:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png?v8" width="20"> | `:white_check_mark:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/26aa.png?v8" width="20"> | `:white_circle:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ae.png?v8" width="20"> | `:white_flower:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/2b1c.png?v8" width="20"> | `:white_large_square:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/25fd.png?v8" width="20"> | `:white_medium_small_square:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/25fb.png?v8" width="20"> | `:white_medium_square:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/25ab.png?v8" width="20"> | `:white_small_square:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f533.png?v8" width="20"> | `:white_square_button:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f940.png?v8" width="20"> | `:wilted_flower:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fabd.png?v8" width="20"> | `:wing:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6dc.png?v8" width="20"> | `:wireless:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93c-2640.png?v8" width="20"> | `:women_wrestling:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ba.png?v8" width="20"> | `:womens:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab5.png?v8" width="20"> | `:wood:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fab1.png?v8" width="20"> | `:worm:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f93c.png?v8" width="20"> | `:wrestling:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png?v8" width="20"> | `:writing_hand:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png?v8" width="20"> | `:x:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa7b.png?v8" width="20"> | `:x_ray:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f6.png?v8" width="20"> | `:yarn:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e1.png?v8" width="20"> | `:yellow_circle:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e8.png?v8" width="20"> | `:yellow_square:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fe-1f1ea.png?v8" width="20"> | `:yemen:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b4.png?v8" width="20"> | `:yen:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/262f.png?v8" width="20"> | `:yin_yang:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fa80.png?v8" width="20"> | `:yo_yo:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ff-1f1f2.png?v8" width="20"> | `:zambia:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f993.png?v8" width="20"> | `:zebra:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/0030-20e3.png?v8" width="20"> | `:zero:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ff-1f1fc.png?v8" width="20"> | `:zimbabwe:` |
+| <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9df.png?v8" width="20"> | `:zombie:` | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a4.png?v8" width="20"> | `:zzz:` |  |  |
+
