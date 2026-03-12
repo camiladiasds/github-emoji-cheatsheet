@@ -134,8 +134,13 @@ function render(emojis) {
       });
     });
 
+    const hint = document.createElement("span");
+    hint.className = "copy-hint";
+    hint.textContent = "click to copy";
+
     card.appendChild(img);
     card.appendChild(code);
+    card.appendChild(hint);
     grid.appendChild(card);
   });
 }
